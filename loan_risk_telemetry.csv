@@ -1,0 +1,1501 @@
+Application_ID,City,Employment_Type,Loan_Purpose,Monthly_Income_PKR,Requested_Amount_PKR,Debt_to_Income_Percent,Model_Risk_Tier,Final_Loan_Status,Top_SHAP_Feature_Driver
+APP-800000,Multan,Salaried Individual,Debt Consolidation,255100,2156130,31.75,Low Risk,Performing,Employment Duration
+APP-800001,Karachi,Salaried Individual,Small Business Expansion,62013,1202351,147.02,Medium Risk,Defaulted,Debt-to-Income Ratio
+APP-800002,Islamabad,Self-Employed Professional,Home Renovation,249901,1649288,23.24,Low Risk,Performing,Employment Duration
+APP-800003,Lahore,Business Owner,Educational Loan,312867,284383,32.59,Low Risk,Performing,Income Variance
+APP-800004,Faisalabad,Salaried Individual,Home Renovation,143879,946697,18.64,Medium Risk,Performing,Prior Credit History
+APP-800005,Lahore,Salaried Individual,Debt Consolidation,223828,2481571,32.99,Low Risk,Performing,Employment Duration
+APP-800006,Multan,Salaried Individual,Small Business Expansion,222712,2336654,20.18,Medium Risk,Performing,Prior Credit History
+APP-800007,Lahore,Business Owner,Debt Consolidation,225742,1775920,44.6,Low Risk,Performing,Income Variance
+APP-800008,Islamabad,Business Owner,Small Business Expansion,157981,241083,50.83,Low Risk,Defaulted,Prior Credit History
+APP-800009,Rawalpindi,Business Owner,Small Business Expansion,225031,1173030,33.31,Low Risk,Performing,Prior Credit History
+APP-800010,Karachi,Business Owner,Home Renovation,146887,2456523,27.72,Medium Risk,Performing,Prior Credit History
+APP-800011,Lahore,Business Owner,Home Renovation,165482,1752192,9.67,Low Risk,Performing,Income Variance
+APP-800012,Islamabad,Unemployed/Freelance,Home Renovation,132736,1873956,60.26,Low Risk,Performing,Income Variance
+APP-800013,Rawalpindi,Self-Employed Professional,Educational Loan,271079,2352655,13.45,Low Risk,Performing,Prior Credit History
+APP-800014,Karachi,Salaried Individual,Debt Consolidation,226766,2135950,8.74,Low Risk,Defaulted,Debt-to-Income Ratio
+APP-800015,Faisalabad,Business Owner,Educational Loan,319938,1371436,20.94,Medium Risk,Performing,Debt-to-Income Ratio
+APP-800016,Lahore,Salaried Individual,Debt Consolidation,71406,1608931,129.13,Low Risk,Performing,Debt-to-Income Ratio
+APP-800017,Faisalabad,Salaried Individual,Home Renovation,76141,2001157,47.49,High Risk,Performing,Prior Credit History
+APP-800018,Multan,Unemployed/Freelance,Home Renovation,121265,736319,89.92,Low Risk,Defaulted,Employment Duration
+APP-800019,Karachi,Salaried Individual,Debt Consolidation,258935,509151,42.88,Medium Risk,Performing,Employment Duration
+APP-800020,Rawalpindi,Unemployed/Freelance,Debt Consolidation,326993,1033963,31.89,Low Risk,Performing,Prior Credit History
+APP-800021,Rawalpindi,Business Owner,Educational Loan,297392,790777,27.35,Low Risk,Performing,Prior Credit History
+APP-800022,Karachi,Unemployed/Freelance,Small Business Expansion,230834,1782017,9.54,Low Risk,Performing,Income Variance
+APP-800023,Karachi,Business Owner,Educational Loan,112522,2328181,96.27,Low Risk,Defaulted,Prior Credit History
+APP-800024,Faisalabad,Business Owner,Educational Loan,220085,1262306,49.83,Low Risk,Performing,Income Variance
+APP-800025,Multan,Business Owner,Small Business Expansion,144660,2495538,31.69,High Risk,Performing,Debt-to-Income Ratio
+APP-800026,Islamabad,Unemployed/Freelance,Debt Consolidation,338784,1541390,35.26,High Risk,Performing,Prior Credit History
+APP-800027,Lahore,Salaried Individual,Home Renovation,215458,1410896,9.55,Low Risk,Performing,Prior Credit History
+APP-800028,Karachi,Salaried Individual,Educational Loan,64869,2039299,179.56,Low Risk,Defaulted,Prior Credit History
+APP-800029,Islamabad,Salaried Individual,Home Renovation,136548,2057908,78.96,Low Risk,Defaulted,Prior Credit History
+APP-800030,Multan,Unemployed/Freelance,Small Business Expansion,270736,560522,23.43,Low Risk,Performing,Prior Credit History
+APP-800031,Karachi,Self-Employed Professional,Educational Loan,131986,2353724,38.78,Medium Risk,Performing,Income Variance
+APP-800032,Rawalpindi,Self-Employed Professional,Home Renovation,75119,814312,37.83,Low Risk,Performing,Prior Credit History
+APP-800033,Lahore,Salaried Individual,Educational Loan,206684,1598457,31.26,Low Risk,Performing,Employment Duration
+APP-800034,Rawalpindi,Unemployed/Freelance,Home Renovation,194872,1446912,15.38,Low Risk,Performing,Prior Credit History
+APP-800035,Rawalpindi,Unemployed/Freelance,Small Business Expansion,302767,2087199,24.56,Medium Risk,Performing,Prior Credit History
+APP-800036,Multan,Business Owner,Educational Loan,92236,684474,56.44,Low Risk,Performing,Prior Credit History
+APP-800037,Multan,Salaried Individual,Small Business Expansion,287847,1527738,11.73,Medium Risk,Performing,Employment Duration
+APP-800038,Rawalpindi,Unemployed/Freelance,Debt Consolidation,137188,947844,65.92,Medium Risk,Defaulted,Prior Credit History
+APP-800039,Islamabad,Self-Employed Professional,Educational Loan,262735,1828861,24.63,Low Risk,Performing,Prior Credit History
+APP-800040,Rawalpindi,Unemployed/Freelance,Small Business Expansion,215577,818328,52.92,High Risk,Defaulted,Debt-to-Income Ratio
+APP-800041,Rawalpindi,Self-Employed Professional,Small Business Expansion,87875,2110171,124.13,Low Risk,Defaulted,Employment Duration
+APP-800042,Islamabad,Business Owner,Small Business Expansion,337053,1841688,8.66,Low Risk,Performing,Prior Credit History
+APP-800043,Karachi,Salaried Individual,Debt Consolidation,90678,477000,89.73,Medium Risk,Defaulted,Employment Duration
+APP-800044,Islamabad,Unemployed/Freelance,Small Business Expansion,339491,1132343,31.36,High Risk,Defaulted,Employment Duration
+APP-800045,Faisalabad,Business Owner,Home Renovation,261067,502180,13.47,Low Risk,Performing,Prior Credit History
+APP-800046,Islamabad,Unemployed/Freelance,Home Renovation,66313,2133136,106.84,Medium Risk,Defaulted,Employment Duration
+APP-800047,Multan,Salaried Individual,Small Business Expansion,45628,510167,175.62,Medium Risk,Defaulted,Income Variance
+APP-800048,Faisalabad,Business Owner,Home Renovation,50041,504409,105.01,Low Risk,Defaulted,Employment Duration
+APP-800049,Multan,Salaried Individual,Educational Loan,172350,1052247,12.71,Low Risk,Performing,Debt-to-Income Ratio
+APP-800050,Rawalpindi,Self-Employed Professional,Educational Loan,295822,736217,38.14,Low Risk,Performing,Debt-to-Income Ratio
+APP-800051,Karachi,Business Owner,Debt Consolidation,214480,2083908,21.99,Low Risk,Performing,Employment Duration
+APP-800052,Multan,Business Owner,Home Renovation,144055,279473,31.93,High Risk,Defaulted,Income Variance
+APP-800053,Multan,Self-Employed Professional,Debt Consolidation,283448,330537,22.85,Low Risk,Performing,Debt-to-Income Ratio
+APP-800054,Faisalabad,Unemployed/Freelance,Small Business Expansion,318623,2158154,25.97,Low Risk,Defaulted,Income Variance
+APP-800055,Lahore,Business Owner,Debt Consolidation,221158,1194929,43.59,Low Risk,Performing,Employment Duration
+APP-800056,Rawalpindi,Self-Employed Professional,Debt Consolidation,61154,2364865,160.65,High Risk,Performing,Income Variance
+APP-800057,Islamabad,Unemployed/Freelance,Educational Loan,89285,1785579,95.83,Medium Risk,Performing,Employment Duration
+APP-800058,Rawalpindi,Business Owner,Home Renovation,184530,2422133,50.57,Medium Risk,Defaulted,Income Variance
+APP-800059,Lahore,Self-Employed Professional,Home Renovation,243257,1986019,28.81,High Risk,Defaulted,Income Variance
+APP-800060,Islamabad,Self-Employed Professional,Small Business Expansion,45173,867268,142.97,Medium Risk,Performing,Debt-to-Income Ratio
+APP-800061,Lahore,Unemployed/Freelance,Home Renovation,167471,1586651,33.04,Low Risk,Performing,Income Variance
+APP-800062,Karachi,Unemployed/Freelance,Home Renovation,176572,1656171,17.44,Low Risk,Performing,Employment Duration
+APP-800063,Faisalabad,Self-Employed Professional,Educational Loan,131667,2041754,44.31,Medium Risk,Performing,Income Variance
+APP-800064,Karachi,Unemployed/Freelance,Home Renovation,188236,2297408,17.52,Low Risk,Performing,Debt-to-Income Ratio
+APP-800065,Rawalpindi,Business Owner,Home Renovation,292169,853636,11.94,Low Risk,Performing,Employment Duration
+APP-800066,Multan,Salaried Individual,Debt Consolidation,241016,1638498,18.8,Low Risk,Performing,Employment Duration
+APP-800067,Islamabad,Business Owner,Debt Consolidation,238451,2273064,34.18,High Risk,Defaulted,Employment Duration
+APP-800068,Rawalpindi,Salaried Individual,Home Renovation,172044,1768165,49.48,Low Risk,Performing,Prior Credit History
+APP-800069,Karachi,Business Owner,Home Renovation,286585,1164905,20.25,Low Risk,Performing,Employment Duration
+APP-800070,Lahore,Unemployed/Freelance,Educational Loan,154066,466908,26.3,High Risk,Defaulted,Income Variance
+APP-800071,Faisalabad,Salaried Individual,Educational Loan,104366,429790,14.64,Low Risk,Performing,Income Variance
+APP-800072,Multan,Business Owner,Small Business Expansion,306552,952373,5.2,Low Risk,Defaulted,Income Variance
+APP-800073,Multan,Salaried Individual,Debt Consolidation,65478,2265708,165.71,Medium Risk,Defaulted,Income Variance
+APP-800074,Karachi,Self-Employed Professional,Debt Consolidation,117205,2319447,61.96,Low Risk,Defaulted,Employment Duration
+APP-800075,Multan,Business Owner,Small Business Expansion,152167,2059377,42.72,High Risk,Defaulted,Prior Credit History
+APP-800076,Faisalabad,Unemployed/Freelance,Home Renovation,298607,324314,19.81,Low Risk,Performing,Debt-to-Income Ratio
+APP-800077,Faisalabad,Self-Employed Professional,Home Renovation,137867,1910057,35.35,High Risk,Defaulted,Income Variance
+APP-800078,Karachi,Unemployed/Freelance,Home Renovation,96795,659913,33.78,Medium Risk,Performing,Prior Credit History
+APP-800079,Karachi,Unemployed/Freelance,Small Business Expansion,323814,789556,5.66,Low Risk,Performing,Employment Duration
+APP-800080,Rawalpindi,Business Owner,Small Business Expansion,47606,2334494,66.31,Low Risk,Defaulted,Debt-to-Income Ratio
+APP-800081,Islamabad,Unemployed/Freelance,Educational Loan,341798,701445,12.18,Medium Risk,Performing,Prior Credit History
+APP-800082,Faisalabad,Business Owner,Educational Loan,72033,553821,92.85,Low Risk,Performing,Income Variance
+APP-800083,Karachi,Business Owner,Debt Consolidation,300909,644695,39.83,Low Risk,Performing,Income Variance
+APP-800084,Lahore,Salaried Individual,Educational Loan,47116,1251243,244.63,Low Risk,Defaulted,Income Variance
+APP-800085,Multan,Self-Employed Professional,Home Renovation,109301,731405,54.01,Medium Risk,Defaulted,Income Variance
+APP-800086,Lahore,Salaried Individual,Educational Loan,292701,1910048,36.79,Low Risk,Performing,Prior Credit History
+APP-800087,Multan,Unemployed/Freelance,Home Renovation,297838,2009419,10.84,Medium Risk,Performing,Debt-to-Income Ratio
+APP-800088,Islamabad,Salaried Individual,Home Renovation,236163,1643968,35.34,Medium Risk,Performing,Employment Duration
+APP-800089,Multan,Self-Employed Professional,Home Renovation,232469,2144015,11.43,High Risk,Defaulted,Employment Duration
+APP-800090,Karachi,Self-Employed Professional,Small Business Expansion,312622,1886351,28.66,Low Risk,Performing,Employment Duration
+APP-800091,Karachi,Self-Employed Professional,Debt Consolidation,278307,1826835,14.18,High Risk,Performing,Employment Duration
+APP-800092,Lahore,Unemployed/Freelance,Home Renovation,305997,1047977,30.18,Low Risk,Performing,Debt-to-Income Ratio
+APP-800093,Rawalpindi,Self-Employed Professional,Educational Loan,265550,1039095,34.58,Medium Risk,Performing,Employment Duration
+APP-800094,Faisalabad,Salaried Individual,Debt Consolidation,181388,1553695,54.68,Low Risk,Defaulted,Income Variance
+APP-800095,Karachi,Business Owner,Debt Consolidation,346659,1911698,30.93,Low Risk,Performing,Employment Duration
+APP-800096,Faisalabad,Unemployed/Freelance,Small Business Expansion,154275,1044099,68.99,High Risk,Defaulted,Income Variance
+APP-800097,Multan,Salaried Individual,Debt Consolidation,138403,1449313,51.36,Low Risk,Defaulted,Income Variance
+APP-800098,Lahore,Salaried Individual,Debt Consolidation,97712,489561,97.15,Medium Risk,Performing,Income Variance
+APP-800099,Islamabad,Salaried Individual,Debt Consolidation,201532,1989384,32.04,High Risk,Performing,Debt-to-Income Ratio
+APP-800100,Faisalabad,Unemployed/Freelance,Home Renovation,226734,1741920,34.49,Medium Risk,Defaulted,Debt-to-Income Ratio
+APP-800101,Multan,Salaried Individual,Educational Loan,47588,2296080,154.21,Low Risk,Performing,Debt-to-Income Ratio
+APP-800102,Islamabad,Self-Employed Professional,Educational Loan,258616,1736313,24.37,Medium Risk,Defaulted,Prior Credit History
+APP-800103,Lahore,Business Owner,Educational Loan,317687,403868,37.42,Low Risk,Performing,Prior Credit History
+APP-800104,Rawalpindi,Salaried Individual,Small Business Expansion,310889,138935,37.94,Low Risk,Performing,Prior Credit History
+APP-800105,Islamabad,Self-Employed Professional,Home Renovation,261508,1257616,41.5,Low Risk,Performing,Employment Duration
+APP-800106,Karachi,Salaried Individual,Small Business Expansion,333812,1732531,5.29,Medium Risk,Performing,Income Variance
+APP-800107,Karachi,Unemployed/Freelance,Educational Loan,247936,1984333,31.86,Medium Risk,Performing,Employment Duration
+APP-800108,Rawalpindi,Self-Employed Professional,Small Business Expansion,150062,465648,35.38,Low Risk,Performing,Employment Duration
+APP-800109,Islamabad,Business Owner,Debt Consolidation,158696,447091,54.28,Medium Risk,Performing,Employment Duration
+APP-800110,Lahore,Unemployed/Freelance,Debt Consolidation,154855,1996936,39.12,Medium Risk,Performing,Debt-to-Income Ratio
+APP-800111,Karachi,Unemployed/Freelance,Educational Loan,239562,885037,10.66,Low Risk,Performing,Debt-to-Income Ratio
+APP-800112,Faisalabad,Self-Employed Professional,Debt Consolidation,68966,1608730,57.76,Low Risk,Defaulted,Prior Credit History
+APP-800113,Lahore,Salaried Individual,Debt Consolidation,200429,1153963,25.36,High Risk,Defaulted,Employment Duration
+APP-800114,Faisalabad,Business Owner,Small Business Expansion,49349,1428678,214.3,High Risk,Defaulted,Debt-to-Income Ratio
+APP-800115,Islamabad,Business Owner,Educational Loan,344245,2128287,28.31,Medium Risk,Performing,Employment Duration
+APP-800116,Islamabad,Self-Employed Professional,Home Renovation,244323,1193024,36.35,Low Risk,Performing,Prior Credit History
+APP-800117,Rawalpindi,Salaried Individual,Debt Consolidation,100236,719716,37.47,Low Risk,Performing,Income Variance
+APP-800118,Multan,Self-Employed Professional,Educational Loan,149645,1502575,61.2,Low Risk,Defaulted,Employment Duration
+APP-800119,Multan,Self-Employed Professional,Educational Loan,293538,1441341,33.31,Medium Risk,Performing,Employment Duration
+APP-800120,Rawalpindi,Salaried Individual,Home Renovation,292467,1390215,24.97,High Risk,Performing,Income Variance
+APP-800121,Faisalabad,Unemployed/Freelance,Debt Consolidation,133744,408652,56.64,High Risk,Defaulted,Prior Credit History
+APP-800122,Lahore,Self-Employed Professional,Small Business Expansion,304683,2467228,15.83,Low Risk,Performing,Income Variance
+APP-800123,Multan,Salaried Individual,Small Business Expansion,284543,1193114,20.07,Low Risk,Performing,Debt-to-Income Ratio
+APP-800124,Faisalabad,Self-Employed Professional,Small Business Expansion,329079,1471532,20.88,High Risk,Performing,Income Variance
+APP-800125,Multan,Self-Employed Professional,Small Business Expansion,211489,2096116,15.5,Low Risk,Performing,Prior Credit History
+APP-800126,Rawalpindi,Unemployed/Freelance,Educational Loan,341465,1810889,31.58,High Risk,Defaulted,Employment Duration
+APP-800127,Lahore,Salaried Individual,Educational Loan,231340,1688371,32.14,Low Risk,Performing,Debt-to-Income Ratio
+APP-800128,Lahore,Business Owner,Home Renovation,277507,2062715,18.59,High Risk,Defaulted,Employment Duration
+APP-800129,Islamabad,Unemployed/Freelance,Small Business Expansion,246155,826154,30.3,Low Risk,Defaulted,Employment Duration
+APP-800130,Islamabad,Self-Employed Professional,Home Renovation,285635,2433842,15.63,Medium Risk,Performing,Debt-to-Income Ratio
+APP-800131,Multan,Self-Employed Professional,Home Renovation,71038,556264,165.85,Low Risk,Defaulted,Debt-to-Income Ratio
+APP-800132,Lahore,Business Owner,Small Business Expansion,337202,1137549,20.5,High Risk,Performing,Debt-to-Income Ratio
+APP-800133,Multan,Business Owner,Small Business Expansion,242958,107312,15.93,Medium Risk,Performing,Debt-to-Income Ratio
+APP-800134,Rawalpindi,Self-Employed Professional,Debt Consolidation,335477,1851558,34.75,Low Risk,Performing,Income Variance
+APP-800135,Islamabad,Salaried Individual,Debt Consolidation,71744,967416,132.83,Medium Risk,Performing,Income Variance
+APP-800136,Islamabad,Self-Employed Professional,Home Renovation,67718,1984863,165.98,High Risk,Performing,Employment Duration
+APP-800137,Rawalpindi,Salaried Individual,Small Business Expansion,268176,2185369,38.42,Low Risk,Performing,Debt-to-Income Ratio
+APP-800138,Karachi,Salaried Individual,Home Renovation,73022,1198595,30.35,Medium Risk,Performing,Debt-to-Income Ratio
+APP-800139,Rawalpindi,Self-Employed Professional,Debt Consolidation,150574,1138751,34.24,Medium Risk,Performing,Employment Duration
+APP-800140,Lahore,Unemployed/Freelance,Small Business Expansion,201239,1152187,35.91,High Risk,Defaulted,Income Variance
+APP-800141,Multan,Self-Employed Professional,Small Business Expansion,244960,1562804,23.12,Low Risk,Defaulted,Prior Credit History
+APP-800142,Islamabad,Business Owner,Debt Consolidation,262711,733120,31.55,Low Risk,Defaulted,Employment Duration
+APP-800143,Islamabad,Unemployed/Freelance,Small Business Expansion,160376,707721,55.21,Low Risk,Defaulted,Prior Credit History
+APP-800144,Faisalabad,Unemployed/Freelance,Educational Loan,95186,2234185,38.34,Low Risk,Performing,Prior Credit History
+APP-800145,Karachi,Salaried Individual,Small Business Expansion,56703,1085084,97.31,Low Risk,Defaulted,Employment Duration
+APP-800146,Karachi,Unemployed/Freelance,Educational Loan,119397,423866,13.76,Medium Risk,Performing,Employment Duration
+APP-800147,Rawalpindi,Business Owner,Small Business Expansion,116793,1089398,25.29,Low Risk,Performing,Debt-to-Income Ratio
+APP-800148,Multan,Self-Employed Professional,Home Renovation,289146,1295464,26.24,Medium Risk,Performing,Debt-to-Income Ratio
+APP-800149,Faisalabad,Business Owner,Small Business Expansion,108366,1872884,95.51,Medium Risk,Defaulted,Income Variance
+APP-800150,Karachi,Unemployed/Freelance,Small Business Expansion,134265,1600676,57.97,Low Risk,Defaulted,Employment Duration
+APP-800151,Rawalpindi,Salaried Individual,Small Business Expansion,88643,1959604,87.98,Low Risk,Defaulted,Prior Credit History
+APP-800152,Faisalabad,Self-Employed Professional,Small Business Expansion,294643,283536,11.6,Medium Risk,Performing,Debt-to-Income Ratio
+APP-800153,Karachi,Salaried Individual,Educational Loan,161128,2374481,73.98,Low Risk,Defaulted,Income Variance
+APP-800154,Lahore,Unemployed/Freelance,Debt Consolidation,86693,1012712,114.41,Medium Risk,Defaulted,Income Variance
+APP-800155,Karachi,Self-Employed Professional,Small Business Expansion,166012,652861,15.4,Low Risk,Defaulted,Income Variance
+APP-800156,Karachi,Salaried Individual,Small Business Expansion,249181,1579183,22.41,Low Risk,Performing,Employment Duration
+APP-800157,Karachi,Business Owner,Educational Loan,265798,1616739,40.93,Medium Risk,Performing,Income Variance
+APP-800158,Karachi,Self-Employed Professional,Home Renovation,337869,2356426,14.73,Low Risk,Performing,Debt-to-Income Ratio
+APP-800159,Islamabad,Salaried Individual,Educational Loan,297046,635474,14.61,Low Risk,Performing,Employment Duration
+APP-800160,Lahore,Unemployed/Freelance,Educational Loan,203237,1246339,58.35,Low Risk,Performing,Income Variance
+APP-800161,Lahore,Self-Employed Professional,Home Renovation,142847,1299753,15.43,Medium Risk,Performing,Debt-to-Income Ratio
+APP-800162,Karachi,Self-Employed Professional,Debt Consolidation,224062,1874187,43.3,High Risk,Performing,Income Variance
+APP-800163,Karachi,Unemployed/Freelance,Debt Consolidation,157096,2002069,53.7,Low Risk,Defaulted,Prior Credit History
+APP-800164,Multan,Self-Employed Professional,Small Business Expansion,320160,268732,21.89,Low Risk,Performing,Income Variance
+APP-800165,Islamabad,Self-Employed Professional,Educational Loan,114024,1934889,82.48,Low Risk,Performing,Prior Credit History
+APP-800166,Lahore,Unemployed/Freelance,Debt Consolidation,58995,760317,166.58,Low Risk,Defaulted,Prior Credit History
+APP-800167,Rawalpindi,Self-Employed Professional,Debt Consolidation,326620,1888371,24.67,Low Risk,Defaulted,Prior Credit History
+APP-800168,Lahore,Business Owner,Home Renovation,193308,1675893,15.06,High Risk,Performing,Prior Credit History
+APP-800169,Multan,Self-Employed Professional,Small Business Expansion,136139,191241,53.82,Low Risk,Defaulted,Income Variance
+APP-800170,Rawalpindi,Business Owner,Educational Loan,160061,2112382,67.21,Low Risk,Defaulted,Income Variance
+APP-800171,Lahore,Salaried Individual,Educational Loan,272983,1275980,6.39,Low Risk,Performing,Prior Credit History
+APP-800172,Karachi,Unemployed/Freelance,Educational Loan,177611,1101471,48.34,Low Risk,Performing,Employment Duration
+APP-800173,Islamabad,Unemployed/Freelance,Debt Consolidation,85153,1642441,114.77,Medium Risk,Defaulted,Employment Duration
+APP-800174,Islamabad,Self-Employed Professional,Small Business Expansion,126838,766579,85.49,Low Risk,Defaulted,Income Variance
+APP-800175,Karachi,Unemployed/Freelance,Small Business Expansion,211580,2453070,45.11,Low Risk,Performing,Employment Duration
+APP-800176,Lahore,Salaried Individual,Small Business Expansion,295747,1594166,29.84,Medium Risk,Performing,Debt-to-Income Ratio
+APP-800177,Karachi,Self-Employed Professional,Educational Loan,157763,493464,71.54,Low Risk,Defaulted,Prior Credit History
+APP-800178,Faisalabad,Unemployed/Freelance,Debt Consolidation,246853,116345,24.4,Low Risk,Performing,Employment Duration
+APP-800179,Rawalpindi,Business Owner,Home Renovation,71206,1731992,133.88,High Risk,Defaulted,Employment Duration
+APP-800180,Multan,Unemployed/Freelance,Home Renovation,345432,1943355,25.33,Low Risk,Performing,Prior Credit History
+APP-800181,Islamabad,Salaried Individual,Educational Loan,190564,2424587,32.66,Low Risk,Performing,Debt-to-Income Ratio
+APP-800182,Islamabad,Business Owner,Small Business Expansion,292567,1820272,17.64,High Risk,Defaulted,Income Variance
+APP-800183,Karachi,Unemployed/Freelance,Home Renovation,318665,1010329,4.89,High Risk,Performing,Employment Duration
+APP-800184,Faisalabad,Salaried Individual,Debt Consolidation,292469,1756235,38.97,Low Risk,Defaulted,Employment Duration
+APP-800185,Faisalabad,Salaried Individual,Small Business Expansion,315616,334287,37.19,Low Risk,Defaulted,Income Variance
+APP-800186,Islamabad,Salaried Individual,Debt Consolidation,243301,869624,7.7,Low Risk,Performing,Prior Credit History
+APP-800187,Lahore,Business Owner,Home Renovation,236356,2333254,20.82,Low Risk,Performing,Employment Duration
+APP-800188,Lahore,Business Owner,Small Business Expansion,143184,2490752,38.76,Medium Risk,Defaulted,Employment Duration
+APP-800189,Karachi,Unemployed/Freelance,Debt Consolidation,149378,477178,29.03,Medium Risk,Performing,Income Variance
+APP-800190,Multan,Business Owner,Educational Loan,110613,1131837,83.64,Low Risk,Defaulted,Debt-to-Income Ratio
+APP-800191,Lahore,Self-Employed Professional,Debt Consolidation,198706,265461,30.71,Medium Risk,Performing,Debt-to-Income Ratio
+APP-800192,Rawalpindi,Unemployed/Freelance,Home Renovation,209521,2467937,48.79,Medium Risk,Performing,Prior Credit History
+APP-800193,Islamabad,Business Owner,Home Renovation,89784,2161917,53.04,Low Risk,Defaulted,Employment Duration
+APP-800194,Rawalpindi,Business Owner,Home Renovation,211954,1272935,47.7,Medium Risk,Performing,Employment Duration
+APP-800195,Multan,Salaried Individual,Debt Consolidation,251088,175205,20.33,High Risk,Defaulted,Prior Credit History
+APP-800196,Karachi,Self-Employed Professional,Educational Loan,107961,971807,68.47,Low Risk,Performing,Debt-to-Income Ratio
+APP-800197,Multan,Salaried Individual,Small Business Expansion,152863,2436765,63.44,Low Risk,Performing,Prior Credit History
+APP-800198,Islamabad,Self-Employed Professional,Home Renovation,86035,2086858,18.19,High Risk,Defaulted,Employment Duration
+APP-800199,Islamabad,Business Owner,Home Renovation,291780,1326423,38.48,Medium Risk,Performing,Debt-to-Income Ratio
+APP-800200,Rawalpindi,Salaried Individual,Debt Consolidation,97086,806186,57.36,Low Risk,Performing,Debt-to-Income Ratio
+APP-800201,Faisalabad,Salaried Individual,Small Business Expansion,201561,2387897,27.91,Low Risk,Performing,Employment Duration
+APP-800202,Faisalabad,Self-Employed Professional,Educational Loan,321569,1609025,5.25,Low Risk,Performing,Debt-to-Income Ratio
+APP-800203,Multan,Business Owner,Educational Loan,327519,2474642,28.74,Low Risk,Defaulted,Debt-to-Income Ratio
+APP-800204,Multan,Salaried Individual,Small Business Expansion,172113,2491783,46.32,High Risk,Defaulted,Prior Credit History
+APP-800205,Faisalabad,Salaried Individual,Small Business Expansion,157971,1695046,44.7,Low Risk,Performing,Employment Duration
+APP-800206,Karachi,Unemployed/Freelance,Debt Consolidation,216740,2383302,41.56,High Risk,Defaulted,Prior Credit History
+APP-800207,Rawalpindi,Unemployed/Freelance,Home Renovation,262175,467956,36.76,Medium Risk,Performing,Employment Duration
+APP-800208,Multan,Salaried Individual,Educational Loan,348446,2249374,10.64,Low Risk,Performing,Prior Credit History
+APP-800209,Faisalabad,Salaried Individual,Small Business Expansion,319287,1064008,36.57,Medium Risk,Performing,Prior Credit History
+APP-800210,Islamabad,Unemployed/Freelance,Home Renovation,94698,305674,82.47,Medium Risk,Performing,Income Variance
+APP-800211,Multan,Business Owner,Educational Loan,183018,1238252,27.92,Low Risk,Performing,Employment Duration
+APP-800212,Islamabad,Business Owner,Debt Consolidation,86196,2125970,29.07,Low Risk,Performing,Debt-to-Income Ratio
+APP-800213,Islamabad,Business Owner,Home Renovation,52972,526570,101.91,Low Risk,Performing,Employment Duration
+APP-800214,Karachi,Self-Employed Professional,Small Business Expansion,272882,1953702,20.27,Low Risk,Performing,Employment Duration
+APP-800215,Karachi,Business Owner,Debt Consolidation,232928,834119,26.11,Low Risk,Performing,Employment Duration
+APP-800216,Islamabad,Unemployed/Freelance,Educational Loan,344233,110050,17.6,Medium Risk,Performing,Income Variance
+APP-800217,Karachi,Unemployed/Freelance,Educational Loan,113578,1900499,21.84,Low Risk,Performing,Employment Duration
+APP-800218,Lahore,Business Owner,Educational Loan,224786,151545,37.12,Low Risk,Performing,Employment Duration
+APP-800219,Lahore,Salaried Individual,Small Business Expansion,164435,2204457,15.35,Medium Risk,Defaulted,Prior Credit History
+APP-800220,Multan,Business Owner,Home Renovation,178240,2418553,8.65,Low Risk,Performing,Employment Duration
+APP-800221,Multan,Unemployed/Freelance,Home Renovation,195600,725433,57.86,Low Risk,Defaulted,Debt-to-Income Ratio
+APP-800222,Karachi,Self-Employed Professional,Debt Consolidation,207927,546369,27.66,Medium Risk,Performing,Income Variance
+APP-800223,Multan,Unemployed/Freelance,Debt Consolidation,255092,1099095,13.51,High Risk,Performing,Income Variance
+APP-800224,Multan,Unemployed/Freelance,Debt Consolidation,218563,409378,36.84,Low Risk,Defaulted,Debt-to-Income Ratio
+APP-800225,Karachi,Unemployed/Freelance,Educational Loan,143497,2493475,42.85,Medium Risk,Performing,Employment Duration
+APP-800226,Rawalpindi,Unemployed/Freelance,Educational Loan,108086,632286,80.59,Low Risk,Performing,Employment Duration
+APP-800227,Islamabad,Unemployed/Freelance,Educational Loan,248252,1784779,43.02,Low Risk,Performing,Prior Credit History
+APP-800228,Karachi,Unemployed/Freelance,Educational Loan,61749,2152735,162.25,Low Risk,Defaulted,Employment Duration
+APP-800229,Karachi,Unemployed/Freelance,Home Renovation,136370,1439714,14.02,Low Risk,Performing,Prior Credit History
+APP-800230,Faisalabad,Business Owner,Home Renovation,177507,578601,57.7,Low Risk,Defaulted,Income Variance
+APP-800231,Karachi,Self-Employed Professional,Home Renovation,317645,749169,11.28,Medium Risk,Performing,Prior Credit History
+APP-800232,Multan,Salaried Individual,Home Renovation,203760,2247618,21.14,High Risk,Defaulted,Prior Credit History
+APP-800233,Rawalpindi,Business Owner,Debt Consolidation,346347,358863,11.73,Low Risk,Performing,Debt-to-Income Ratio
+APP-800234,Multan,Salaried Individual,Debt Consolidation,315504,1964991,24.35,Low Risk,Performing,Income Variance
+APP-800235,Rawalpindi,Self-Employed Professional,Small Business Expansion,310613,2376258,8.01,Low Risk,Performing,Prior Credit History
+APP-800236,Rawalpindi,Salaried Individual,Debt Consolidation,225720,2104506,41.86,Low Risk,Performing,Income Variance
+APP-800237,Karachi,Self-Employed Professional,Home Renovation,94781,478989,102.5,Low Risk,Performing,Debt-to-Income Ratio
+APP-800238,Lahore,Self-Employed Professional,Small Business Expansion,189256,991199,35.79,Low Risk,Performing,Debt-to-Income Ratio
+APP-800239,Karachi,Business Owner,Educational Loan,72410,1315984,161.22,High Risk,Defaulted,Prior Credit History
+APP-800240,Rawalpindi,Unemployed/Freelance,Small Business Expansion,66738,820118,153.94,Medium Risk,Defaulted,Employment Duration
+APP-800241,Multan,Unemployed/Freelance,Small Business Expansion,231677,1303888,6.52,Low Risk,Performing,Debt-to-Income Ratio
+APP-800242,Lahore,Unemployed/Freelance,Debt Consolidation,292955,1516681,16.6,Low Risk,Performing,Prior Credit History
+APP-800243,Rawalpindi,Salaried Individual,Debt Consolidation,173679,211785,59.03,Low Risk,Defaulted,Debt-to-Income Ratio
+APP-800244,Karachi,Business Owner,Small Business Expansion,123048,1772868,61.55,High Risk,Performing,Debt-to-Income Ratio
+APP-800245,Rawalpindi,Business Owner,Debt Consolidation,162602,913171,29.57,Low Risk,Performing,Debt-to-Income Ratio
+APP-800246,Lahore,Business Owner,Debt Consolidation,149141,1503978,44.27,Low Risk,Performing,Debt-to-Income Ratio
+APP-800247,Rawalpindi,Unemployed/Freelance,Debt Consolidation,99212,1974228,28.82,Low Risk,Performing,Employment Duration
+APP-800248,Rawalpindi,Unemployed/Freelance,Debt Consolidation,132231,846318,65.87,Low Risk,Defaulted,Debt-to-Income Ratio
+APP-800249,Rawalpindi,Salaried Individual,Educational Loan,305953,1132279,17.98,High Risk,Performing,Income Variance
+APP-800250,Faisalabad,Salaried Individual,Educational Loan,142155,1886740,28.42,Medium Risk,Performing,Income Variance
+APP-800251,Lahore,Unemployed/Freelance,Home Renovation,197202,1713635,46.89,Low Risk,Performing,Income Variance
+APP-800252,Islamabad,Self-Employed Professional,Debt Consolidation,49187,1271613,135.32,Medium Risk,Defaulted,Employment Duration
+APP-800253,Rawalpindi,Self-Employed Professional,Small Business Expansion,63617,2479011,144.6,High Risk,Performing,Income Variance
+APP-800254,Faisalabad,Business Owner,Debt Consolidation,234022,2313293,28.55,High Risk,Performing,Income Variance
+APP-800255,Lahore,Salaried Individual,Educational Loan,145376,1429422,44.96,Medium Risk,Performing,Prior Credit History
+APP-800256,Islamabad,Business Owner,Small Business Expansion,293427,1015217,10.88,High Risk,Performing,Debt-to-Income Ratio
+APP-800257,Rawalpindi,Unemployed/Freelance,Debt Consolidation,299866,2167992,20.2,Low Risk,Defaulted,Debt-to-Income Ratio
+APP-800258,Faisalabad,Self-Employed Professional,Small Business Expansion,186249,1620581,44.47,Low Risk,Performing,Income Variance
+APP-800259,Karachi,Salaried Individual,Small Business Expansion,64286,2494787,32.32,High Risk,Defaulted,Debt-to-Income Ratio
+APP-800260,Lahore,Unemployed/Freelance,Home Renovation,293656,2219832,12.3,Low Risk,Performing,Employment Duration
+APP-800261,Lahore,Salaried Individual,Educational Loan,275180,1570486,11.88,High Risk,Performing,Prior Credit History
+APP-800262,Multan,Self-Employed Professional,Home Renovation,196474,551221,50.64,Medium Risk,Defaulted,Income Variance
+APP-800263,Lahore,Self-Employed Professional,Debt Consolidation,329082,1259749,30.71,Low Risk,Performing,Prior Credit History
+APP-800264,Faisalabad,Salaried Individual,Debt Consolidation,48717,114594,198.79,Low Risk,Performing,Income Variance
+APP-800265,Multan,Business Owner,Educational Loan,107903,1898076,19.48,Medium Risk,Performing,Employment Duration
+APP-800266,Multan,Self-Employed Professional,Educational Loan,236901,2076077,49.31,High Risk,Defaulted,Debt-to-Income Ratio
+APP-800267,Lahore,Self-Employed Professional,Small Business Expansion,216192,1543942,54.97,Medium Risk,Performing,Income Variance
+APP-800268,Faisalabad,Self-Employed Professional,Educational Loan,205571,1486048,18.96,Medium Risk,Performing,Debt-to-Income Ratio
+APP-800269,Rawalpindi,Unemployed/Freelance,Home Renovation,337933,1337159,9.57,Low Risk,Performing,Debt-to-Income Ratio
+APP-800270,Islamabad,Salaried Individual,Home Renovation,324025,1210855,20.7,High Risk,Defaulted,Prior Credit History
+APP-800271,Multan,Salaried Individual,Home Renovation,251824,2281752,47.58,Low Risk,Performing,Income Variance
+APP-800272,Faisalabad,Salaried Individual,Educational Loan,85869,2278212,134.88,Medium Risk,Defaulted,Prior Credit History
+APP-800273,Lahore,Salaried Individual,Educational Loan,204105,659905,10.34,Low Risk,Performing,Income Variance
+APP-800274,Rawalpindi,Unemployed/Freelance,Home Renovation,281997,376602,16.34,Low Risk,Performing,Debt-to-Income Ratio
+APP-800275,Karachi,Unemployed/Freelance,Small Business Expansion,109793,499025,45.87,Low Risk,Performing,Income Variance
+APP-800276,Rawalpindi,Unemployed/Freelance,Educational Loan,345161,2233643,9.59,Low Risk,Performing,Income Variance
+APP-800277,Rawalpindi,Business Owner,Small Business Expansion,237542,1060687,7.98,High Risk,Defaulted,Employment Duration
+APP-800278,Faisalabad,Business Owner,Debt Consolidation,80735,749130,50.06,Low Risk,Defaulted,Income Variance
+APP-800279,Multan,Business Owner,Home Renovation,302252,206761,32.58,Medium Risk,Performing,Debt-to-Income Ratio
+APP-800280,Lahore,Unemployed/Freelance,Small Business Expansion,321175,606190,31.17,Medium Risk,Performing,Employment Duration
+APP-800281,Karachi,Unemployed/Freelance,Educational Loan,101234,235570,32.82,Low Risk,Defaulted,Employment Duration
+APP-800282,Lahore,Self-Employed Professional,Educational Loan,323215,726392,28.84,Low Risk,Performing,Employment Duration
+APP-800283,Rawalpindi,Unemployed/Freelance,Debt Consolidation,173825,543024,44.72,Low Risk,Performing,Debt-to-Income Ratio
+APP-800284,Karachi,Salaried Individual,Home Renovation,165191,782902,69.15,High Risk,Defaulted,Employment Duration
+APP-800285,Lahore,Unemployed/Freelance,Educational Loan,342993,166965,30.04,Low Risk,Performing,Debt-to-Income Ratio
+APP-800286,Multan,Self-Employed Professional,Small Business Expansion,207985,1639265,14.26,Low Risk,Performing,Employment Duration
+APP-800287,Islamabad,Business Owner,Debt Consolidation,280945,505578,28.61,High Risk,Performing,Prior Credit History
+APP-800288,Karachi,Salaried Individual,Home Renovation,269693,2026321,14.74,Low Risk,Performing,Prior Credit History
+APP-800289,Islamabad,Self-Employed Professional,Small Business Expansion,264615,1739833,39.37,Low Risk,Performing,Debt-to-Income Ratio
+APP-800290,Lahore,Unemployed/Freelance,Debt Consolidation,88375,1629068,43.44,Low Risk,Performing,Income Variance
+APP-800291,Islamabad,Self-Employed Professional,Debt Consolidation,122526,2342188,91.99,Low Risk,Defaulted,Income Variance
+APP-800292,Rawalpindi,Self-Employed Professional,Debt Consolidation,81481,448449,25.99,Medium Risk,Performing,Income Variance
+APP-800293,Rawalpindi,Salaried Individual,Debt Consolidation,49619,1306613,49.16,Low Risk,Performing,Prior Credit History
+APP-800294,Multan,Business Owner,Home Renovation,53684,191069,128.97,Low Risk,Defaulted,Employment Duration
+APP-800295,Rawalpindi,Business Owner,Small Business Expansion,198441,844052,22.32,Low Risk,Performing,Employment Duration
+APP-800296,Islamabad,Business Owner,Home Renovation,112806,2194308,39.14,Low Risk,Performing,Employment Duration
+APP-800297,Faisalabad,Salaried Individual,Home Renovation,223905,376345,43.21,High Risk,Defaulted,Income Variance
+APP-800298,Faisalabad,Salaried Individual,Home Renovation,228163,1993931,21.43,Medium Risk,Performing,Employment Duration
+APP-800299,Lahore,Unemployed/Freelance,Debt Consolidation,235613,1813534,49.05,Low Risk,Defaulted,Employment Duration
+APP-800300,Karachi,Self-Employed Professional,Home Renovation,70651,1341465,54.31,Low Risk,Defaulted,Income Variance
+APP-800301,Rawalpindi,Salaried Individual,Small Business Expansion,52159,1045240,194.89,Low Risk,Defaulted,Debt-to-Income Ratio
+APP-800302,Karachi,Salaried Individual,Small Business Expansion,111608,2328082,51.28,Low Risk,Defaulted,Employment Duration
+APP-800303,Lahore,Business Owner,Home Renovation,93111,1121410,110.01,Low Risk,Defaulted,Prior Credit History
+APP-800304,Lahore,Salaried Individual,Debt Consolidation,212621,678424,12.28,Low Risk,Performing,Employment Duration
+APP-800305,Karachi,Unemployed/Freelance,Home Renovation,186840,929759,62.79,Low Risk,Performing,Debt-to-Income Ratio
+APP-800306,Rawalpindi,Business Owner,Small Business Expansion,277152,2134867,30.84,Medium Risk,Defaulted,Prior Credit History
+APP-800307,Multan,Salaried Individual,Home Renovation,184422,1498129,10.89,High Risk,Performing,Employment Duration
+APP-800308,Multan,Unemployed/Freelance,Home Renovation,101809,2330343,32.4,Low Risk,Performing,Prior Credit History
+APP-800309,Rawalpindi,Unemployed/Freelance,Debt Consolidation,339276,528086,34.76,Medium Risk,Performing,Prior Credit History
+APP-800310,Islamabad,Salaried Individual,Small Business Expansion,68767,987872,87.8,Low Risk,Defaulted,Employment Duration
+APP-800311,Lahore,Salaried Individual,Educational Loan,50870,1065321,67.42,Low Risk,Defaulted,Employment Duration
+APP-800312,Lahore,Unemployed/Freelance,Educational Loan,299553,1594743,5.35,Medium Risk,Performing,Debt-to-Income Ratio
+APP-800313,Faisalabad,Self-Employed Professional,Home Renovation,214379,195799,51.19,Low Risk,Performing,Employment Duration
+APP-800314,Multan,Salaried Individual,Small Business Expansion,293831,638936,35.57,Low Risk,Performing,Debt-to-Income Ratio
+APP-800315,Karachi,Unemployed/Freelance,Debt Consolidation,70375,305831,124.6,Medium Risk,Performing,Prior Credit History
+APP-800316,Lahore,Self-Employed Professional,Educational Loan,342331,382374,34.05,Low Risk,Performing,Debt-to-Income Ratio
+APP-800317,Karachi,Unemployed/Freelance,Small Business Expansion,315880,1383544,26.92,Low Risk,Performing,Employment Duration
+APP-800318,Islamabad,Self-Employed Professional,Educational Loan,285480,967680,32.12,Low Risk,Performing,Income Variance
+APP-800319,Lahore,Unemployed/Freelance,Debt Consolidation,231896,411149,11.76,Low Risk,Performing,Prior Credit History
+APP-800320,Faisalabad,Unemployed/Freelance,Small Business Expansion,95638,180437,22.09,Low Risk,Performing,Employment Duration
+APP-800321,Lahore,Self-Employed Professional,Educational Loan,181450,814672,22.74,Low Risk,Performing,Income Variance
+APP-800322,Multan,Self-Employed Professional,Debt Consolidation,300560,158678,22.09,Low Risk,Performing,Debt-to-Income Ratio
+APP-800323,Islamabad,Business Owner,Small Business Expansion,186583,192653,13.55,Low Risk,Performing,Income Variance
+APP-800324,Karachi,Unemployed/Freelance,Small Business Expansion,224226,755088,23.79,Medium Risk,Performing,Debt-to-Income Ratio
+APP-800325,Multan,Business Owner,Educational Loan,51603,440574,45.54,Low Risk,Performing,Employment Duration
+APP-800326,Lahore,Unemployed/Freelance,Home Renovation,66010,1108458,124.4,Low Risk,Performing,Employment Duration
+APP-800327,Faisalabad,Business Owner,Debt Consolidation,120950,811417,30.11,Low Risk,Performing,Debt-to-Income Ratio
+APP-800328,Rawalpindi,Self-Employed Professional,Small Business Expansion,289757,167861,9.53,Low Risk,Performing,Prior Credit History
+APP-800329,Faisalabad,Unemployed/Freelance,Home Renovation,313205,2090820,22.08,Medium Risk,Performing,Income Variance
+APP-800330,Faisalabad,Self-Employed Professional,Home Renovation,120433,2060616,71.51,Low Risk,Performing,Employment Duration
+APP-800331,Lahore,Self-Employed Professional,Debt Consolidation,180210,1770481,33.89,Medium Risk,Performing,Income Variance
+APP-800332,Rawalpindi,Self-Employed Professional,Educational Loan,225203,1288746,51.68,Low Risk,Defaulted,Debt-to-Income Ratio
+APP-800333,Multan,Unemployed/Freelance,Small Business Expansion,241135,1064057,48.46,Low Risk,Performing,Income Variance
+APP-800334,Faisalabad,Business Owner,Debt Consolidation,60898,719395,73.24,Low Risk,Defaulted,Income Variance
+APP-800335,Rawalpindi,Salaried Individual,Home Renovation,83815,2471804,141.75,Low Risk,Performing,Debt-to-Income Ratio
+APP-800336,Lahore,Salaried Individual,Home Renovation,254588,1182317,36.99,Low Risk,Performing,Prior Credit History
+APP-800337,Karachi,Unemployed/Freelance,Debt Consolidation,176486,110805,25.65,Low Risk,Performing,Employment Duration
+APP-800338,Karachi,Business Owner,Small Business Expansion,159072,545540,42.7,Low Risk,Performing,Debt-to-Income Ratio
+APP-800339,Rawalpindi,Salaried Individual,Small Business Expansion,136961,1817312,38.56,High Risk,Performing,Employment Duration
+APP-800340,Karachi,Salaried Individual,Home Renovation,299361,1541377,21.65,Medium Risk,Performing,Employment Duration
+APP-800341,Islamabad,Self-Employed Professional,Educational Loan,64401,1538924,179.45,Low Risk,Defaulted,Debt-to-Income Ratio
+APP-800342,Faisalabad,Salaried Individual,Debt Consolidation,175902,2345097,48.79,High Risk,Defaulted,Income Variance
+APP-800343,Rawalpindi,Self-Employed Professional,Home Renovation,142782,2285025,41.55,Low Risk,Performing,Income Variance
+APP-800344,Multan,Salaried Individual,Debt Consolidation,151279,1385287,47.74,Medium Risk,Performing,Debt-to-Income Ratio
+APP-800345,Multan,Self-Employed Professional,Small Business Expansion,188055,869254,23.83,Low Risk,Performing,Debt-to-Income Ratio
+APP-800346,Lahore,Unemployed/Freelance,Educational Loan,230735,1604815,45.52,Low Risk,Performing,Debt-to-Income Ratio
+APP-800347,Karachi,Salaried Individual,Debt Consolidation,114837,1803305,23.1,Low Risk,Performing,Income Variance
+APP-800348,Faisalabad,Salaried Individual,Educational Loan,241281,203731,47.99,Low Risk,Performing,Debt-to-Income Ratio
+APP-800349,Islamabad,Self-Employed Professional,Home Renovation,281981,2217986,21.04,Low Risk,Performing,Debt-to-Income Ratio
+APP-800350,Multan,Self-Employed Professional,Debt Consolidation,216356,2007046,13.76,Low Risk,Defaulted,Employment Duration
+APP-800351,Islamabad,Salaried Individual,Small Business Expansion,77840,162819,43.79,Low Risk,Performing,Prior Credit History
+APP-800352,Islamabad,Business Owner,Educational Loan,148837,1401535,26.02,Low Risk,Performing,Income Variance
+APP-800353,Lahore,Salaried Individual,Small Business Expansion,311170,1290922,33.55,Low Risk,Performing,Income Variance
+APP-800354,Multan,Self-Employed Professional,Small Business Expansion,149090,185445,13.44,Low Risk,Performing,Debt-to-Income Ratio
+APP-800355,Karachi,Business Owner,Home Renovation,245983,2353475,33.29,Medium Risk,Performing,Employment Duration
+APP-800356,Karachi,Business Owner,Small Business Expansion,125844,1054466,79.52,Low Risk,Defaulted,Debt-to-Income Ratio
+APP-800357,Karachi,Business Owner,Home Renovation,124705,1800925,70.08,Low Risk,Performing,Prior Credit History
+APP-800358,Karachi,Salaried Individual,Home Renovation,217153,243261,31.64,Medium Risk,Performing,Prior Credit History
+APP-800359,Lahore,Business Owner,Debt Consolidation,164943,385099,42.4,Low Risk,Performing,Debt-to-Income Ratio
+APP-800360,Faisalabad,Unemployed/Freelance,Educational Loan,304593,1691203,32.37,High Risk,Defaulted,Employment Duration
+APP-800361,Faisalabad,Self-Employed Professional,Home Renovation,87936,1952965,67.8,Low Risk,Performing,Employment Duration
+APP-800362,Faisalabad,Business Owner,Small Business Expansion,303204,1255180,28.95,Low Risk,Performing,Income Variance
+APP-800363,Karachi,Business Owner,Debt Consolidation,176279,598234,33.99,Low Risk,Performing,Prior Credit History
+APP-800364,Multan,Business Owner,Debt Consolidation,88130,424421,84.37,Low Risk,Defaulted,Debt-to-Income Ratio
+APP-800365,Islamabad,Self-Employed Professional,Small Business Expansion,263865,1545254,11.53,Low Risk,Performing,Employment Duration
+APP-800366,Karachi,Unemployed/Freelance,Debt Consolidation,326812,1180890,27.82,Medium Risk,Performing,Income Variance
+APP-800367,Islamabad,Business Owner,Educational Loan,324231,925068,7.18,Low Risk,Performing,Income Variance
+APP-800368,Rawalpindi,Self-Employed Professional,Home Renovation,279229,375185,27.84,Low Risk,Performing,Income Variance
+APP-800369,Lahore,Salaried Individual,Debt Consolidation,151074,1896472,19.23,Low Risk,Performing,Income Variance
+APP-800370,Rawalpindi,Salaried Individual,Home Renovation,50251,2221465,107.49,Low Risk,Defaulted,Employment Duration
+APP-800371,Lahore,Self-Employed Professional,Home Renovation,253581,1369118,23.27,Medium Risk,Performing,Employment Duration
+APP-800372,Lahore,Business Owner,Small Business Expansion,118959,1128787,45.33,Low Risk,Performing,Income Variance
+APP-800373,Lahore,Business Owner,Educational Loan,110093,1190840,106.15,Low Risk,Defaulted,Debt-to-Income Ratio
+APP-800374,Faisalabad,Salaried Individual,Educational Loan,164791,1985483,54.9,High Risk,Defaulted,Income Variance
+APP-800375,Rawalpindi,Unemployed/Freelance,Home Renovation,321924,2390952,17.03,Low Risk,Performing,Prior Credit History
+APP-800376,Multan,Salaried Individual,Home Renovation,153981,1261061,30.45,Medium Risk,Performing,Income Variance
+APP-800377,Lahore,Self-Employed Professional,Debt Consolidation,310765,948646,26.63,Low Risk,Performing,Employment Duration
+APP-800378,Karachi,Unemployed/Freelance,Small Business Expansion,191234,1157041,50.3,Medium Risk,Defaulted,Employment Duration
+APP-800379,Lahore,Self-Employed Professional,Educational Loan,340503,255996,32.4,High Risk,Performing,Income Variance
+APP-800380,Faisalabad,Salaried Individual,Educational Loan,232250,1204487,12.87,Low Risk,Performing,Income Variance
+APP-800381,Faisalabad,Self-Employed Professional,Home Renovation,209004,1919083,25.65,Low Risk,Performing,Debt-to-Income Ratio
+APP-800382,Islamabad,Business Owner,Educational Loan,78325,1330089,126.24,Low Risk,Defaulted,Prior Credit History
+APP-800383,Faisalabad,Self-Employed Professional,Small Business Expansion,275037,1338821,31.76,Medium Risk,Performing,Income Variance
+APP-800384,Multan,Salaried Individual,Educational Loan,259566,2206276,13.67,Low Risk,Performing,Income Variance
+APP-800385,Islamabad,Salaried Individual,Small Business Expansion,277811,1032548,33.46,Low Risk,Performing,Debt-to-Income Ratio
+APP-800386,Islamabad,Self-Employed Professional,Home Renovation,317611,471074,21.97,Low Risk,Performing,Employment Duration
+APP-800387,Multan,Salaried Individual,Debt Consolidation,57808,2364219,115.14,Medium Risk,Defaulted,Income Variance
+APP-800388,Karachi,Self-Employed Professional,Home Renovation,224191,525834,49.28,Low Risk,Performing,Employment Duration
+APP-800389,Rawalpindi,Business Owner,Debt Consolidation,255037,1154107,39.98,Medium Risk,Performing,Income Variance
+APP-800390,Multan,Salaried Individual,Small Business Expansion,70107,1130911,171.0,Medium Risk,Defaulted,Employment Duration
+APP-800391,Faisalabad,Self-Employed Professional,Home Renovation,304873,928123,13.87,Low Risk,Performing,Employment Duration
+APP-800392,Faisalabad,Salaried Individual,Debt Consolidation,341394,983620,11.96,Low Risk,Performing,Debt-to-Income Ratio
+APP-800393,Islamabad,Business Owner,Home Renovation,332875,115820,10.47,Low Risk,Performing,Employment Duration
+APP-800394,Faisalabad,Self-Employed Professional,Small Business Expansion,83722,569274,63.12,Low Risk,Performing,Prior Credit History
+APP-800395,Karachi,Self-Employed Professional,Small Business Expansion,220780,1031409,17.63,Low Risk,Performing,Employment Duration
+APP-800396,Lahore,Salaried Individual,Small Business Expansion,159665,2252456,26.27,Low Risk,Performing,Employment Duration
+APP-800397,Multan,Salaried Individual,Home Renovation,110308,883981,39.72,Low Risk,Performing,Employment Duration
+APP-800398,Karachi,Self-Employed Professional,Debt Consolidation,169325,1305604,53.93,High Risk,Defaulted,Prior Credit History
+APP-800399,Multan,Unemployed/Freelance,Debt Consolidation,91783,1069743,58.22,Medium Risk,Performing,Prior Credit History
+APP-800400,Multan,Salaried Individual,Small Business Expansion,106415,371865,106.81,Medium Risk,Defaulted,Employment Duration
+APP-800401,Faisalabad,Unemployed/Freelance,Small Business Expansion,101265,1471451,39.36,Low Risk,Performing,Employment Duration
+APP-800402,Multan,Unemployed/Freelance,Home Renovation,210491,2109996,31.44,Low Risk,Performing,Prior Credit History
+APP-800403,Lahore,Unemployed/Freelance,Small Business Expansion,318603,2152904,36.74,High Risk,Performing,Income Variance
+APP-800404,Islamabad,Unemployed/Freelance,Debt Consolidation,75585,1244685,145.1,Low Risk,Defaulted,Prior Credit History
+APP-800405,Multan,Salaried Individual,Debt Consolidation,179546,1299499,59.31,High Risk,Performing,Prior Credit History
+APP-800406,Lahore,Unemployed/Freelance,Educational Loan,220880,1121182,14.95,Low Risk,Performing,Debt-to-Income Ratio
+APP-800407,Islamabad,Business Owner,Educational Loan,52977,1164872,178.1,High Risk,Defaulted,Debt-to-Income Ratio
+APP-800408,Multan,Self-Employed Professional,Educational Loan,209535,1217301,46.81,Low Risk,Performing,Prior Credit History
+APP-800409,Lahore,Unemployed/Freelance,Home Renovation,161103,578841,17.01,Low Risk,Performing,Employment Duration
+APP-800410,Lahore,Salaried Individual,Debt Consolidation,165983,1221433,70.83,Medium Risk,Defaulted,Income Variance
+APP-800411,Multan,Self-Employed Professional,Small Business Expansion,142600,1411059,38.64,Low Risk,Performing,Employment Duration
+APP-800412,Faisalabad,Unemployed/Freelance,Home Renovation,70521,510197,157.95,Low Risk,Performing,Income Variance
+APP-800413,Karachi,Self-Employed Professional,Home Renovation,238039,235924,49.12,Low Risk,Performing,Income Variance
+APP-800414,Faisalabad,Salaried Individual,Small Business Expansion,261487,894332,12.02,Medium Risk,Performing,Debt-to-Income Ratio
+APP-800415,Karachi,Unemployed/Freelance,Small Business Expansion,248091,1294492,30.25,Low Risk,Performing,Debt-to-Income Ratio
+APP-800416,Islamabad,Unemployed/Freelance,Educational Loan,227110,2118413,16.88,Low Risk,Performing,Income Variance
+APP-800417,Lahore,Business Owner,Educational Loan,145270,650034,21.31,Low Risk,Performing,Employment Duration
+APP-800418,Lahore,Self-Employed Professional,Small Business Expansion,311839,1524328,12.14,High Risk,Defaulted,Employment Duration
+APP-800419,Islamabad,Business Owner,Educational Loan,339034,1033272,4.97,Low Risk,Performing,Debt-to-Income Ratio
+APP-800420,Islamabad,Business Owner,Home Renovation,134814,1654061,79.57,Low Risk,Defaulted,Debt-to-Income Ratio
+APP-800421,Multan,Self-Employed Professional,Home Renovation,57298,434240,121.63,Low Risk,Performing,Employment Duration
+APP-800422,Faisalabad,Business Owner,Small Business Expansion,127775,290160,65.05,Low Risk,Defaulted,Debt-to-Income Ratio
+APP-800423,Lahore,Business Owner,Debt Consolidation,64597,2469240,113.92,Low Risk,Performing,Debt-to-Income Ratio
+APP-800424,Multan,Self-Employed Professional,Small Business Expansion,260743,1459201,17.14,Low Risk,Performing,Employment Duration
+APP-800425,Lahore,Unemployed/Freelance,Small Business Expansion,311497,599835,29.06,Low Risk,Performing,Employment Duration
+APP-800426,Faisalabad,Unemployed/Freelance,Educational Loan,348675,1750147,12.99,Low Risk,Performing,Debt-to-Income Ratio
+APP-800427,Multan,Unemployed/Freelance,Home Renovation,233940,2356024,13.33,Low Risk,Performing,Employment Duration
+APP-800428,Multan,Unemployed/Freelance,Educational Loan,196914,929801,24.74,Low Risk,Performing,Prior Credit History
+APP-800429,Lahore,Salaried Individual,Home Renovation,229331,1118214,44.37,Low Risk,Defaulted,Employment Duration
+APP-800430,Rawalpindi,Unemployed/Freelance,Educational Loan,249300,1451892,28.11,Medium Risk,Performing,Prior Credit History
+APP-800431,Islamabad,Unemployed/Freelance,Debt Consolidation,274734,318046,38.83,Low Risk,Performing,Debt-to-Income Ratio
+APP-800432,Islamabad,Self-Employed Professional,Debt Consolidation,95798,1721628,31.39,Low Risk,Performing,Income Variance
+APP-800433,Multan,Salaried Individual,Educational Loan,155046,420744,28.75,Low Risk,Performing,Income Variance
+APP-800434,Rawalpindi,Self-Employed Professional,Home Renovation,124529,1167959,60.6,High Risk,Performing,Employment Duration
+APP-800435,Rawalpindi,Business Owner,Debt Consolidation,107453,1100652,53.4,Low Risk,Defaulted,Debt-to-Income Ratio
+APP-800436,Faisalabad,Salaried Individual,Home Renovation,307569,1830191,13.02,Medium Risk,Performing,Income Variance
+APP-800437,Lahore,Salaried Individual,Small Business Expansion,73122,1236934,78.32,Low Risk,Defaulted,Employment Duration
+APP-800438,Multan,Unemployed/Freelance,Home Renovation,282531,2094231,14.13,Medium Risk,Performing,Prior Credit History
+APP-800439,Islamabad,Business Owner,Home Renovation,307252,1693243,9.37,Low Risk,Performing,Employment Duration
+APP-800440,Lahore,Unemployed/Freelance,Educational Loan,318748,1566135,12.03,Low Risk,Performing,Debt-to-Income Ratio
+APP-800441,Faisalabad,Business Owner,Debt Consolidation,220599,2486141,24.95,Low Risk,Performing,Prior Credit History
+APP-800442,Karachi,Unemployed/Freelance,Home Renovation,342858,1526261,12.69,Medium Risk,Performing,Debt-to-Income Ratio
+APP-800443,Lahore,Business Owner,Educational Loan,291999,1119034,29.75,Medium Risk,Performing,Prior Credit History
+APP-800444,Lahore,Self-Employed Professional,Home Renovation,252458,1107972,25.85,Low Risk,Performing,Prior Credit History
+APP-800445,Rawalpindi,Unemployed/Freelance,Debt Consolidation,308976,638550,9.15,Medium Risk,Performing,Employment Duration
+APP-800446,Islamabad,Unemployed/Freelance,Debt Consolidation,228110,863764,8.43,Medium Risk,Performing,Income Variance
+APP-800447,Lahore,Unemployed/Freelance,Educational Loan,113689,934064,66.88,Medium Risk,Defaulted,Income Variance
+APP-800448,Karachi,Business Owner,Home Renovation,281080,2360697,19.29,Low Risk,Performing,Income Variance
+APP-800449,Karachi,Unemployed/Freelance,Debt Consolidation,222759,1643668,13.74,Low Risk,Defaulted,Debt-to-Income Ratio
+APP-800450,Islamabad,Self-Employed Professional,Debt Consolidation,157777,1874383,13.2,Low Risk,Defaulted,Employment Duration
+APP-800451,Multan,Unemployed/Freelance,Debt Consolidation,123634,131660,26.28,Low Risk,Performing,Prior Credit History
+APP-800452,Karachi,Unemployed/Freelance,Small Business Expansion,159550,1752410,74.8,Low Risk,Performing,Income Variance
+APP-800453,Faisalabad,Business Owner,Home Renovation,283450,793839,14.84,Medium Risk,Performing,Employment Duration
+APP-800454,Rawalpindi,Business Owner,Small Business Expansion,349581,2303982,21.08,Low Risk,Performing,Prior Credit History
+APP-800455,Multan,Business Owner,Educational Loan,100803,1164503,20.32,Low Risk,Performing,Prior Credit History
+APP-800456,Multan,Business Owner,Home Renovation,340474,191737,9.98,Medium Risk,Performing,Income Variance
+APP-800457,Faisalabad,Salaried Individual,Small Business Expansion,225574,1647497,41.8,Low Risk,Performing,Debt-to-Income Ratio
+APP-800458,Karachi,Self-Employed Professional,Educational Loan,112132,1711434,63.08,Low Risk,Performing,Income Variance
+APP-800459,Karachi,Unemployed/Freelance,Small Business Expansion,110007,1375637,35.93,Medium Risk,Performing,Employment Duration
+APP-800460,Multan,Salaried Individual,Small Business Expansion,163001,733476,35.75,High Risk,Defaulted,Debt-to-Income Ratio
+APP-800461,Lahore,Business Owner,Educational Loan,333391,638731,27.41,High Risk,Performing,Income Variance
+APP-800462,Lahore,Self-Employed Professional,Educational Loan,69527,1369396,149.28,Low Risk,Defaulted,Prior Credit History
+APP-800463,Lahore,Self-Employed Professional,Home Renovation,74106,646039,154.21,Low Risk,Defaulted,Income Variance
+APP-800464,Lahore,Self-Employed Professional,Educational Loan,210661,1328051,34.55,Medium Risk,Performing,Prior Credit History
+APP-800465,Multan,Unemployed/Freelance,Small Business Expansion,195313,1730672,46.88,Low Risk,Performing,Debt-to-Income Ratio
+APP-800466,Lahore,Unemployed/Freelance,Educational Loan,284940,214825,19.76,High Risk,Defaulted,Debt-to-Income Ratio
+APP-800467,Rawalpindi,Self-Employed Professional,Debt Consolidation,134834,103033,71.68,Low Risk,Defaulted,Debt-to-Income Ratio
+APP-800468,Rawalpindi,Self-Employed Professional,Debt Consolidation,201184,1013025,28.59,Low Risk,Performing,Prior Credit History
+APP-800469,Islamabad,Self-Employed Professional,Home Renovation,70256,2110423,164.02,Low Risk,Defaulted,Income Variance
+APP-800470,Faisalabad,Unemployed/Freelance,Home Renovation,60714,654281,30.71,Low Risk,Performing,Debt-to-Income Ratio
+APP-800471,Rawalpindi,Self-Employed Professional,Small Business Expansion,128978,158493,56.74,Medium Risk,Performing,Employment Duration
+APP-800472,Multan,Business Owner,Small Business Expansion,349181,1359531,14.36,Low Risk,Defaulted,Income Variance
+APP-800473,Lahore,Unemployed/Freelance,Debt Consolidation,328702,1364344,35.47,Low Risk,Performing,Prior Credit History
+APP-800474,Faisalabad,Unemployed/Freelance,Debt Consolidation,174596,1926032,44.66,High Risk,Defaulted,Prior Credit History
+APP-800475,Karachi,Self-Employed Professional,Home Renovation,326043,2050520,25.84,Medium Risk,Performing,Employment Duration
+APP-800476,Karachi,Salaried Individual,Small Business Expansion,244869,1391234,35.39,Low Risk,Performing,Debt-to-Income Ratio
+APP-800477,Rawalpindi,Unemployed/Freelance,Small Business Expansion,310897,1168937,16.71,Low Risk,Performing,Income Variance
+APP-800478,Lahore,Unemployed/Freelance,Small Business Expansion,193134,1665072,27.91,Low Risk,Defaulted,Employment Duration
+APP-800479,Karachi,Unemployed/Freelance,Debt Consolidation,178115,1703234,62.22,Low Risk,Performing,Income Variance
+APP-800480,Rawalpindi,Self-Employed Professional,Debt Consolidation,115180,1351741,13.09,Low Risk,Performing,Employment Duration
+APP-800481,Faisalabad,Business Owner,Debt Consolidation,78280,2134295,73.4,Low Risk,Defaulted,Employment Duration
+APP-800482,Multan,Business Owner,Home Renovation,187731,1187955,49.35,Low Risk,Performing,Employment Duration
+APP-800483,Karachi,Salaried Individual,Debt Consolidation,125779,2277132,91.29,Medium Risk,Defaulted,Employment Duration
+APP-800484,Rawalpindi,Salaried Individual,Educational Loan,246812,636856,25.64,Low Risk,Performing,Debt-to-Income Ratio
+APP-800485,Islamabad,Unemployed/Freelance,Home Renovation,289189,364634,17.65,Medium Risk,Performing,Debt-to-Income Ratio
+APP-800486,Lahore,Salaried Individual,Debt Consolidation,259673,967623,39.72,Medium Risk,Performing,Income Variance
+APP-800487,Islamabad,Salaried Individual,Educational Loan,171506,159374,65.0,Low Risk,Defaulted,Prior Credit History
+APP-800488,Karachi,Unemployed/Freelance,Debt Consolidation,65228,1155741,87.19,Low Risk,Defaulted,Employment Duration
+APP-800489,Lahore,Self-Employed Professional,Educational Loan,279202,1904945,12.8,Low Risk,Performing,Employment Duration
+APP-800490,Faisalabad,Salaried Individual,Small Business Expansion,214778,1415187,34.11,Low Risk,Performing,Income Variance
+APP-800491,Faisalabad,Salaried Individual,Small Business Expansion,236771,1345646,27.21,Low Risk,Defaulted,Employment Duration
+APP-800492,Rawalpindi,Self-Employed Professional,Educational Loan,241191,324190,24.15,Medium Risk,Performing,Income Variance
+APP-800493,Islamabad,Unemployed/Freelance,Small Business Expansion,188618,1486833,34.85,Medium Risk,Performing,Income Variance
+APP-800494,Karachi,Unemployed/Freelance,Small Business Expansion,160708,1107349,72.92,Low Risk,Performing,Debt-to-Income Ratio
+APP-800495,Faisalabad,Business Owner,Small Business Expansion,61447,515534,170.55,Medium Risk,Defaulted,Debt-to-Income Ratio
+APP-800496,Lahore,Salaried Individual,Small Business Expansion,259448,1796851,45.21,Low Risk,Performing,Income Variance
+APP-800497,Karachi,Salaried Individual,Small Business Expansion,314560,1432448,15.97,Low Risk,Defaulted,Prior Credit History
+APP-800498,Faisalabad,Salaried Individual,Educational Loan,62192,1160875,144.47,High Risk,Defaulted,Debt-to-Income Ratio
+APP-800499,Karachi,Unemployed/Freelance,Small Business Expansion,308797,1486949,29.92,High Risk,Defaulted,Prior Credit History
+APP-800500,Faisalabad,Salaried Individual,Debt Consolidation,168285,2376130,37.34,Low Risk,Performing,Debt-to-Income Ratio
+APP-800501,Faisalabad,Salaried Individual,Home Renovation,135496,1875369,17.72,High Risk,Performing,Prior Credit History
+APP-800502,Multan,Salaried Individual,Debt Consolidation,306945,2161734,32.35,Medium Risk,Performing,Income Variance
+APP-800503,Rawalpindi,Business Owner,Educational Loan,94071,633092,41.95,Medium Risk,Performing,Prior Credit History
+APP-800504,Multan,Self-Employed Professional,Small Business Expansion,90209,503497,70.41,Low Risk,Defaulted,Employment Duration
+APP-800505,Rawalpindi,Unemployed/Freelance,Home Renovation,113695,1192102,71.8,Low Risk,Performing,Employment Duration
+APP-800506,Rawalpindi,Unemployed/Freelance,Debt Consolidation,341576,2354183,9.62,High Risk,Defaulted,Prior Credit History
+APP-800507,Lahore,Salaried Individual,Home Renovation,126911,1746691,43.6,Medium Risk,Performing,Employment Duration
+APP-800508,Faisalabad,Unemployed/Freelance,Small Business Expansion,313223,1021092,36.77,Low Risk,Performing,Employment Duration
+APP-800509,Lahore,Unemployed/Freelance,Small Business Expansion,129733,1191611,71.49,High Risk,Defaulted,Debt-to-Income Ratio
+APP-800510,Rawalpindi,Unemployed/Freelance,Educational Loan,228536,1617625,17.34,Medium Risk,Performing,Prior Credit History
+APP-800511,Multan,Salaried Individual,Home Renovation,306475,1503776,37.39,High Risk,Performing,Income Variance
+APP-800512,Lahore,Self-Employed Professional,Debt Consolidation,74560,857778,62.07,High Risk,Defaulted,Prior Credit History
+APP-800513,Lahore,Self-Employed Professional,Debt Consolidation,250160,1820071,27.78,High Risk,Performing,Debt-to-Income Ratio
+APP-800514,Islamabad,Self-Employed Professional,Debt Consolidation,290856,1567925,20.1,Low Risk,Performing,Debt-to-Income Ratio
+APP-800515,Rawalpindi,Unemployed/Freelance,Small Business Expansion,143271,572283,48.49,Low Risk,Performing,Debt-to-Income Ratio
+APP-800516,Multan,Self-Employed Professional,Educational Loan,254775,2048943,26.46,Low Risk,Performing,Debt-to-Income Ratio
+APP-800517,Rawalpindi,Business Owner,Home Renovation,107640,756420,94.27,Low Risk,Defaulted,Employment Duration
+APP-800518,Faisalabad,Self-Employed Professional,Small Business Expansion,71466,1865408,145.2,Low Risk,Performing,Employment Duration
+APP-800519,Faisalabad,Self-Employed Professional,Small Business Expansion,48430,774290,150.57,Low Risk,Defaulted,Employment Duration
+APP-800520,Karachi,Unemployed/Freelance,Debt Consolidation,109633,923772,34.83,Low Risk,Performing,Debt-to-Income Ratio
+APP-800521,Lahore,Salaried Individual,Home Renovation,228908,1590414,26.6,Low Risk,Performing,Debt-to-Income Ratio
+APP-800522,Karachi,Business Owner,Home Renovation,119781,2201623,86.08,High Risk,Defaulted,Debt-to-Income Ratio
+APP-800523,Faisalabad,Salaried Individual,Small Business Expansion,90234,1927840,115.64,Low Risk,Defaulted,Debt-to-Income Ratio
+APP-800524,Multan,Self-Employed Professional,Small Business Expansion,141451,2169603,33.56,High Risk,Defaulted,Employment Duration
+APP-800525,Multan,Self-Employed Professional,Small Business Expansion,217745,1404544,40.79,High Risk,Defaulted,Income Variance
+APP-800526,Rawalpindi,Salaried Individual,Debt Consolidation,177957,883358,19.75,High Risk,Performing,Debt-to-Income Ratio
+APP-800527,Rawalpindi,Salaried Individual,Home Renovation,194015,1950293,58.22,High Risk,Defaulted,Employment Duration
+APP-800528,Islamabad,Business Owner,Debt Consolidation,178497,1314648,17.76,Medium Risk,Performing,Prior Credit History
+APP-800529,Karachi,Unemployed/Freelance,Educational Loan,81499,114948,100.81,Low Risk,Defaulted,Prior Credit History
+APP-800530,Islamabad,Self-Employed Professional,Debt Consolidation,84740,1438726,127.07,High Risk,Performing,Employment Duration
+APP-800531,Rawalpindi,Unemployed/Freelance,Debt Consolidation,104168,846915,62.38,Medium Risk,Defaulted,Debt-to-Income Ratio
+APP-800532,Faisalabad,Business Owner,Educational Loan,117315,1385351,44.3,Low Risk,Performing,Income Variance
+APP-800533,Rawalpindi,Self-Employed Professional,Educational Loan,312056,1870046,32.22,Low Risk,Performing,Employment Duration
+APP-800534,Karachi,Salaried Individual,Small Business Expansion,144504,1560698,77.07,Low Risk,Defaulted,Prior Credit History
+APP-800535,Multan,Self-Employed Professional,Home Renovation,317713,270073,4.85,Low Risk,Performing,Employment Duration
+APP-800536,Rawalpindi,Salaried Individual,Debt Consolidation,154226,450296,48.49,Low Risk,Defaulted,Employment Duration
+APP-800537,Faisalabad,Business Owner,Educational Loan,238051,1674041,33.25,High Risk,Defaulted,Prior Credit History
+APP-800538,Karachi,Unemployed/Freelance,Debt Consolidation,63806,1336255,166.72,Low Risk,Defaulted,Debt-to-Income Ratio
+APP-800539,Multan,Self-Employed Professional,Educational Loan,301749,851081,38.47,Low Risk,Performing,Employment Duration
+APP-800540,Rawalpindi,Business Owner,Debt Consolidation,63686,1728352,181.26,Medium Risk,Defaulted,Income Variance
+APP-800541,Faisalabad,Business Owner,Home Renovation,167884,1220228,20.08,Low Risk,Performing,Debt-to-Income Ratio
+APP-800542,Multan,Business Owner,Debt Consolidation,147757,2280296,67.33,High Risk,Defaulted,Employment Duration
+APP-800543,Lahore,Unemployed/Freelance,Educational Loan,197117,664088,31.81,Medium Risk,Performing,Income Variance
+APP-800544,Islamabad,Business Owner,Educational Loan,104703,1970685,96.46,High Risk,Defaulted,Employment Duration
+APP-800545,Islamabad,Business Owner,Educational Loan,305316,649614,18.92,High Risk,Defaulted,Debt-to-Income Ratio
+APP-800546,Islamabad,Self-Employed Professional,Debt Consolidation,281777,609966,36.53,Medium Risk,Performing,Debt-to-Income Ratio
+APP-800547,Lahore,Self-Employed Professional,Small Business Expansion,79377,275067,140.24,Low Risk,Defaulted,Debt-to-Income Ratio
+APP-800548,Lahore,Unemployed/Freelance,Small Business Expansion,281647,1714858,17.46,Low Risk,Performing,Income Variance
+APP-800549,Multan,Self-Employed Professional,Debt Consolidation,213739,1937054,10.84,Medium Risk,Performing,Employment Duration
+APP-800550,Lahore,Salaried Individual,Educational Loan,68951,659397,46.3,Low Risk,Performing,Prior Credit History
+APP-800551,Islamabad,Unemployed/Freelance,Home Renovation,279240,772935,13.29,High Risk,Performing,Income Variance
+APP-800552,Islamabad,Business Owner,Home Renovation,111970,724780,46.63,High Risk,Defaulted,Employment Duration
+APP-800553,Faisalabad,Business Owner,Educational Loan,137907,1094213,44.46,Low Risk,Performing,Debt-to-Income Ratio
+APP-800554,Islamabad,Salaried Individual,Educational Loan,293563,104851,5.89,Medium Risk,Performing,Debt-to-Income Ratio
+APP-800555,Multan,Salaried Individual,Small Business Expansion,80802,2103607,140.03,Medium Risk,Defaulted,Prior Credit History
+APP-800556,Lahore,Self-Employed Professional,Home Renovation,235202,1746606,7.01,Low Risk,Performing,Debt-to-Income Ratio
+APP-800557,Islamabad,Unemployed/Freelance,Home Renovation,253728,1838509,9.37,Low Risk,Performing,Employment Duration
+APP-800558,Multan,Unemployed/Freelance,Home Renovation,325386,1644368,4.64,Low Risk,Performing,Income Variance
+APP-800559,Lahore,Unemployed/Freelance,Debt Consolidation,106305,1722109,63.82,Low Risk,Defaulted,Debt-to-Income Ratio
+APP-800560,Islamabad,Business Owner,Debt Consolidation,183268,930488,33.89,High Risk,Performing,Income Variance
+APP-800561,Islamabad,Unemployed/Freelance,Educational Loan,239247,1156541,21.78,High Risk,Performing,Employment Duration
+APP-800562,Faisalabad,Business Owner,Debt Consolidation,217706,221817,43.17,Medium Risk,Performing,Prior Credit History
+APP-800563,Rawalpindi,Self-Employed Professional,Home Renovation,290389,648336,14.9,Low Risk,Performing,Prior Credit History
+APP-800564,Rawalpindi,Salaried Individual,Home Renovation,279945,2340091,22.54,Low Risk,Performing,Prior Credit History
+APP-800565,Karachi,Business Owner,Small Business Expansion,138887,397387,23.1,Medium Risk,Performing,Prior Credit History
+APP-800566,Lahore,Unemployed/Freelance,Small Business Expansion,121776,756102,14.16,Low Risk,Performing,Employment Duration
+APP-800567,Rawalpindi,Unemployed/Freelance,Small Business Expansion,71159,410271,108.15,Medium Risk,Defaulted,Income Variance
+APP-800568,Faisalabad,Unemployed/Freelance,Home Renovation,53522,497874,175.71,High Risk,Defaulted,Income Variance
+APP-800569,Karachi,Salaried Individual,Small Business Expansion,112349,506484,34.81,Low Risk,Performing,Debt-to-Income Ratio
+APP-800570,Karachi,Business Owner,Debt Consolidation,178915,1262685,20.14,Medium Risk,Performing,Employment Duration
+APP-800571,Islamabad,Self-Employed Professional,Debt Consolidation,179277,794530,13.23,Medium Risk,Performing,Employment Duration
+APP-800572,Lahore,Salaried Individual,Small Business Expansion,224696,2180237,19.87,Low Risk,Performing,Debt-to-Income Ratio
+APP-800573,Lahore,Self-Employed Professional,Small Business Expansion,141662,2153377,76.25,Medium Risk,Defaulted,Income Variance
+APP-800574,Lahore,Business Owner,Debt Consolidation,166111,452308,45.71,High Risk,Performing,Debt-to-Income Ratio
+APP-800575,Faisalabad,Unemployed/Freelance,Small Business Expansion,248941,1454165,10.71,Medium Risk,Performing,Debt-to-Income Ratio
+APP-800576,Multan,Self-Employed Professional,Small Business Expansion,234646,1338122,17.36,Medium Risk,Performing,Debt-to-Income Ratio
+APP-800577,Faisalabad,Unemployed/Freelance,Debt Consolidation,184790,1200116,14.89,Medium Risk,Performing,Income Variance
+APP-800578,Islamabad,Self-Employed Professional,Educational Loan,147003,1594795,75.64,Low Risk,Performing,Employment Duration
+APP-800579,Multan,Business Owner,Home Renovation,293593,1060343,10.57,High Risk,Defaulted,Debt-to-Income Ratio
+APP-800580,Lahore,Salaried Individual,Educational Loan,94075,1168783,107.08,Medium Risk,Defaulted,Debt-to-Income Ratio
+APP-800581,Multan,Salaried Individual,Home Renovation,306371,2337744,25.94,Low Risk,Performing,Employment Duration
+APP-800582,Faisalabad,Business Owner,Debt Consolidation,137465,971219,43.71,Low Risk,Performing,Prior Credit History
+APP-800583,Islamabad,Unemployed/Freelance,Small Business Expansion,69860,1425053,61.35,Medium Risk,Defaulted,Employment Duration
+APP-800584,Rawalpindi,Unemployed/Freelance,Debt Consolidation,137586,1387393,64.68,Low Risk,Defaulted,Debt-to-Income Ratio
+APP-800585,Lahore,Salaried Individual,Debt Consolidation,57982,2436385,205.13,Medium Risk,Performing,Debt-to-Income Ratio
+APP-800586,Rawalpindi,Unemployed/Freelance,Home Renovation,258631,1062626,34.18,Medium Risk,Performing,Income Variance
+APP-800587,Islamabad,Self-Employed Professional,Educational Loan,194146,1847409,46.11,Medium Risk,Performing,Prior Credit History
+APP-800588,Multan,Business Owner,Small Business Expansion,225869,1787935,36.92,Medium Risk,Performing,Income Variance
+APP-800589,Multan,Salaried Individual,Small Business Expansion,347517,1047539,24.61,Medium Risk,Performing,Employment Duration
+APP-800590,Rawalpindi,Salaried Individual,Small Business Expansion,303418,475307,34.87,High Risk,Defaulted,Employment Duration
+APP-800591,Islamabad,Self-Employed Professional,Small Business Expansion,128671,985339,25.07,Medium Risk,Performing,Income Variance
+APP-800592,Karachi,Unemployed/Freelance,Small Business Expansion,192826,1494679,37.32,Low Risk,Performing,Debt-to-Income Ratio
+APP-800593,Islamabad,Salaried Individual,Debt Consolidation,48369,1634629,60.79,Medium Risk,Defaulted,Debt-to-Income Ratio
+APP-800594,Lahore,Self-Employed Professional,Debt Consolidation,188184,512790,9.98,Low Risk,Performing,Prior Credit History
+APP-800595,Islamabad,Unemployed/Freelance,Small Business Expansion,233957,2200060,31.61,Low Risk,Performing,Employment Duration
+APP-800596,Rawalpindi,Unemployed/Freelance,Educational Loan,349792,1371559,33.37,Low Risk,Performing,Income Variance
+APP-800597,Karachi,Business Owner,Debt Consolidation,73776,345485,67.61,Low Risk,Performing,Income Variance
+APP-800598,Karachi,Business Owner,Small Business Expansion,61972,291776,84.6,High Risk,Performing,Employment Duration
+APP-800599,Islamabad,Self-Employed Professional,Educational Loan,194118,2207967,15.27,Medium Risk,Performing,Prior Credit History
+APP-800600,Rawalpindi,Self-Employed Professional,Educational Loan,158319,2230062,56.87,Medium Risk,Defaulted,Income Variance
+APP-800601,Islamabad,Self-Employed Professional,Small Business Expansion,231490,432991,29.86,Low Risk,Performing,Income Variance
+APP-800602,Rawalpindi,Business Owner,Educational Loan,46337,1767374,210.84,Low Risk,Performing,Debt-to-Income Ratio
+APP-800603,Lahore,Business Owner,Home Renovation,111416,995931,76.62,Medium Risk,Defaulted,Employment Duration
+APP-800604,Karachi,Salaried Individual,Educational Loan,92611,1712428,65.69,Low Risk,Performing,Prior Credit History
+APP-800605,Rawalpindi,Salaried Individual,Educational Loan,335410,593251,30.83,Low Risk,Performing,Employment Duration
+APP-800606,Multan,Business Owner,Debt Consolidation,257923,1904053,11.76,Low Risk,Performing,Debt-to-Income Ratio
+APP-800607,Multan,Unemployed/Freelance,Home Renovation,302544,651973,21.22,Medium Risk,Performing,Employment Duration
+APP-800608,Faisalabad,Unemployed/Freelance,Educational Loan,235021,111556,49.46,Low Risk,Performing,Debt-to-Income Ratio
+APP-800609,Lahore,Unemployed/Freelance,Home Renovation,140281,1296632,71.31,Medium Risk,Defaulted,Prior Credit History
+APP-800610,Karachi,Business Owner,Debt Consolidation,73098,1396721,31.72,High Risk,Defaulted,Debt-to-Income Ratio
+APP-800611,Multan,Business Owner,Home Renovation,257229,139946,30.63,Low Risk,Performing,Employment Duration
+APP-800612,Faisalabad,Salaried Individual,Home Renovation,125758,1297575,86.69,Low Risk,Defaulted,Debt-to-Income Ratio
+APP-800613,Lahore,Self-Employed Professional,Small Business Expansion,131561,1821789,42.75,Low Risk,Performing,Prior Credit History
+APP-800614,Islamabad,Self-Employed Professional,Small Business Expansion,289903,2449080,28.76,High Risk,Defaulted,Prior Credit History
+APP-800615,Islamabad,Self-Employed Professional,Home Renovation,226508,2230337,18.32,High Risk,Defaulted,Prior Credit History
+APP-800616,Islamabad,Salaried Individual,Small Business Expansion,175928,652086,57.44,Low Risk,Defaulted,Income Variance
+APP-800617,Karachi,Unemployed/Freelance,Debt Consolidation,313415,2486990,33.55,Medium Risk,Performing,Debt-to-Income Ratio
+APP-800618,Islamabad,Unemployed/Freelance,Debt Consolidation,285071,2461267,21.3,High Risk,Defaulted,Prior Credit History
+APP-800619,Lahore,Unemployed/Freelance,Educational Loan,240214,1026107,33.71,High Risk,Defaulted,Prior Credit History
+APP-800620,Karachi,Salaried Individual,Home Renovation,73524,219448,161.23,High Risk,Performing,Prior Credit History
+APP-800621,Rawalpindi,Business Owner,Small Business Expansion,205812,436999,42.03,Medium Risk,Performing,Prior Credit History
+APP-800622,Islamabad,Salaried Individual,Small Business Expansion,348660,2233406,31.2,Medium Risk,Performing,Prior Credit History
+APP-800623,Karachi,Salaried Individual,Home Renovation,177465,2487482,37.25,Low Risk,Defaulted,Prior Credit History
+APP-800624,Faisalabad,Self-Employed Professional,Small Business Expansion,304347,108671,21.63,High Risk,Defaulted,Debt-to-Income Ratio
+APP-800625,Lahore,Business Owner,Educational Loan,286938,1981521,34.69,Medium Risk,Performing,Prior Credit History
+APP-800626,Multan,Salaried Individual,Educational Loan,289046,1588002,33.21,Low Risk,Performing,Employment Duration
+APP-800627,Rawalpindi,Self-Employed Professional,Educational Loan,249597,1878510,29.52,Medium Risk,Performing,Debt-to-Income Ratio
+APP-800628,Faisalabad,Salaried Individual,Small Business Expansion,166019,997807,41.37,Low Risk,Performing,Prior Credit History
+APP-800629,Multan,Self-Employed Professional,Small Business Expansion,86078,1414223,119.09,Low Risk,Defaulted,Income Variance
+APP-800630,Faisalabad,Self-Employed Professional,Small Business Expansion,125061,1074723,15.35,Low Risk,Performing,Debt-to-Income Ratio
+APP-800631,Karachi,Salaried Individual,Small Business Expansion,214855,2432307,16.09,Low Risk,Performing,Employment Duration
+APP-800632,Multan,Business Owner,Educational Loan,156525,383749,34.59,Low Risk,Defaulted,Income Variance
+APP-800633,Karachi,Unemployed/Freelance,Home Renovation,186889,1746595,63.33,Low Risk,Defaulted,Income Variance
+APP-800634,Lahore,Business Owner,Debt Consolidation,114430,466516,30.01,Medium Risk,Performing,Income Variance
+APP-800635,Multan,Salaried Individual,Educational Loan,221616,2111405,26.59,Medium Risk,Performing,Prior Credit History
+APP-800636,Karachi,Self-Employed Professional,Debt Consolidation,290589,797323,25.28,Medium Risk,Defaulted,Prior Credit History
+APP-800637,Rawalpindi,Unemployed/Freelance,Debt Consolidation,164336,666912,64.5,Low Risk,Defaulted,Employment Duration
+APP-800638,Faisalabad,Unemployed/Freelance,Educational Loan,121991,275678,90.27,Low Risk,Performing,Prior Credit History
+APP-800639,Multan,Salaried Individual,Debt Consolidation,121043,356076,73.02,Low Risk,Defaulted,Employment Duration
+APP-800640,Rawalpindi,Salaried Individual,Debt Consolidation,146024,846984,70.91,Medium Risk,Performing,Debt-to-Income Ratio
+APP-800641,Multan,Business Owner,Small Business Expansion,65105,850364,126.38,Low Risk,Defaulted,Debt-to-Income Ratio
+APP-800642,Rawalpindi,Unemployed/Freelance,Debt Consolidation,160909,1077559,61.96,Low Risk,Defaulted,Income Variance
+APP-800643,Lahore,Unemployed/Freelance,Debt Consolidation,290106,2105477,17.42,Low Risk,Performing,Debt-to-Income Ratio
+APP-800644,Karachi,Salaried Individual,Debt Consolidation,128720,1800064,63.59,Low Risk,Defaulted,Income Variance
+APP-800645,Islamabad,Unemployed/Freelance,Home Renovation,238970,269018,19.89,Low Risk,Performing,Income Variance
+APP-800646,Faisalabad,Business Owner,Educational Loan,313146,468878,29.63,Low Risk,Performing,Employment Duration
+APP-800647,Lahore,Business Owner,Debt Consolidation,186737,1650118,54.96,Medium Risk,Defaulted,Prior Credit History
+APP-800648,Multan,Salaried Individual,Home Renovation,347468,2034041,28.5,Low Risk,Performing,Debt-to-Income Ratio
+APP-800649,Karachi,Self-Employed Professional,Educational Loan,134331,1274371,39.57,Medium Risk,Performing,Income Variance
+APP-800650,Karachi,Self-Employed Professional,Educational Loan,193584,1291013,41.7,Low Risk,Performing,Income Variance
+APP-800651,Islamabad,Self-Employed Professional,Small Business Expansion,136869,1873981,35.91,Low Risk,Performing,Employment Duration
+APP-800652,Multan,Business Owner,Educational Loan,178411,847967,23.92,Medium Risk,Performing,Income Variance
+APP-800653,Lahore,Salaried Individual,Debt Consolidation,125879,192735,62.88,Medium Risk,Performing,Employment Duration
+APP-800654,Multan,Salaried Individual,Home Renovation,283200,942470,28.61,Low Risk,Performing,Prior Credit History
+APP-800655,Multan,Salaried Individual,Educational Loan,63278,2042704,173.95,Low Risk,Performing,Income Variance
+APP-800656,Karachi,Business Owner,Home Renovation,305775,1251689,7.9,Low Risk,Performing,Employment Duration
+APP-800657,Lahore,Salaried Individual,Small Business Expansion,248034,1220019,39.81,Low Risk,Performing,Debt-to-Income Ratio
+APP-800658,Faisalabad,Unemployed/Freelance,Educational Loan,87246,1555633,39.59,Low Risk,Performing,Employment Duration
+APP-800659,Islamabad,Business Owner,Home Renovation,240063,913016,43.43,Low Risk,Defaulted,Employment Duration
+APP-800660,Faisalabad,Salaried Individual,Small Business Expansion,278863,2481828,35.57,Low Risk,Performing,Income Variance
+APP-800661,Multan,Salaried Individual,Home Renovation,107323,268345,82.83,High Risk,Defaulted,Prior Credit History
+APP-800662,Karachi,Salaried Individual,Small Business Expansion,246031,576138,26.35,High Risk,Defaulted,Prior Credit History
+APP-800663,Multan,Business Owner,Educational Loan,157070,312020,35.8,Low Risk,Performing,Debt-to-Income Ratio
+APP-800664,Lahore,Unemployed/Freelance,Debt Consolidation,199455,1964936,15.52,Medium Risk,Performing,Income Variance
+APP-800665,Lahore,Business Owner,Small Business Expansion,285857,325574,12.6,Low Risk,Performing,Prior Credit History
+APP-800666,Lahore,Unemployed/Freelance,Debt Consolidation,158247,1273044,69.66,Low Risk,Performing,Prior Credit History
+APP-800667,Rawalpindi,Unemployed/Freelance,Small Business Expansion,112540,759518,25.82,High Risk,Defaulted,Debt-to-Income Ratio
+APP-800668,Faisalabad,Salaried Individual,Home Renovation,266581,478105,33.92,Low Risk,Performing,Debt-to-Income Ratio
+APP-800669,Faisalabad,Unemployed/Freelance,Home Renovation,104900,706246,102.84,Low Risk,Defaulted,Prior Credit History
+APP-800670,Islamabad,Salaried Individual,Small Business Expansion,204199,1873658,9.98,Low Risk,Performing,Debt-to-Income Ratio
+APP-800671,Faisalabad,Unemployed/Freelance,Educational Loan,206991,682397,43.49,High Risk,Performing,Debt-to-Income Ratio
+APP-800672,Lahore,Self-Employed Professional,Debt Consolidation,151857,147786,78.19,Medium Risk,Defaulted,Debt-to-Income Ratio
+APP-800673,Multan,Business Owner,Small Business Expansion,308677,1291865,20.76,Low Risk,Performing,Employment Duration
+APP-800674,Rawalpindi,Business Owner,Small Business Expansion,87263,1134291,55.3,High Risk,Defaulted,Income Variance
+APP-800675,Faisalabad,Unemployed/Freelance,Educational Loan,310559,2480879,28.1,High Risk,Defaulted,Income Variance
+APP-800676,Lahore,Unemployed/Freelance,Home Renovation,185622,1815526,26.93,Low Risk,Performing,Debt-to-Income Ratio
+APP-800677,Karachi,Self-Employed Professional,Educational Loan,345313,2297587,34.32,Low Risk,Performing,Employment Duration
+APP-800678,Rawalpindi,Unemployed/Freelance,Educational Loan,348317,857152,9.93,High Risk,Defaulted,Debt-to-Income Ratio
+APP-800679,Rawalpindi,Unemployed/Freelance,Educational Loan,299864,1316410,39.05,Low Risk,Performing,Employment Duration
+APP-800680,Multan,Business Owner,Educational Loan,315017,458848,18.63,High Risk,Defaulted,Income Variance
+APP-800681,Faisalabad,Unemployed/Freelance,Home Renovation,177160,2157382,30.4,Medium Risk,Performing,Debt-to-Income Ratio
+APP-800682,Lahore,Business Owner,Home Renovation,242972,2463859,32.06,Medium Risk,Performing,Income Variance
+APP-800683,Karachi,Salaried Individual,Educational Loan,275258,1897860,12.96,Medium Risk,Performing,Employment Duration
+APP-800684,Karachi,Unemployed/Freelance,Small Business Expansion,140583,166097,43.56,Low Risk,Performing,Employment Duration
+APP-800685,Faisalabad,Salaried Individual,Debt Consolidation,188617,1366370,60.43,High Risk,Defaulted,Prior Credit History
+APP-800686,Lahore,Salaried Individual,Small Business Expansion,130183,1297246,18.22,High Risk,Defaulted,Employment Duration
+APP-800687,Faisalabad,Unemployed/Freelance,Home Renovation,204838,553906,53.18,Low Risk,Performing,Debt-to-Income Ratio
+APP-800688,Islamabad,Unemployed/Freelance,Small Business Expansion,298431,1329249,16.33,Low Risk,Performing,Debt-to-Income Ratio
+APP-800689,Lahore,Self-Employed Professional,Home Renovation,98737,1349355,51.66,Low Risk,Defaulted,Prior Credit History
+APP-800690,Multan,Self-Employed Professional,Debt Consolidation,179686,2405062,51.02,Low Risk,Defaulted,Employment Duration
+APP-800691,Faisalabad,Salaried Individual,Small Business Expansion,139623,1995693,33.65,High Risk,Defaulted,Prior Credit History
+APP-800692,Faisalabad,Self-Employed Professional,Small Business Expansion,320830,1326328,26.58,Medium Risk,Performing,Employment Duration
+APP-800693,Islamabad,Unemployed/Freelance,Educational Loan,245394,1217494,31.16,Medium Risk,Performing,Income Variance
+APP-800694,Rawalpindi,Business Owner,Educational Loan,303095,873118,11.15,High Risk,Defaulted,Prior Credit History
+APP-800695,Multan,Salaried Individual,Home Renovation,345317,1932341,24.89,Low Risk,Defaulted,Debt-to-Income Ratio
+APP-800696,Rawalpindi,Unemployed/Freelance,Small Business Expansion,73157,1446450,74.94,Low Risk,Defaulted,Employment Duration
+APP-800697,Faisalabad,Business Owner,Home Renovation,322024,1427624,9.87,Low Risk,Performing,Income Variance
+APP-800698,Faisalabad,Business Owner,Debt Consolidation,220294,2263577,47.14,Low Risk,Performing,Prior Credit History
+APP-800699,Multan,Unemployed/Freelance,Small Business Expansion,82453,696525,92.02,Medium Risk,Performing,Debt-to-Income Ratio
+APP-800700,Lahore,Self-Employed Professional,Home Renovation,214475,1969098,41.64,Low Risk,Performing,Prior Credit History
+APP-800701,Islamabad,Self-Employed Professional,Debt Consolidation,54409,926528,112.48,Low Risk,Performing,Debt-to-Income Ratio
+APP-800702,Rawalpindi,Salaried Individual,Educational Loan,95852,1762204,37.71,Medium Risk,Performing,Employment Duration
+APP-800703,Multan,Business Owner,Debt Consolidation,60627,2133556,48.3,Medium Risk,Performing,Income Variance
+APP-800704,Rawalpindi,Unemployed/Freelance,Debt Consolidation,318188,2211664,36.46,Low Risk,Performing,Prior Credit History
+APP-800705,Islamabad,Unemployed/Freelance,Debt Consolidation,338333,312389,26.81,Low Risk,Performing,Income Variance
+APP-800706,Faisalabad,Salaried Individual,Home Renovation,68544,1253477,78.86,Low Risk,Defaulted,Employment Duration
+APP-800707,Karachi,Business Owner,Educational Loan,248152,993687,15.12,Low Risk,Performing,Income Variance
+APP-800708,Rawalpindi,Self-Employed Professional,Debt Consolidation,173520,993857,63.2,Low Risk,Defaulted,Employment Duration
+APP-800709,Islamabad,Salaried Individual,Educational Loan,203242,1551117,23.96,Low Risk,Performing,Income Variance
+APP-800710,Islamabad,Self-Employed Professional,Home Renovation,248344,554692,20.47,Low Risk,Performing,Prior Credit History
+APP-800711,Rawalpindi,Unemployed/Freelance,Home Renovation,179925,1148213,29.14,Low Risk,Performing,Prior Credit History
+APP-800712,Faisalabad,Business Owner,Home Renovation,284495,548545,5.59,High Risk,Performing,Employment Duration
+APP-800713,Faisalabad,Self-Employed Professional,Small Business Expansion,52842,174356,132.95,Low Risk,Performing,Employment Duration
+APP-800714,Multan,Unemployed/Freelance,Educational Loan,154938,1537223,60.77,Medium Risk,Performing,Employment Duration
+APP-800715,Rawalpindi,Salaried Individual,Home Renovation,165653,2077639,28.33,Low Risk,Performing,Debt-to-Income Ratio
+APP-800716,Islamabad,Self-Employed Professional,Educational Loan,61171,590877,100.56,Low Risk,Defaulted,Income Variance
+APP-800717,Multan,Salaried Individual,Educational Loan,92212,2469857,69.88,Low Risk,Defaulted,Employment Duration
+APP-800718,Lahore,Salaried Individual,Educational Loan,305284,465746,35.16,Low Risk,Performing,Debt-to-Income Ratio
+APP-800719,Faisalabad,Unemployed/Freelance,Home Renovation,176027,922324,30.56,Low Risk,Performing,Income Variance
+APP-800720,Rawalpindi,Unemployed/Freelance,Small Business Expansion,264372,273920,41.86,High Risk,Defaulted,Income Variance
+APP-800721,Islamabad,Self-Employed Professional,Home Renovation,168904,489121,64.22,Medium Risk,Defaulted,Debt-to-Income Ratio
+APP-800722,Rawalpindi,Self-Employed Professional,Home Renovation,105325,758377,80.67,High Risk,Defaulted,Employment Duration
+APP-800723,Rawalpindi,Unemployed/Freelance,Educational Loan,319714,2392231,20.97,Medium Risk,Performing,Prior Credit History
+APP-800724,Islamabad,Business Owner,Home Renovation,303527,1667279,7.96,High Risk,Defaulted,Debt-to-Income Ratio
+APP-800725,Lahore,Unemployed/Freelance,Home Renovation,251874,914913,15.97,Low Risk,Performing,Debt-to-Income Ratio
+APP-800726,Faisalabad,Self-Employed Professional,Home Renovation,295232,790885,12.64,High Risk,Defaulted,Income Variance
+APP-800727,Lahore,Business Owner,Small Business Expansion,108516,2347271,36.52,Low Risk,Performing,Prior Credit History
+APP-800728,Islamabad,Unemployed/Freelance,Debt Consolidation,72220,1674078,106.0,Medium Risk,Defaulted,Debt-to-Income Ratio
+APP-800729,Islamabad,Salaried Individual,Home Renovation,112338,1347617,24.09,Low Risk,Performing,Prior Credit History
+APP-800730,Faisalabad,Self-Employed Professional,Small Business Expansion,298338,485727,39.45,Low Risk,Performing,Employment Duration
+APP-800731,Islamabad,Salaried Individual,Educational Loan,95316,628659,124.9,Low Risk,Defaulted,Debt-to-Income Ratio
+APP-800732,Rawalpindi,Business Owner,Debt Consolidation,63738,1625408,145.96,High Risk,Defaulted,Debt-to-Income Ratio
+APP-800733,Faisalabad,Unemployed/Freelance,Debt Consolidation,200031,2081966,42.42,High Risk,Defaulted,Prior Credit History
+APP-800734,Lahore,Salaried Individual,Educational Loan,297754,1102562,32.74,High Risk,Performing,Employment Duration
+APP-800735,Islamabad,Salaried Individual,Educational Loan,333462,218563,29.78,Low Risk,Performing,Income Variance
+APP-800736,Lahore,Salaried Individual,Educational Loan,320427,1218448,9.39,High Risk,Defaulted,Debt-to-Income Ratio
+APP-800737,Faisalabad,Self-Employed Professional,Home Renovation,262522,1075282,10.78,Low Risk,Performing,Income Variance
+APP-800738,Multan,Self-Employed Professional,Home Renovation,306423,2297292,11.39,Medium Risk,Performing,Debt-to-Income Ratio
+APP-800739,Lahore,Self-Employed Professional,Small Business Expansion,323814,561990,35.97,Medium Risk,Performing,Debt-to-Income Ratio
+APP-800740,Multan,Self-Employed Professional,Home Renovation,260007,715260,38.34,Medium Risk,Performing,Debt-to-Income Ratio
+APP-800741,Karachi,Unemployed/Freelance,Home Renovation,162819,1103238,40.18,Low Risk,Defaulted,Debt-to-Income Ratio
+APP-800742,Karachi,Unemployed/Freelance,Debt Consolidation,197518,1013563,36.18,Low Risk,Performing,Debt-to-Income Ratio
+APP-800743,Rawalpindi,Salaried Individual,Debt Consolidation,150958,728500,60.39,Low Risk,Defaulted,Debt-to-Income Ratio
+APP-800744,Lahore,Self-Employed Professional,Small Business Expansion,292586,1104957,20.31,Low Risk,Performing,Prior Credit History
+APP-800745,Rawalpindi,Salaried Individual,Educational Loan,151786,2037619,68.65,Low Risk,Defaulted,Employment Duration
+APP-800746,Islamabad,Self-Employed Professional,Small Business Expansion,113691,1237265,89.11,Low Risk,Defaulted,Income Variance
+APP-800747,Karachi,Salaried Individual,Home Renovation,172760,1259079,45.96,Medium Risk,Performing,Prior Credit History
+APP-800748,Karachi,Unemployed/Freelance,Educational Loan,248463,1519130,39.33,Medium Risk,Performing,Employment Duration
+APP-800749,Karachi,Self-Employed Professional,Educational Loan,118745,1107485,61.46,Low Risk,Performing,Income Variance
+APP-800750,Karachi,Business Owner,Educational Loan,73980,694649,120.11,Low Risk,Defaulted,Income Variance
+APP-800751,Rawalpindi,Business Owner,Debt Consolidation,220067,2053740,31.69,Low Risk,Performing,Prior Credit History
+APP-800752,Islamabad,Self-Employed Professional,Educational Loan,127063,1831544,18.12,Low Risk,Performing,Debt-to-Income Ratio
+APP-800753,Islamabad,Salaried Individual,Debt Consolidation,158792,1780762,13.86,Low Risk,Performing,Debt-to-Income Ratio
+APP-800754,Rawalpindi,Salaried Individual,Debt Consolidation,146165,1215766,63.13,Medium Risk,Performing,Debt-to-Income Ratio
+APP-800755,Rawalpindi,Business Owner,Small Business Expansion,64891,292235,86.47,Medium Risk,Performing,Employment Duration
+APP-800756,Islamabad,Self-Employed Professional,Small Business Expansion,204082,1374271,49.88,High Risk,Defaulted,Debt-to-Income Ratio
+APP-800757,Multan,Business Owner,Home Renovation,300318,918357,39.08,Low Risk,Defaulted,Prior Credit History
+APP-800758,Multan,Business Owner,Small Business Expansion,98020,2305946,53.14,Medium Risk,Performing,Employment Duration
+APP-800759,Rawalpindi,Business Owner,Educational Loan,88889,1830974,27.23,Low Risk,Performing,Prior Credit History
+APP-800760,Multan,Self-Employed Professional,Small Business Expansion,161711,235349,31.67,Low Risk,Performing,Employment Duration
+APP-800761,Lahore,Self-Employed Professional,Educational Loan,190947,1925275,56.97,Low Risk,Defaulted,Income Variance
+APP-800762,Multan,Unemployed/Freelance,Home Renovation,175379,1791502,12.79,Low Risk,Performing,Employment Duration
+APP-800763,Multan,Self-Employed Professional,Home Renovation,218447,597357,34.49,Low Risk,Performing,Employment Duration
+APP-800764,Lahore,Business Owner,Small Business Expansion,140157,810075,56.74,Medium Risk,Defaulted,Debt-to-Income Ratio
+APP-800765,Multan,Business Owner,Small Business Expansion,45954,530147,116.16,Low Risk,Defaulted,Debt-to-Income Ratio
+APP-800766,Islamabad,Business Owner,Small Business Expansion,92404,628748,40.37,Medium Risk,Performing,Prior Credit History
+APP-800767,Islamabad,Salaried Individual,Educational Loan,234657,2458535,47.87,Low Risk,Performing,Employment Duration
+APP-800768,Islamabad,Salaried Individual,Small Business Expansion,122939,981126,19.88,Low Risk,Performing,Prior Credit History
+APP-800769,Multan,Unemployed/Freelance,Debt Consolidation,112623,1015384,54.42,Low Risk,Defaulted,Income Variance
+APP-800770,Multan,Salaried Individual,Home Renovation,240094,2152381,25.95,Medium Risk,Performing,Debt-to-Income Ratio
+APP-800771,Islamabad,Business Owner,Educational Loan,134182,872159,62.43,Low Risk,Defaulted,Employment Duration
+APP-800772,Karachi,Business Owner,Educational Loan,321520,1483040,29.09,High Risk,Defaulted,Prior Credit History
+APP-800773,Multan,Salaried Individual,Home Renovation,68844,509273,28.72,Medium Risk,Performing,Debt-to-Income Ratio
+APP-800774,Multan,Unemployed/Freelance,Debt Consolidation,177363,1050489,35.08,Low Risk,Performing,Prior Credit History
+APP-800775,Islamabad,Unemployed/Freelance,Debt Consolidation,99528,1373023,83.74,High Risk,Defaulted,Income Variance
+APP-800776,Faisalabad,Unemployed/Freelance,Home Renovation,243486,1497915,34.9,Medium Risk,Performing,Debt-to-Income Ratio
+APP-800777,Rawalpindi,Unemployed/Freelance,Home Renovation,276216,1521064,22.82,Low Risk,Performing,Employment Duration
+APP-800778,Rawalpindi,Self-Employed Professional,Small Business Expansion,280983,232710,25.76,Medium Risk,Performing,Prior Credit History
+APP-800779,Faisalabad,Self-Employed Professional,Home Renovation,145875,2144136,67.41,Medium Risk,Performing,Prior Credit History
+APP-800780,Faisalabad,Salaried Individual,Home Renovation,88118,1994928,31.42,Low Risk,Performing,Income Variance
+APP-800781,Karachi,Business Owner,Home Renovation,106359,111939,36.37,Medium Risk,Performing,Prior Credit History
+APP-800782,Islamabad,Unemployed/Freelance,Home Renovation,81041,1204208,80.71,Medium Risk,Defaulted,Employment Duration
+APP-800783,Islamabad,Salaried Individual,Debt Consolidation,193945,586499,9.46,Medium Risk,Defaulted,Income Variance
+APP-800784,Rawalpindi,Self-Employed Professional,Educational Loan,131654,2230118,28.48,Medium Risk,Performing,Income Variance
+APP-800785,Karachi,Salaried Individual,Home Renovation,177586,1877969,42.68,Low Risk,Performing,Debt-to-Income Ratio
+APP-800786,Islamabad,Self-Employed Professional,Small Business Expansion,264077,381802,23.5,Medium Risk,Performing,Prior Credit History
+APP-800787,Faisalabad,Salaried Individual,Small Business Expansion,331553,2467889,6.54,Low Risk,Defaulted,Income Variance
+APP-800788,Faisalabad,Business Owner,Home Renovation,239305,1001377,26.07,Low Risk,Performing,Debt-to-Income Ratio
+APP-800789,Faisalabad,Business Owner,Home Renovation,265305,2483620,27.77,Medium Risk,Performing,Debt-to-Income Ratio
+APP-800790,Lahore,Business Owner,Small Business Expansion,302122,170401,38.27,Low Risk,Performing,Prior Credit History
+APP-800791,Multan,Unemployed/Freelance,Small Business Expansion,126715,2284974,63.6,Low Risk,Defaulted,Employment Duration
+APP-800792,Rawalpindi,Self-Employed Professional,Home Renovation,325295,2372239,14.87,High Risk,Defaulted,Income Variance
+APP-800793,Islamabad,Business Owner,Educational Loan,349465,951251,7.68,Medium Risk,Performing,Income Variance
+APP-800794,Multan,Business Owner,Home Renovation,285825,1479157,29.79,Low Risk,Performing,Prior Credit History
+APP-800795,Rawalpindi,Self-Employed Professional,Home Renovation,98386,385636,32.92,Medium Risk,Performing,Debt-to-Income Ratio
+APP-800796,Rawalpindi,Salaried Individual,Debt Consolidation,311318,909342,6.5,Low Risk,Performing,Debt-to-Income Ratio
+APP-800797,Multan,Unemployed/Freelance,Home Renovation,119310,1427912,29.18,Medium Risk,Performing,Prior Credit History
+APP-800798,Lahore,Salaried Individual,Debt Consolidation,157989,1379000,18.7,Low Risk,Defaulted,Prior Credit History
+APP-800799,Lahore,Self-Employed Professional,Debt Consolidation,53460,690232,193.49,Low Risk,Performing,Debt-to-Income Ratio
+APP-800800,Rawalpindi,Salaried Individual,Home Renovation,225560,1348775,24.74,Low Risk,Performing,Debt-to-Income Ratio
+APP-800801,Rawalpindi,Self-Employed Professional,Debt Consolidation,259717,2111028,8.66,Low Risk,Performing,Income Variance
+APP-800802,Faisalabad,Salaried Individual,Educational Loan,251437,2485686,44.91,Low Risk,Performing,Employment Duration
+APP-800803,Lahore,Salaried Individual,Debt Consolidation,167972,939310,62.89,Low Risk,Performing,Employment Duration
+APP-800804,Karachi,Business Owner,Educational Loan,323551,110806,6.17,Low Risk,Performing,Prior Credit History
+APP-800805,Islamabad,Unemployed/Freelance,Small Business Expansion,158133,436967,48.19,High Risk,Defaulted,Prior Credit History
+APP-800806,Karachi,Unemployed/Freelance,Small Business Expansion,140053,635501,17.82,Low Risk,Performing,Prior Credit History
+APP-800807,Multan,Business Owner,Educational Loan,145582,2033842,35.88,Low Risk,Performing,Income Variance
+APP-800808,Faisalabad,Unemployed/Freelance,Educational Loan,313861,1152946,18.74,High Risk,Defaulted,Employment Duration
+APP-800809,Islamabad,Self-Employed Professional,Home Renovation,212954,983423,39.09,Low Risk,Performing,Prior Credit History
+APP-800810,Lahore,Self-Employed Professional,Home Renovation,72814,1409645,152.74,Low Risk,Defaulted,Debt-to-Income Ratio
+APP-800811,Lahore,Business Owner,Small Business Expansion,180630,1876003,19.06,Low Risk,Performing,Prior Credit History
+APP-800812,Lahore,Business Owner,Home Renovation,313490,637084,26.64,Low Risk,Performing,Prior Credit History
+APP-800813,Islamabad,Salaried Individual,Debt Consolidation,281794,844963,25.84,Low Risk,Performing,Income Variance
+APP-800814,Islamabad,Business Owner,Debt Consolidation,71185,218432,148.23,Low Risk,Defaulted,Income Variance
+APP-800815,Rawalpindi,Self-Employed Professional,Home Renovation,261902,388451,30.15,Medium Risk,Performing,Prior Credit History
+APP-800816,Lahore,Self-Employed Professional,Educational Loan,100176,319785,61.11,Medium Risk,Performing,Employment Duration
+APP-800817,Rawalpindi,Unemployed/Freelance,Debt Consolidation,190210,2010982,40.15,High Risk,Defaulted,Employment Duration
+APP-800818,Karachi,Self-Employed Professional,Home Renovation,280175,2261019,23.46,Low Risk,Performing,Income Variance
+APP-800819,Rawalpindi,Self-Employed Professional,Small Business Expansion,57190,1879066,204.07,High Risk,Performing,Debt-to-Income Ratio
+APP-800820,Lahore,Business Owner,Debt Consolidation,345999,610285,19.03,Low Risk,Performing,Employment Duration
+APP-800821,Rawalpindi,Salaried Individual,Debt Consolidation,323810,2275225,26.62,Low Risk,Performing,Employment Duration
+APP-800822,Faisalabad,Salaried Individual,Small Business Expansion,197474,2429607,53.03,Low Risk,Performing,Income Variance
+APP-800823,Multan,Unemployed/Freelance,Home Renovation,290544,464605,14.92,Low Risk,Performing,Income Variance
+APP-800824,Multan,Unemployed/Freelance,Home Renovation,164430,842977,43.93,Medium Risk,Performing,Income Variance
+APP-800825,Faisalabad,Business Owner,Small Business Expansion,329079,1506701,4.68,Low Risk,Performing,Employment Duration
+APP-800826,Lahore,Self-Employed Professional,Educational Loan,70800,2120976,122.94,Low Risk,Defaulted,Income Variance
+APP-800827,Rawalpindi,Self-Employed Professional,Home Renovation,183564,1772189,64.73,Low Risk,Performing,Prior Credit History
+APP-800828,Karachi,Unemployed/Freelance,Small Business Expansion,75738,1209565,125.96,Low Risk,Defaulted,Employment Duration
+APP-800829,Multan,Self-Employed Professional,Home Renovation,317184,1321507,14.84,Low Risk,Performing,Debt-to-Income Ratio
+APP-800830,Faisalabad,Self-Employed Professional,Educational Loan,79504,460727,125.57,Medium Risk,Defaulted,Debt-to-Income Ratio
+APP-800831,Faisalabad,Unemployed/Freelance,Home Renovation,177315,1360467,44.49,High Risk,Defaulted,Income Variance
+APP-800832,Islamabad,Self-Employed Professional,Home Renovation,168702,333734,35.21,High Risk,Performing,Income Variance
+APP-800833,Faisalabad,Self-Employed Professional,Small Business Expansion,247382,1664431,8.76,Low Risk,Performing,Debt-to-Income Ratio
+APP-800834,Islamabad,Business Owner,Debt Consolidation,239519,2185519,47.21,Low Risk,Performing,Prior Credit History
+APP-800835,Faisalabad,Salaried Individual,Debt Consolidation,140698,1181343,31.55,Low Risk,Performing,Prior Credit History
+APP-800836,Faisalabad,Business Owner,Small Business Expansion,299097,548851,19.46,High Risk,Performing,Prior Credit History
+APP-800837,Multan,Business Owner,Small Business Expansion,294122,1816489,11.39,Medium Risk,Performing,Employment Duration
+APP-800838,Multan,Salaried Individual,Educational Loan,85256,1638160,75.02,Low Risk,Defaulted,Debt-to-Income Ratio
+APP-800839,Islamabad,Unemployed/Freelance,Home Renovation,339942,1566530,17.63,Low Risk,Performing,Employment Duration
+APP-800840,Lahore,Unemployed/Freelance,Educational Loan,244016,1947319,45.53,Low Risk,Performing,Debt-to-Income Ratio
+APP-800841,Rawalpindi,Unemployed/Freelance,Educational Loan,251521,1191698,9.4,Medium Risk,Performing,Debt-to-Income Ratio
+APP-800842,Rawalpindi,Unemployed/Freelance,Small Business Expansion,68087,1308737,98.03,Low Risk,Performing,Prior Credit History
+APP-800843,Islamabad,Self-Employed Professional,Educational Loan,129295,1706692,73.49,High Risk,Defaulted,Employment Duration
+APP-800844,Multan,Business Owner,Small Business Expansion,258178,1022744,34.08,Medium Risk,Performing,Debt-to-Income Ratio
+APP-800845,Karachi,Self-Employed Professional,Educational Loan,138034,1550963,23.62,Low Risk,Performing,Employment Duration
+APP-800846,Karachi,Salaried Individual,Debt Consolidation,304906,357799,9.04,Low Risk,Performing,Debt-to-Income Ratio
+APP-800847,Lahore,Self-Employed Professional,Educational Loan,127554,491422,79.92,Low Risk,Defaulted,Prior Credit History
+APP-800848,Karachi,Unemployed/Freelance,Educational Loan,233732,1472859,8.11,Low Risk,Performing,Income Variance
+APP-800849,Karachi,Self-Employed Professional,Small Business Expansion,73402,308138,130.01,High Risk,Defaulted,Employment Duration
+APP-800850,Karachi,Self-Employed Professional,Debt Consolidation,257454,2123233,43.3,High Risk,Defaulted,Employment Duration
+APP-800851,Multan,Business Owner,Home Renovation,70445,1203119,41.94,Low Risk,Performing,Employment Duration
+APP-800852,Lahore,Business Owner,Home Renovation,58099,1038100,114.82,Low Risk,Defaulted,Employment Duration
+APP-800853,Faisalabad,Self-Employed Professional,Debt Consolidation,74857,493812,67.89,Medium Risk,Defaulted,Debt-to-Income Ratio
+APP-800854,Multan,Self-Employed Professional,Home Renovation,201565,1839061,54.51,Medium Risk,Defaulted,Prior Credit History
+APP-800855,Lahore,Business Owner,Small Business Expansion,198989,1375410,36.27,Low Risk,Defaulted,Debt-to-Income Ratio
+APP-800856,Lahore,Self-Employed Professional,Small Business Expansion,236908,2179979,41.66,Medium Risk,Performing,Income Variance
+APP-800857,Islamabad,Self-Employed Professional,Debt Consolidation,98434,493182,56.77,Low Risk,Performing,Income Variance
+APP-800858,Karachi,Self-Employed Professional,Educational Loan,45926,2231277,259.7,Low Risk,Defaulted,Income Variance
+APP-800859,Karachi,Unemployed/Freelance,Debt Consolidation,298981,662272,16.78,High Risk,Defaulted,Income Variance
+APP-800860,Multan,Business Owner,Home Renovation,184116,334768,43.62,Low Risk,Performing,Employment Duration
+APP-800861,Faisalabad,Self-Employed Professional,Educational Loan,132577,1108584,89.85,Low Risk,Defaulted,Debt-to-Income Ratio
+APP-800862,Lahore,Business Owner,Debt Consolidation,323507,2109461,31.48,Medium Risk,Defaulted,Debt-to-Income Ratio
+APP-800863,Faisalabad,Self-Employed Professional,Home Renovation,306785,210470,10.68,Low Risk,Performing,Prior Credit History
+APP-800864,Karachi,Self-Employed Professional,Small Business Expansion,162741,316579,9.59,Medium Risk,Performing,Income Variance
+APP-800865,Faisalabad,Salaried Individual,Debt Consolidation,176866,509248,67.68,Low Risk,Defaulted,Employment Duration
+APP-800866,Multan,Unemployed/Freelance,Educational Loan,86309,1764485,118.72,Low Risk,Defaulted,Prior Credit History
+APP-800867,Islamabad,Unemployed/Freelance,Educational Loan,278649,847101,16.28,Low Risk,Performing,Debt-to-Income Ratio
+APP-800868,Rawalpindi,Business Owner,Small Business Expansion,280955,136142,40.54,Low Risk,Performing,Debt-to-Income Ratio
+APP-800869,Karachi,Salaried Individual,Educational Loan,67233,1008895,147.28,Low Risk,Defaulted,Prior Credit History
+APP-800870,Multan,Business Owner,Debt Consolidation,262718,1194460,41.49,Medium Risk,Performing,Prior Credit History
+APP-800871,Faisalabad,Business Owner,Educational Loan,79784,127127,107.93,Medium Risk,Defaulted,Income Variance
+APP-800872,Karachi,Salaried Individual,Small Business Expansion,93048,2449836,96.65,Low Risk,Defaulted,Income Variance
+APP-800873,Islamabad,Unemployed/Freelance,Small Business Expansion,195925,1440738,35.58,Low Risk,Performing,Income Variance
+APP-800874,Islamabad,Self-Employed Professional,Small Business Expansion,160176,2174462,40.05,Medium Risk,Performing,Income Variance
+APP-800875,Multan,Unemployed/Freelance,Debt Consolidation,279084,358047,25.55,Low Risk,Performing,Prior Credit History
+APP-800876,Islamabad,Business Owner,Small Business Expansion,200621,165909,23.09,Low Risk,Performing,Prior Credit History
+APP-800877,Multan,Business Owner,Home Renovation,214448,573316,36.37,High Risk,Performing,Employment Duration
+APP-800878,Lahore,Business Owner,Home Renovation,343528,540624,20.77,High Risk,Defaulted,Prior Credit History
+APP-800879,Faisalabad,Unemployed/Freelance,Home Renovation,119399,447945,53.26,Low Risk,Defaulted,Debt-to-Income Ratio
+APP-800880,Multan,Salaried Individual,Home Renovation,130638,1886913,17.0,Low Risk,Performing,Prior Credit History
+APP-800881,Rawalpindi,Unemployed/Freelance,Debt Consolidation,275702,452838,32.85,Low Risk,Performing,Employment Duration
+APP-800882,Karachi,Unemployed/Freelance,Home Renovation,123876,2115683,45.42,Low Risk,Performing,Debt-to-Income Ratio
+APP-800883,Faisalabad,Business Owner,Debt Consolidation,88131,1437563,67.87,Medium Risk,Defaulted,Debt-to-Income Ratio
+APP-800884,Faisalabad,Salaried Individual,Debt Consolidation,149362,1449818,70.53,Low Risk,Defaulted,Income Variance
+APP-800885,Karachi,Unemployed/Freelance,Educational Loan,169910,156371,11.83,Low Risk,Performing,Debt-to-Income Ratio
+APP-800886,Faisalabad,Unemployed/Freelance,Home Renovation,212709,2137065,46.22,High Risk,Performing,Prior Credit History
+APP-800887,Faisalabad,Self-Employed Professional,Small Business Expansion,317234,2499393,36.96,Medium Risk,Performing,Income Variance
+APP-800888,Faisalabad,Salaried Individual,Educational Loan,86569,918595,121.38,Medium Risk,Defaulted,Income Variance
+APP-800889,Rawalpindi,Business Owner,Educational Loan,58493,922696,48.2,Low Risk,Performing,Employment Duration
+APP-800890,Faisalabad,Unemployed/Freelance,Debt Consolidation,211836,628166,16.31,Low Risk,Performing,Prior Credit History
+APP-800891,Karachi,Salaried Individual,Debt Consolidation,157298,1721993,59.68,Low Risk,Defaulted,Prior Credit History
+APP-800892,Faisalabad,Self-Employed Professional,Home Renovation,270002,1412022,17.15,Medium Risk,Performing,Employment Duration
+APP-800893,Rawalpindi,Salaried Individual,Educational Loan,208006,2234676,22.07,Medium Risk,Performing,Debt-to-Income Ratio
+APP-800894,Faisalabad,Salaried Individual,Home Renovation,264015,2194447,44.42,Low Risk,Performing,Debt-to-Income Ratio
+APP-800895,Islamabad,Salaried Individual,Debt Consolidation,293902,2175767,12.76,Low Risk,Performing,Employment Duration
+APP-800896,Multan,Unemployed/Freelance,Home Renovation,131291,1406717,27.28,Low Risk,Performing,Debt-to-Income Ratio
+APP-800897,Multan,Self-Employed Professional,Debt Consolidation,164426,141999,53.71,Low Risk,Defaulted,Income Variance
+APP-800898,Islamabad,Business Owner,Home Renovation,84725,1856030,106.45,Medium Risk,Defaulted,Prior Credit History
+APP-800899,Karachi,Unemployed/Freelance,Educational Loan,195760,944279,56.3,Low Risk,Defaulted,Income Variance
+APP-800900,Islamabad,Unemployed/Freelance,Debt Consolidation,106873,217816,20.76,High Risk,Performing,Prior Credit History
+APP-800901,Rawalpindi,Business Owner,Debt Consolidation,110965,1718216,101.46,Low Risk,Defaulted,Income Variance
+APP-800902,Karachi,Business Owner,Small Business Expansion,106268,505774,56.33,Low Risk,Performing,Income Variance
+APP-800903,Multan,Salaried Individual,Small Business Expansion,54885,1139925,120.5,Medium Risk,Defaulted,Employment Duration
+APP-800904,Lahore,Business Owner,Home Renovation,262639,1964649,31.35,Low Risk,Defaulted,Employment Duration
+APP-800905,Karachi,Self-Employed Professional,Educational Loan,230711,1829822,41.31,Medium Risk,Performing,Prior Credit History
+APP-800906,Karachi,Salaried Individual,Small Business Expansion,285851,524497,23.45,Low Risk,Defaulted,Income Variance
+APP-800907,Rawalpindi,Unemployed/Freelance,Debt Consolidation,227528,1071772,36.63,Low Risk,Performing,Income Variance
+APP-800908,Rawalpindi,Self-Employed Professional,Small Business Expansion,216110,1506992,20.98,Low Risk,Performing,Prior Credit History
+APP-800909,Multan,Unemployed/Freelance,Debt Consolidation,106601,2185105,110.13,Medium Risk,Defaulted,Employment Duration
+APP-800910,Multan,Salaried Individual,Educational Loan,183333,1432933,59.64,Low Risk,Defaulted,Income Variance
+APP-800911,Multan,Business Owner,Home Renovation,58400,2090504,171.02,Medium Risk,Performing,Debt-to-Income Ratio
+APP-800912,Faisalabad,Business Owner,Home Renovation,201692,1527390,20.54,Medium Risk,Performing,Prior Credit History
+APP-800913,Lahore,Business Owner,Debt Consolidation,229224,310562,40.7,Low Risk,Performing,Debt-to-Income Ratio
+APP-800914,Faisalabad,Salaried Individual,Home Renovation,337116,1413259,18.13,Medium Risk,Performing,Employment Duration
+APP-800915,Islamabad,Unemployed/Freelance,Educational Loan,348239,2120187,34.16,High Risk,Defaulted,Debt-to-Income Ratio
+APP-800916,Lahore,Salaried Individual,Home Renovation,91106,288846,82.66,Low Risk,Performing,Income Variance
+APP-800917,Faisalabad,Unemployed/Freelance,Debt Consolidation,241398,129462,33.23,Medium Risk,Performing,Prior Credit History
+APP-800918,Multan,Self-Employed Professional,Small Business Expansion,98107,1985922,52.21,Low Risk,Defaulted,Debt-to-Income Ratio
+APP-800919,Rawalpindi,Unemployed/Freelance,Home Renovation,219187,2218888,25.22,High Risk,Defaulted,Prior Credit History
+APP-800920,Rawalpindi,Unemployed/Freelance,Home Renovation,115644,1145411,57.73,Low Risk,Defaulted,Employment Duration
+APP-800921,Multan,Unemployed/Freelance,Educational Loan,58540,1137366,142.33,Low Risk,Defaulted,Employment Duration
+APP-800922,Lahore,Self-Employed Professional,Small Business Expansion,67334,1397267,133.34,High Risk,Defaulted,Employment Duration
+APP-800923,Islamabad,Salaried Individual,Home Renovation,52286,2296446,101.88,Low Risk,Defaulted,Income Variance
+APP-800924,Faisalabad,Unemployed/Freelance,Small Business Expansion,53694,1904318,151.49,High Risk,Defaulted,Debt-to-Income Ratio
+APP-800925,Lahore,Self-Employed Professional,Debt Consolidation,184905,1688346,39.07,Low Risk,Performing,Debt-to-Income Ratio
+APP-800926,Multan,Self-Employed Professional,Small Business Expansion,185450,1583444,16.57,High Risk,Performing,Income Variance
+APP-800927,Lahore,Unemployed/Freelance,Home Renovation,192050,2325180,45.22,High Risk,Defaulted,Income Variance
+APP-800928,Lahore,Self-Employed Professional,Debt Consolidation,219353,252165,38.96,Medium Risk,Performing,Employment Duration
+APP-800929,Karachi,Self-Employed Professional,Home Renovation,322604,2104664,33.36,Medium Risk,Performing,Employment Duration
+APP-800930,Rawalpindi,Unemployed/Freelance,Home Renovation,329251,802139,30.38,Medium Risk,Performing,Employment Duration
+APP-800931,Multan,Salaried Individual,Home Renovation,47581,2415840,206.49,Low Risk,Defaulted,Debt-to-Income Ratio
+APP-800932,Rawalpindi,Salaried Individual,Debt Consolidation,108597,1202851,22.93,High Risk,Performing,Employment Duration
+APP-800933,Lahore,Salaried Individual,Educational Loan,75714,2283367,82.14,Low Risk,Defaulted,Debt-to-Income Ratio
+APP-800934,Faisalabad,Salaried Individual,Debt Consolidation,338996,864223,11.1,Low Risk,Performing,Employment Duration
+APP-800935,Islamabad,Business Owner,Debt Consolidation,201551,1774633,57.22,Medium Risk,Defaulted,Debt-to-Income Ratio
+APP-800936,Islamabad,Business Owner,Educational Loan,240212,2461336,22.25,Low Risk,Performing,Income Variance
+APP-800937,Lahore,Business Owner,Home Renovation,131683,1233097,79.53,Medium Risk,Defaulted,Employment Duration
+APP-800938,Lahore,Business Owner,Educational Loan,88587,267259,38.95,Low Risk,Performing,Prior Credit History
+APP-800939,Rawalpindi,Self-Employed Professional,Small Business Expansion,208774,1867219,44.71,Low Risk,Performing,Income Variance
+APP-800940,Islamabad,Business Owner,Debt Consolidation,334811,1953526,12.02,Medium Risk,Performing,Debt-to-Income Ratio
+APP-800941,Islamabad,Business Owner,Home Renovation,312611,155126,24.77,Medium Risk,Performing,Debt-to-Income Ratio
+APP-800942,Karachi,Business Owner,Home Renovation,201376,1981333,17.99,Low Risk,Performing,Debt-to-Income Ratio
+APP-800943,Rawalpindi,Salaried Individual,Small Business Expansion,139912,1269020,20.39,Low Risk,Performing,Debt-to-Income Ratio
+APP-800944,Multan,Self-Employed Professional,Home Renovation,129070,1201914,43.56,Medium Risk,Performing,Debt-to-Income Ratio
+APP-800945,Faisalabad,Self-Employed Professional,Debt Consolidation,139462,1703212,29.42,Low Risk,Performing,Income Variance
+APP-800946,Islamabad,Salaried Individual,Home Renovation,115912,2065849,101.75,Medium Risk,Defaulted,Income Variance
+APP-800947,Lahore,Self-Employed Professional,Small Business Expansion,259823,1581580,31.41,Low Risk,Performing,Employment Duration
+APP-800948,Islamabad,Business Owner,Home Renovation,91769,1104655,128.52,Medium Risk,Defaulted,Employment Duration
+APP-800949,Rawalpindi,Unemployed/Freelance,Home Renovation,212660,290047,14.66,Low Risk,Performing,Employment Duration
+APP-800950,Rawalpindi,Self-Employed Professional,Small Business Expansion,247461,2433811,22.46,Low Risk,Defaulted,Employment Duration
+APP-800951,Lahore,Salaried Individual,Debt Consolidation,247851,2188112,28.08,Medium Risk,Defaulted,Income Variance
+APP-800952,Multan,Unemployed/Freelance,Debt Consolidation,188601,614931,42.21,Medium Risk,Performing,Prior Credit History
+APP-800953,Karachi,Unemployed/Freelance,Home Renovation,264708,139653,10.57,High Risk,Defaulted,Income Variance
+APP-800954,Lahore,Unemployed/Freelance,Educational Loan,310985,2254036,8.15,Low Risk,Performing,Debt-to-Income Ratio
+APP-800955,Faisalabad,Business Owner,Small Business Expansion,341136,2011653,32.86,Low Risk,Performing,Prior Credit History
+APP-800956,Faisalabad,Salaried Individual,Educational Loan,74303,1248281,61.29,High Risk,Defaulted,Employment Duration
+APP-800957,Multan,Self-Employed Professional,Debt Consolidation,303161,279784,35.58,Low Risk,Performing,Prior Credit History
+APP-800958,Islamabad,Unemployed/Freelance,Small Business Expansion,85023,1710831,66.87,High Risk,Defaulted,Prior Credit History
+APP-800959,Karachi,Salaried Individual,Debt Consolidation,106142,702382,63.53,Low Risk,Defaulted,Prior Credit History
+APP-800960,Faisalabad,Business Owner,Educational Loan,338259,462955,23.22,Medium Risk,Defaulted,Employment Duration
+APP-800961,Lahore,Business Owner,Small Business Expansion,132062,297052,26.45,Medium Risk,Performing,Debt-to-Income Ratio
+APP-800962,Islamabad,Unemployed/Freelance,Small Business Expansion,262015,493798,34.09,Medium Risk,Defaulted,Income Variance
+APP-800963,Multan,Self-Employed Professional,Small Business Expansion,182997,1125579,25.87,Low Risk,Performing,Prior Credit History
+APP-800964,Karachi,Salaried Individual,Debt Consolidation,183231,359845,64.13,Medium Risk,Defaulted,Income Variance
+APP-800965,Multan,Salaried Individual,Educational Loan,246254,1411042,22.47,Low Risk,Performing,Income Variance
+APP-800966,Karachi,Self-Employed Professional,Debt Consolidation,52909,1939072,190.84,Low Risk,Defaulted,Prior Credit History
+APP-800967,Multan,Self-Employed Professional,Educational Loan,244107,503247,36.49,Medium Risk,Performing,Prior Credit History
+APP-800968,Karachi,Salaried Individual,Home Renovation,97852,2457661,19.01,Low Risk,Performing,Employment Duration
+APP-800969,Rawalpindi,Unemployed/Freelance,Educational Loan,268779,2155921,5.75,Low Risk,Defaulted,Prior Credit History
+APP-800970,Karachi,Salaried Individual,Small Business Expansion,184114,194177,58.56,Low Risk,Defaulted,Debt-to-Income Ratio
+APP-800971,Lahore,Salaried Individual,Educational Loan,147065,1812199,60.28,Medium Risk,Performing,Income Variance
+APP-800972,Multan,Salaried Individual,Debt Consolidation,237866,1899966,9.68,Medium Risk,Performing,Employment Duration
+APP-800973,Faisalabad,Unemployed/Freelance,Home Renovation,142977,801706,16.13,Low Risk,Performing,Prior Credit History
+APP-800974,Rawalpindi,Self-Employed Professional,Debt Consolidation,56592,1423276,197.0,Low Risk,Defaulted,Employment Duration
+APP-800975,Faisalabad,Self-Employed Professional,Small Business Expansion,227214,471115,48.89,Low Risk,Performing,Employment Duration
+APP-800976,Lahore,Salaried Individual,Educational Loan,113899,2050074,39.55,Low Risk,Performing,Employment Duration
+APP-800977,Multan,Salaried Individual,Debt Consolidation,198472,1509971,29.14,High Risk,Performing,Employment Duration
+APP-800978,Islamabad,Business Owner,Debt Consolidation,215240,1022938,16.39,Medium Risk,Performing,Income Variance
+APP-800979,Rawalpindi,Self-Employed Professional,Small Business Expansion,313890,1183490,38.05,Medium Risk,Performing,Income Variance
+APP-800980,Karachi,Salaried Individual,Educational Loan,266483,1663390,40.06,Low Risk,Performing,Income Variance
+APP-800981,Faisalabad,Salaried Individual,Small Business Expansion,67026,1924653,89.59,Medium Risk,Defaulted,Prior Credit History
+APP-800982,Multan,Self-Employed Professional,Educational Loan,220762,843818,7.13,Low Risk,Performing,Employment Duration
+APP-800983,Islamabad,Business Owner,Educational Loan,257307,1793338,30.62,Low Risk,Performing,Employment Duration
+APP-800984,Lahore,Self-Employed Professional,Home Renovation,205476,866912,58.16,Low Risk,Defaulted,Employment Duration
+APP-800985,Karachi,Business Owner,Educational Loan,167177,115248,48.57,Low Risk,Performing,Income Variance
+APP-800986,Rawalpindi,Salaried Individual,Debt Consolidation,286442,635906,33.35,Low Risk,Performing,Debt-to-Income Ratio
+APP-800987,Rawalpindi,Salaried Individual,Small Business Expansion,250610,1656810,29.13,Low Risk,Performing,Debt-to-Income Ratio
+APP-800988,Lahore,Salaried Individual,Educational Loan,154794,2037311,68.56,Low Risk,Defaulted,Income Variance
+APP-800989,Multan,Self-Employed Professional,Debt Consolidation,284470,502851,31.67,High Risk,Performing,Income Variance
+APP-800990,Faisalabad,Business Owner,Debt Consolidation,186627,1518215,23.66,Low Risk,Performing,Employment Duration
+APP-800991,Islamabad,Salaried Individual,Small Business Expansion,339311,1945854,5.68,Low Risk,Performing,Income Variance
+APP-800992,Faisalabad,Self-Employed Professional,Small Business Expansion,89008,758186,36.04,Low Risk,Defaulted,Income Variance
+APP-800993,Islamabad,Self-Employed Professional,Debt Consolidation,67205,843267,89.76,Medium Risk,Defaulted,Income Variance
+APP-800994,Islamabad,Self-Employed Professional,Educational Loan,106965,129821,78.5,Low Risk,Performing,Prior Credit History
+APP-800995,Rawalpindi,Salaried Individual,Educational Loan,291429,1547638,25.72,Medium Risk,Performing,Debt-to-Income Ratio
+APP-800996,Faisalabad,Self-Employed Professional,Home Renovation,62333,1715702,156.2,Medium Risk,Defaulted,Debt-to-Income Ratio
+APP-800997,Karachi,Business Owner,Small Business Expansion,157434,708528,43.34,Medium Risk,Performing,Prior Credit History
+APP-800998,Faisalabad,Business Owner,Home Renovation,240808,315321,17.52,High Risk,Defaulted,Employment Duration
+APP-800999,Rawalpindi,Business Owner,Small Business Expansion,101834,1765791,33.16,Low Risk,Performing,Income Variance
+APP-801000,Faisalabad,Salaried Individual,Home Renovation,271709,174692,40.07,Low Risk,Performing,Employment Duration
+APP-801001,Faisalabad,Salaried Individual,Small Business Expansion,196621,1751680,30.26,High Risk,Defaulted,Debt-to-Income Ratio
+APP-801002,Islamabad,Self-Employed Professional,Home Renovation,99845,116989,24.29,Low Risk,Performing,Employment Duration
+APP-801003,Islamabad,Salaried Individual,Debt Consolidation,45843,459576,37.97,Low Risk,Performing,Employment Duration
+APP-801004,Islamabad,Salaried Individual,Small Business Expansion,78293,1851924,46.96,Low Risk,Performing,Income Variance
+APP-801005,Rawalpindi,Salaried Individual,Debt Consolidation,326241,1946760,15.41,Low Risk,Defaulted,Prior Credit History
+APP-801006,Multan,Salaried Individual,Home Renovation,167839,1577252,32.27,High Risk,Defaulted,Employment Duration
+APP-801007,Karachi,Salaried Individual,Educational Loan,267391,1430178,25.58,Low Risk,Performing,Employment Duration
+APP-801008,Islamabad,Self-Employed Professional,Debt Consolidation,289888,1011674,26.37,Low Risk,Performing,Prior Credit History
+APP-801009,Lahore,Business Owner,Debt Consolidation,118480,109506,49.08,Low Risk,Performing,Debt-to-Income Ratio
+APP-801010,Rawalpindi,Salaried Individual,Home Renovation,252374,2046689,23.14,High Risk,Defaulted,Debt-to-Income Ratio
+APP-801011,Islamabad,Business Owner,Educational Loan,217094,757126,42.75,High Risk,Defaulted,Prior Credit History
+APP-801012,Lahore,Unemployed/Freelance,Educational Loan,296012,2351638,16.43,Low Risk,Performing,Prior Credit History
+APP-801013,Rawalpindi,Self-Employed Professional,Home Renovation,264062,1394022,24.41,Medium Risk,Performing,Income Variance
+APP-801014,Islamabad,Self-Employed Professional,Educational Loan,288678,2334458,27.07,Low Risk,Performing,Debt-to-Income Ratio
+APP-801015,Lahore,Self-Employed Professional,Educational Loan,336274,1945251,11.53,Low Risk,Performing,Prior Credit History
+APP-801016,Rawalpindi,Business Owner,Educational Loan,298574,1203178,10.84,Low Risk,Performing,Prior Credit History
+APP-801017,Faisalabad,Self-Employed Professional,Home Renovation,70962,1658851,55.09,Medium Risk,Defaulted,Prior Credit History
+APP-801018,Multan,Unemployed/Freelance,Debt Consolidation,87317,1817511,37.89,Low Risk,Performing,Debt-to-Income Ratio
+APP-801019,Karachi,Business Owner,Educational Loan,168671,1648905,48.12,Low Risk,Performing,Employment Duration
+APP-801020,Lahore,Unemployed/Freelance,Home Renovation,134456,1328886,82.6,High Risk,Defaulted,Income Variance
+APP-801021,Faisalabad,Self-Employed Professional,Small Business Expansion,283218,861539,28.67,Low Risk,Performing,Employment Duration
+APP-801022,Faisalabad,Business Owner,Home Renovation,291186,1146128,18.34,High Risk,Performing,Debt-to-Income Ratio
+APP-801023,Islamabad,Salaried Individual,Small Business Expansion,191708,374822,43.51,Low Risk,Performing,Debt-to-Income Ratio
+APP-801024,Lahore,Self-Employed Professional,Educational Loan,213824,1182618,53.45,Low Risk,Defaulted,Income Variance
+APP-801025,Karachi,Self-Employed Professional,Debt Consolidation,235498,508370,35.62,Low Risk,Performing,Debt-to-Income Ratio
+APP-801026,Faisalabad,Self-Employed Professional,Debt Consolidation,56888,1970470,57.51,Low Risk,Performing,Prior Credit History
+APP-801027,Lahore,Salaried Individual,Small Business Expansion,338140,529286,28.57,Medium Risk,Performing,Debt-to-Income Ratio
+APP-801028,Multan,Self-Employed Professional,Small Business Expansion,92172,1942800,69.05,Low Risk,Defaulted,Prior Credit History
+APP-801029,Islamabad,Business Owner,Small Business Expansion,246537,769523,43.99,Medium Risk,Performing,Employment Duration
+APP-801030,Karachi,Unemployed/Freelance,Debt Consolidation,78857,302798,49.92,Low Risk,Performing,Income Variance
+APP-801031,Karachi,Business Owner,Small Business Expansion,103540,298526,17.03,Medium Risk,Performing,Income Variance
+APP-801032,Multan,Self-Employed Professional,Small Business Expansion,115131,1017281,26.84,Low Risk,Performing,Prior Credit History
+APP-801033,Rawalpindi,Unemployed/Freelance,Debt Consolidation,285678,275784,29.06,Low Risk,Performing,Debt-to-Income Ratio
+APP-801034,Islamabad,Business Owner,Educational Loan,72792,2208602,94.23,Low Risk,Defaulted,Prior Credit History
+APP-801035,Lahore,Salaried Individual,Debt Consolidation,281977,1656037,24.3,Medium Risk,Performing,Debt-to-Income Ratio
+APP-801036,Islamabad,Unemployed/Freelance,Home Renovation,290042,929698,30.15,Low Risk,Performing,Employment Duration
+APP-801037,Faisalabad,Unemployed/Freelance,Debt Consolidation,71656,637872,41.02,High Risk,Performing,Prior Credit History
+APP-801038,Lahore,Self-Employed Professional,Educational Loan,90076,1059630,117.07,Low Risk,Defaulted,Employment Duration
+APP-801039,Rawalpindi,Business Owner,Educational Loan,271546,1199812,8.32,High Risk,Performing,Employment Duration
+APP-801040,Karachi,Self-Employed Professional,Debt Consolidation,70354,765068,125.14,Low Risk,Defaulted,Debt-to-Income Ratio
+APP-801041,Multan,Salaried Individual,Home Renovation,202656,728938,47.88,Low Risk,Performing,Prior Credit History
+APP-801042,Lahore,Business Owner,Educational Loan,349568,1222041,26.8,Low Risk,Performing,Employment Duration
+APP-801043,Islamabad,Business Owner,Home Renovation,119480,821231,74.52,Low Risk,Defaulted,Employment Duration
+APP-801044,Rawalpindi,Unemployed/Freelance,Home Renovation,267054,109821,42.94,Medium Risk,Performing,Debt-to-Income Ratio
+APP-801045,Islamabad,Business Owner,Small Business Expansion,326269,2339341,32.75,Medium Risk,Performing,Prior Credit History
+APP-801046,Rawalpindi,Self-Employed Professional,Educational Loan,308908,2256263,29.44,Low Risk,Performing,Debt-to-Income Ratio
+APP-801047,Karachi,Unemployed/Freelance,Educational Loan,240605,285110,25.74,Low Risk,Performing,Debt-to-Income Ratio
+APP-801048,Islamabad,Business Owner,Small Business Expansion,316795,394325,16.16,Low Risk,Performing,Employment Duration
+APP-801049,Rawalpindi,Unemployed/Freelance,Small Business Expansion,69782,500028,100.31,Medium Risk,Defaulted,Prior Credit History
+APP-801050,Faisalabad,Unemployed/Freelance,Debt Consolidation,298735,192430,25.11,High Risk,Defaulted,Prior Credit History
+APP-801051,Karachi,Unemployed/Freelance,Home Renovation,321616,338659,21.55,Low Risk,Performing,Debt-to-Income Ratio
+APP-801052,Rawalpindi,Salaried Individual,Debt Consolidation,336466,2227115,16.09,Medium Risk,Performing,Prior Credit History
+APP-801053,Rawalpindi,Business Owner,Educational Loan,323808,2419191,34.96,High Risk,Performing,Debt-to-Income Ratio
+APP-801054,Karachi,Salaried Individual,Educational Loan,163338,1254371,49.14,Low Risk,Performing,Prior Credit History
+APP-801055,Lahore,Business Owner,Home Renovation,346287,409832,5.21,Low Risk,Performing,Employment Duration
+APP-801056,Islamabad,Business Owner,Small Business Expansion,67101,1038339,140.89,Low Risk,Performing,Debt-to-Income Ratio
+APP-801057,Multan,Self-Employed Professional,Small Business Expansion,338591,1239192,17.08,Medium Risk,Performing,Employment Duration
+APP-801058,Karachi,Business Owner,Home Renovation,259379,2396335,7.35,Low Risk,Performing,Employment Duration
+APP-801059,Karachi,Unemployed/Freelance,Home Renovation,236789,359135,17.6,Low Risk,Performing,Employment Duration
+APP-801060,Karachi,Salaried Individual,Debt Consolidation,313341,2151439,37.34,Medium Risk,Performing,Income Variance
+APP-801061,Rawalpindi,Self-Employed Professional,Debt Consolidation,346361,1823266,5.3,High Risk,Defaulted,Employment Duration
+APP-801062,Karachi,Business Owner,Small Business Expansion,156877,113967,53.8,High Risk,Defaulted,Debt-to-Income Ratio
+APP-801063,Islamabad,Salaried Individual,Debt Consolidation,216135,447081,55.11,Medium Risk,Defaulted,Prior Credit History
+APP-801064,Lahore,Self-Employed Professional,Small Business Expansion,262061,1002363,32.53,High Risk,Defaulted,Debt-to-Income Ratio
+APP-801065,Faisalabad,Self-Employed Professional,Small Business Expansion,193034,2191030,34.09,Low Risk,Defaulted,Income Variance
+APP-801066,Multan,Self-Employed Professional,Educational Loan,55598,427366,69.64,Low Risk,Defaulted,Prior Credit History
+APP-801067,Rawalpindi,Salaried Individual,Home Renovation,92297,1801434,102.45,Medium Risk,Performing,Employment Duration
+APP-801068,Lahore,Salaried Individual,Home Renovation,264930,2418888,43.47,Low Risk,Performing,Employment Duration
+APP-801069,Rawalpindi,Business Owner,Small Business Expansion,96187,1207983,64.46,Low Risk,Performing,Debt-to-Income Ratio
+APP-801070,Rawalpindi,Self-Employed Professional,Small Business Expansion,205918,981422,32.91,Medium Risk,Performing,Prior Credit History
+APP-801071,Multan,Business Owner,Small Business Expansion,249110,1692369,12.44,Medium Risk,Performing,Income Variance
+APP-801072,Lahore,Unemployed/Freelance,Home Renovation,88083,709501,86.16,Low Risk,Performing,Prior Credit History
+APP-801073,Rawalpindi,Business Owner,Small Business Expansion,221319,859513,13.77,Low Risk,Performing,Income Variance
+APP-801074,Islamabad,Business Owner,Small Business Expansion,272656,342121,39.25,Low Risk,Performing,Debt-to-Income Ratio
+APP-801075,Faisalabad,Salaried Individual,Educational Loan,240491,1767286,30.77,Low Risk,Performing,Prior Credit History
+APP-801076,Lahore,Business Owner,Small Business Expansion,65502,493199,61.75,Medium Risk,Performing,Debt-to-Income Ratio
+APP-801077,Rawalpindi,Unemployed/Freelance,Educational Loan,207522,1011612,10.6,Low Risk,Performing,Debt-to-Income Ratio
+APP-801078,Multan,Unemployed/Freelance,Educational Loan,345504,369908,20.76,Low Risk,Performing,Employment Duration
+APP-801079,Faisalabad,Self-Employed Professional,Small Business Expansion,139625,1222198,25.32,Low Risk,Performing,Income Variance
+APP-801080,Multan,Salaried Individual,Debt Consolidation,194240,981568,10.03,Medium Risk,Performing,Employment Duration
+APP-801081,Islamabad,Unemployed/Freelance,Home Renovation,270675,518462,12.3,Low Risk,Performing,Debt-to-Income Ratio
+APP-801082,Multan,Self-Employed Professional,Small Business Expansion,235832,693663,23.23,Low Risk,Performing,Prior Credit History
+APP-801083,Lahore,Unemployed/Freelance,Educational Loan,293623,869903,26.05,Medium Risk,Performing,Employment Duration
+APP-801084,Karachi,Unemployed/Freelance,Educational Loan,275572,369480,29.61,Medium Risk,Performing,Prior Credit History
+APP-801085,Multan,Self-Employed Professional,Small Business Expansion,198835,1561241,15.2,Medium Risk,Defaulted,Debt-to-Income Ratio
+APP-801086,Karachi,Salaried Individual,Educational Loan,99574,886118,18.68,Low Risk,Performing,Debt-to-Income Ratio
+APP-801087,Multan,Salaried Individual,Educational Loan,118914,2256583,45.99,Low Risk,Performing,Income Variance
+APP-801088,Lahore,Unemployed/Freelance,Small Business Expansion,124733,1949601,35.92,Low Risk,Performing,Employment Duration
+APP-801089,Faisalabad,Salaried Individual,Home Renovation,299002,268261,17.92,Medium Risk,Performing,Debt-to-Income Ratio
+APP-801090,Lahore,Business Owner,Small Business Expansion,73903,575768,48.98,Low Risk,Performing,Prior Credit History
+APP-801091,Islamabad,Business Owner,Home Renovation,333963,961023,25.82,Low Risk,Performing,Debt-to-Income Ratio
+APP-801092,Faisalabad,Self-Employed Professional,Educational Loan,106125,2114683,17.02,Medium Risk,Performing,Income Variance
+APP-801093,Islamabad,Salaried Individual,Educational Loan,205724,268399,7.98,High Risk,Performing,Prior Credit History
+APP-801094,Rawalpindi,Salaried Individual,Debt Consolidation,51428,2220981,46.44,Medium Risk,Performing,Income Variance
+APP-801095,Faisalabad,Business Owner,Educational Loan,163257,728199,69.41,Low Risk,Performing,Income Variance
+APP-801096,Faisalabad,Salaried Individual,Debt Consolidation,118170,2469394,76.71,Medium Risk,Defaulted,Prior Credit History
+APP-801097,Lahore,Unemployed/Freelance,Debt Consolidation,213039,1458697,20.6,Low Risk,Performing,Income Variance
+APP-801098,Islamabad,Self-Employed Professional,Educational Loan,112421,1995267,73.57,Low Risk,Performing,Prior Credit History
+APP-801099,Karachi,Unemployed/Freelance,Debt Consolidation,215117,1814497,26.05,Low Risk,Performing,Debt-to-Income Ratio
+APP-801100,Rawalpindi,Salaried Individual,Home Renovation,174698,566344,8.68,High Risk,Defaulted,Prior Credit History
+APP-801101,Rawalpindi,Business Owner,Educational Loan,249170,1884237,40.0,Low Risk,Defaulted,Employment Duration
+APP-801102,Rawalpindi,Unemployed/Freelance,Debt Consolidation,119013,877233,89.46,Medium Risk,Performing,Employment Duration
+APP-801103,Multan,Self-Employed Professional,Educational Loan,129569,568551,61.44,Low Risk,Performing,Employment Duration
+APP-801104,Rawalpindi,Business Owner,Small Business Expansion,62794,1584722,64.7,Low Risk,Performing,Debt-to-Income Ratio
+APP-801105,Karachi,Salaried Individual,Home Renovation,234953,2371121,47.18,Medium Risk,Performing,Employment Duration
+APP-801106,Lahore,Self-Employed Professional,Small Business Expansion,304356,1392462,24.66,Low Risk,Performing,Debt-to-Income Ratio
+APP-801107,Karachi,Self-Employed Professional,Small Business Expansion,291423,212720,17.5,Medium Risk,Performing,Income Variance
+APP-801108,Rawalpindi,Salaried Individual,Debt Consolidation,222128,1346799,44.95,Medium Risk,Performing,Income Variance
+APP-801109,Rawalpindi,Salaried Individual,Educational Loan,245385,1842383,46.13,High Risk,Defaulted,Debt-to-Income Ratio
+APP-801110,Islamabad,Business Owner,Educational Loan,74001,456670,46.02,Medium Risk,Performing,Employment Duration
+APP-801111,Islamabad,Business Owner,Small Business Expansion,326206,1181602,22.8,Low Risk,Performing,Income Variance
+APP-801112,Faisalabad,Salaried Individual,Home Renovation,137043,1744766,13.58,Low Risk,Performing,Debt-to-Income Ratio
+APP-801113,Faisalabad,Salaried Individual,Home Renovation,56877,2043520,142.79,Low Risk,Defaulted,Debt-to-Income Ratio
+APP-801114,Rawalpindi,Salaried Individual,Educational Loan,287687,105148,27.2,Low Risk,Performing,Prior Credit History
+APP-801115,Faisalabad,Unemployed/Freelance,Small Business Expansion,279722,2457261,13.3,Medium Risk,Defaulted,Employment Duration
+APP-801116,Karachi,Business Owner,Debt Consolidation,69601,1368652,66.46,High Risk,Performing,Income Variance
+APP-801117,Islamabad,Salaried Individual,Educational Loan,249050,879193,42.73,Medium Risk,Performing,Prior Credit History
+APP-801118,Karachi,Salaried Individual,Debt Consolidation,126566,211962,32.89,High Risk,Defaulted,Employment Duration
+APP-801119,Rawalpindi,Business Owner,Educational Loan,310132,2289275,20.22,Low Risk,Performing,Debt-to-Income Ratio
+APP-801120,Karachi,Business Owner,Home Renovation,101481,568887,95.24,Medium Risk,Defaulted,Employment Duration
+APP-801121,Multan,Business Owner,Home Renovation,182369,1395317,47.82,Low Risk,Performing,Prior Credit History
+APP-801122,Rawalpindi,Unemployed/Freelance,Educational Loan,176375,831718,54.15,High Risk,Defaulted,Prior Credit History
+APP-801123,Islamabad,Self-Employed Professional,Home Renovation,118602,824255,23.58,Low Risk,Performing,Income Variance
+APP-801124,Islamabad,Salaried Individual,Educational Loan,226573,1933768,7.63,Low Risk,Performing,Income Variance
+APP-801125,Islamabad,Self-Employed Professional,Small Business Expansion,177774,1272473,18.66,Low Risk,Performing,Prior Credit History
+APP-801126,Islamabad,Unemployed/Freelance,Small Business Expansion,81410,424797,48.03,Medium Risk,Performing,Income Variance
+APP-801127,Faisalabad,Salaried Individual,Small Business Expansion,182995,1513564,16.9,High Risk,Defaulted,Debt-to-Income Ratio
+APP-801128,Lahore,Salaried Individual,Educational Loan,283979,891216,27.41,Low Risk,Performing,Debt-to-Income Ratio
+APP-801129,Lahore,Self-Employed Professional,Debt Consolidation,300069,1810781,14.01,Low Risk,Performing,Income Variance
+APP-801130,Islamabad,Salaried Individual,Small Business Expansion,94051,1377950,61.56,Medium Risk,Defaulted,Employment Duration
+APP-801131,Islamabad,Salaried Individual,Educational Loan,199070,1145243,46.01,High Risk,Defaulted,Employment Duration
+APP-801132,Rawalpindi,Unemployed/Freelance,Small Business Expansion,148826,352950,43.77,Medium Risk,Performing,Debt-to-Income Ratio
+APP-801133,Islamabad,Self-Employed Professional,Debt Consolidation,155526,1984979,43.12,Low Risk,Performing,Income Variance
+APP-801134,Lahore,Unemployed/Freelance,Small Business Expansion,158645,628558,31.9,Low Risk,Performing,Income Variance
+APP-801135,Rawalpindi,Salaried Individual,Small Business Expansion,305394,1774318,7.11,Low Risk,Performing,Employment Duration
+APP-801136,Faisalabad,Business Owner,Debt Consolidation,77056,149997,36.47,Low Risk,Performing,Prior Credit History
+APP-801137,Multan,Self-Employed Professional,Educational Loan,261333,1466733,42.75,High Risk,Defaulted,Income Variance
+APP-801138,Lahore,Business Owner,Debt Consolidation,205299,1426871,52.88,Medium Risk,Defaulted,Income Variance
+APP-801139,Karachi,Self-Employed Professional,Debt Consolidation,275097,783357,18.71,Medium Risk,Defaulted,Prior Credit History
+APP-801140,Faisalabad,Business Owner,Educational Loan,314522,169202,33.1,Low Risk,Performing,Debt-to-Income Ratio
+APP-801141,Islamabad,Salaried Individual,Home Renovation,157566,1999863,35.95,Low Risk,Defaulted,Income Variance
+APP-801142,Lahore,Unemployed/Freelance,Debt Consolidation,240720,2377298,17.36,Low Risk,Performing,Debt-to-Income Ratio
+APP-801143,Karachi,Self-Employed Professional,Educational Loan,197846,1859855,60.65,High Risk,Defaulted,Prior Credit History
+APP-801144,Rawalpindi,Salaried Individual,Educational Loan,85064,173482,44.4,Low Risk,Performing,Debt-to-Income Ratio
+APP-801145,Islamabad,Self-Employed Professional,Debt Consolidation,124030,1813854,33.91,Medium Risk,Performing,Employment Duration
+APP-801146,Karachi,Self-Employed Professional,Educational Loan,93281,510006,30.29,Low Risk,Performing,Debt-to-Income Ratio
+APP-801147,Lahore,Unemployed/Freelance,Home Renovation,266780,1939553,12.41,Low Risk,Defaulted,Employment Duration
+APP-801148,Rawalpindi,Unemployed/Freelance,Debt Consolidation,153266,2198563,39.77,Low Risk,Defaulted,Prior Credit History
+APP-801149,Rawalpindi,Self-Employed Professional,Small Business Expansion,218753,534753,39.01,Low Risk,Performing,Debt-to-Income Ratio
+APP-801150,Islamabad,Business Owner,Debt Consolidation,311610,199571,6.21,Medium Risk,Performing,Income Variance
+APP-801151,Lahore,Business Owner,Small Business Expansion,204352,1748194,46.26,Low Risk,Performing,Debt-to-Income Ratio
+APP-801152,Rawalpindi,Self-Employed Professional,Educational Loan,278400,1200688,6.55,High Risk,Defaulted,Employment Duration
+APP-801153,Karachi,Salaried Individual,Home Renovation,224126,2315516,11.94,Low Risk,Performing,Prior Credit History
+APP-801154,Lahore,Business Owner,Small Business Expansion,222780,1604697,27.05,Low Risk,Performing,Prior Credit History
+APP-801155,Faisalabad,Business Owner,Debt Consolidation,270266,2479459,17.43,Low Risk,Performing,Income Variance
+APP-801156,Lahore,Business Owner,Home Renovation,76510,1855021,141.61,Low Risk,Performing,Employment Duration
+APP-801157,Multan,Self-Employed Professional,Home Renovation,221616,933096,19.54,High Risk,Defaulted,Employment Duration
+APP-801158,Islamabad,Unemployed/Freelance,Educational Loan,164866,1251922,27.77,Low Risk,Performing,Prior Credit History
+APP-801159,Faisalabad,Unemployed/Freelance,Debt Consolidation,339086,537001,16.62,Low Risk,Performing,Income Variance
+APP-801160,Faisalabad,Business Owner,Small Business Expansion,49039,1009488,143.73,High Risk,Performing,Debt-to-Income Ratio
+APP-801161,Rawalpindi,Business Owner,Educational Loan,262039,1154996,31.37,Medium Risk,Performing,Debt-to-Income Ratio
+APP-801162,Lahore,Self-Employed Professional,Small Business Expansion,345862,2455126,25.58,Medium Risk,Performing,Employment Duration
+APP-801163,Rawalpindi,Self-Employed Professional,Home Renovation,90630,258723,107.5,Medium Risk,Defaulted,Employment Duration
+APP-801164,Karachi,Unemployed/Freelance,Debt Consolidation,154304,2442637,69.58,Medium Risk,Defaulted,Debt-to-Income Ratio
+APP-801165,Faisalabad,Business Owner,Educational Loan,277507,712456,36.96,Low Risk,Defaulted,Employment Duration
+APP-801166,Rawalpindi,Salaried Individual,Educational Loan,199076,204696,56.51,Medium Risk,Defaulted,Income Variance
+APP-801167,Islamabad,Business Owner,Home Renovation,309984,2121885,5.02,Low Risk,Performing,Prior Credit History
+APP-801168,Faisalabad,Unemployed/Freelance,Educational Loan,207025,2105011,50.48,Low Risk,Defaulted,Employment Duration
+APP-801169,Faisalabad,Unemployed/Freelance,Educational Loan,94591,2081709,24.12,Low Risk,Performing,Prior Credit History
+APP-801170,Rawalpindi,Salaried Individual,Debt Consolidation,328857,1726984,6.04,Medium Risk,Defaulted,Employment Duration
+APP-801171,Faisalabad,Salaried Individual,Educational Loan,123117,2403245,78.7,Low Risk,Defaulted,Prior Credit History
+APP-801172,Lahore,Business Owner,Small Business Expansion,223415,1347789,45.6,High Risk,Defaulted,Income Variance
+APP-801173,Faisalabad,Self-Employed Professional,Small Business Expansion,269817,2083662,25.19,Medium Risk,Performing,Income Variance
+APP-801174,Karachi,Unemployed/Freelance,Debt Consolidation,77004,2310676,74.4,Low Risk,Defaulted,Prior Credit History
+APP-801175,Islamabad,Salaried Individual,Debt Consolidation,56770,1510856,88.26,Medium Risk,Performing,Income Variance
+APP-801176,Islamabad,Self-Employed Professional,Small Business Expansion,131948,1163165,50.88,Medium Risk,Performing,Debt-to-Income Ratio
+APP-801177,Karachi,Salaried Individual,Small Business Expansion,86706,966191,105.59,Medium Risk,Defaulted,Prior Credit History
+APP-801178,Multan,Self-Employed Professional,Small Business Expansion,65660,1331772,119.48,High Risk,Defaulted,Debt-to-Income Ratio
+APP-801179,Islamabad,Self-Employed Professional,Small Business Expansion,254623,518657,38.53,Low Risk,Performing,Prior Credit History
+APP-801180,Karachi,Business Owner,Small Business Expansion,263776,1476796,19.55,Low Risk,Performing,Employment Duration
+APP-801181,Karachi,Salaried Individual,Educational Loan,263228,1913489,16.43,Low Risk,Performing,Debt-to-Income Ratio
+APP-801182,Faisalabad,Self-Employed Professional,Home Renovation,156450,2334876,37.08,Low Risk,Defaulted,Employment Duration
+APP-801183,Karachi,Business Owner,Home Renovation,327559,1698452,9.66,Low Risk,Performing,Employment Duration
+APP-801184,Multan,Self-Employed Professional,Educational Loan,264284,1710011,44.36,Low Risk,Performing,Employment Duration
+APP-801185,Faisalabad,Unemployed/Freelance,Debt Consolidation,131412,1553023,69.37,Medium Risk,Performing,Employment Duration
+APP-801186,Lahore,Business Owner,Small Business Expansion,256325,2302828,35.86,Medium Risk,Performing,Income Variance
+APP-801187,Islamabad,Unemployed/Freelance,Debt Consolidation,129820,2437495,81.01,Medium Risk,Defaulted,Debt-to-Income Ratio
+APP-801188,Lahore,Business Owner,Debt Consolidation,160086,2189786,71.89,Low Risk,Performing,Debt-to-Income Ratio
+APP-801189,Karachi,Salaried Individual,Debt Consolidation,180021,1570022,45.66,Low Risk,Performing,Employment Duration
+APP-801190,Islamabad,Self-Employed Professional,Small Business Expansion,282754,1159727,30.37,Medium Risk,Performing,Debt-to-Income Ratio
+APP-801191,Lahore,Self-Employed Professional,Debt Consolidation,253184,1817214,44.71,High Risk,Defaulted,Employment Duration
+APP-801192,Rawalpindi,Unemployed/Freelance,Small Business Expansion,307868,1246986,33.68,Low Risk,Performing,Employment Duration
+APP-801193,Karachi,Unemployed/Freelance,Home Renovation,197552,672333,57.09,Low Risk,Defaulted,Employment Duration
+APP-801194,Islamabad,Unemployed/Freelance,Home Renovation,150430,722261,49.44,Medium Risk,Performing,Prior Credit History
+APP-801195,Islamabad,Salaried Individual,Educational Loan,59060,906315,120.41,Low Risk,Defaulted,Income Variance
+APP-801196,Islamabad,Salaried Individual,Educational Loan,282831,430201,28.0,Low Risk,Performing,Employment Duration
+APP-801197,Faisalabad,Self-Employed Professional,Small Business Expansion,132096,1080448,58.87,High Risk,Defaulted,Prior Credit History
+APP-801198,Faisalabad,Self-Employed Professional,Debt Consolidation,154155,270459,34.06,Low Risk,Defaulted,Income Variance
+APP-801199,Multan,Unemployed/Freelance,Educational Loan,179534,762505,45.89,Medium Risk,Performing,Prior Credit History
+APP-801200,Islamabad,Self-Employed Professional,Educational Loan,68188,2495772,69.7,Low Risk,Defaulted,Employment Duration
+APP-801201,Lahore,Unemployed/Freelance,Educational Loan,55344,2004043,83.17,Low Risk,Defaulted,Employment Duration
+APP-801202,Islamabad,Unemployed/Freelance,Debt Consolidation,156949,512388,17.14,Medium Risk,Performing,Debt-to-Income Ratio
+APP-801203,Multan,Unemployed/Freelance,Debt Consolidation,164845,1957011,61.04,Low Risk,Defaulted,Employment Duration
+APP-801204,Faisalabad,Unemployed/Freelance,Small Business Expansion,313544,551198,26.21,High Risk,Defaulted,Prior Credit History
+APP-801205,Karachi,Business Owner,Small Business Expansion,271680,1679510,20.4,Medium Risk,Performing,Prior Credit History
+APP-801206,Faisalabad,Business Owner,Debt Consolidation,284081,1477311,19.56,Low Risk,Defaulted,Employment Duration
+APP-801207,Karachi,Salaried Individual,Small Business Expansion,326380,2148130,27.17,Low Risk,Performing,Prior Credit History
+APP-801208,Lahore,Business Owner,Educational Loan,253666,1569992,20.35,Low Risk,Defaulted,Employment Duration
+APP-801209,Faisalabad,Self-Employed Professional,Small Business Expansion,199376,343193,43.05,Low Risk,Performing,Prior Credit History
+APP-801210,Karachi,Self-Employed Professional,Debt Consolidation,141316,1136452,13.42,Low Risk,Defaulted,Income Variance
+APP-801211,Islamabad,Business Owner,Educational Loan,234733,691862,40.56,Medium Risk,Performing,Employment Duration
+APP-801212,Karachi,Salaried Individual,Debt Consolidation,61266,549189,88.05,Low Risk,Performing,Employment Duration
+APP-801213,Islamabad,Unemployed/Freelance,Debt Consolidation,290718,2119556,10.91,Low Risk,Performing,Income Variance
+APP-801214,Islamabad,Business Owner,Small Business Expansion,236105,2476400,29.88,Low Risk,Performing,Income Variance
+APP-801215,Multan,Business Owner,Educational Loan,158481,2119665,63.83,Medium Risk,Performing,Debt-to-Income Ratio
+APP-801216,Rawalpindi,Business Owner,Debt Consolidation,72456,1250223,141.12,High Risk,Defaulted,Debt-to-Income Ratio
+APP-801217,Rawalpindi,Self-Employed Professional,Educational Loan,331677,145258,23.09,High Risk,Defaulted,Income Variance
+APP-801218,Multan,Unemployed/Freelance,Home Renovation,105599,442093,111.38,Low Risk,Defaulted,Income Variance
+APP-801219,Karachi,Self-Employed Professional,Home Renovation,85339,924685,85.1,Low Risk,Defaulted,Income Variance
+APP-801220,Faisalabad,Business Owner,Small Business Expansion,131327,393772,83.54,Low Risk,Defaulted,Income Variance
+APP-801221,Karachi,Unemployed/Freelance,Educational Loan,279779,1414032,31.72,Medium Risk,Performing,Income Variance
+APP-801222,Karachi,Business Owner,Small Business Expansion,243317,1704864,24.61,Low Risk,Performing,Employment Duration
+APP-801223,Islamabad,Salaried Individual,Small Business Expansion,226002,792003,52.03,Low Risk,Defaulted,Income Variance
+APP-801224,Karachi,Self-Employed Professional,Educational Loan,87392,671268,38.01,Low Risk,Performing,Debt-to-Income Ratio
+APP-801225,Rawalpindi,Unemployed/Freelance,Small Business Expansion,118929,1296408,96.27,Low Risk,Performing,Debt-to-Income Ratio
+APP-801226,Lahore,Business Owner,Small Business Expansion,216346,2314439,44.24,Low Risk,Performing,Income Variance
+APP-801227,Multan,Self-Employed Professional,Home Renovation,89308,2123751,41.4,Low Risk,Performing,Income Variance
+APP-801228,Faisalabad,Self-Employed Professional,Educational Loan,313016,1355769,16.29,Low Risk,Performing,Debt-to-Income Ratio
+APP-801229,Lahore,Self-Employed Professional,Home Renovation,260161,1238760,6.91,Low Risk,Performing,Prior Credit History
+APP-801230,Karachi,Business Owner,Debt Consolidation,83070,371320,73.16,High Risk,Performing,Employment Duration
+APP-801231,Rawalpindi,Self-Employed Professional,Educational Loan,135526,1834180,55.35,Medium Risk,Defaulted,Employment Duration
+APP-801232,Karachi,Salaried Individual,Debt Consolidation,178004,286109,62.48,Medium Risk,Defaulted,Prior Credit History
+APP-801233,Multan,Self-Employed Professional,Small Business Expansion,289063,846700,17.98,Low Risk,Defaulted,Prior Credit History
+APP-801234,Rawalpindi,Self-Employed Professional,Home Renovation,190709,1846412,32.63,Low Risk,Performing,Debt-to-Income Ratio
+APP-801235,Rawalpindi,Salaried Individual,Debt Consolidation,334989,2144704,6.12,Low Risk,Performing,Income Variance
+APP-801236,Rawalpindi,Unemployed/Freelance,Home Renovation,321021,2208292,14.3,High Risk,Performing,Prior Credit History
+APP-801237,Islamabad,Business Owner,Educational Loan,121132,245627,23.32,Low Risk,Performing,Income Variance
+APP-801238,Faisalabad,Business Owner,Debt Consolidation,236680,1420593,13.05,Low Risk,Performing,Debt-to-Income Ratio
+APP-801239,Multan,Self-Employed Professional,Educational Loan,311363,1551469,18.64,Low Risk,Performing,Prior Credit History
+APP-801240,Lahore,Unemployed/Freelance,Debt Consolidation,340406,158906,24.05,Low Risk,Performing,Debt-to-Income Ratio
+APP-801241,Karachi,Self-Employed Professional,Home Renovation,206169,1364610,16.66,High Risk,Defaulted,Employment Duration
+APP-801242,Rawalpindi,Business Owner,Debt Consolidation,137624,1687448,70.5,Low Risk,Performing,Debt-to-Income Ratio
+APP-801243,Lahore,Salaried Individual,Educational Loan,70006,2219082,138.97,Low Risk,Performing,Income Variance
+APP-801244,Lahore,Self-Employed Professional,Educational Loan,259670,1381966,19.21,Low Risk,Performing,Debt-to-Income Ratio
+APP-801245,Lahore,Salaried Individual,Educational Loan,118148,539658,33.69,Low Risk,Performing,Income Variance
+APP-801246,Islamabad,Self-Employed Professional,Small Business Expansion,342439,1849865,24.42,Medium Risk,Performing,Income Variance
+APP-801247,Islamabad,Salaried Individual,Small Business Expansion,255555,2034903,15.21,Low Risk,Performing,Income Variance
+APP-801248,Karachi,Salaried Individual,Debt Consolidation,221548,1199749,14.34,Low Risk,Performing,Income Variance
+APP-801249,Lahore,Business Owner,Debt Consolidation,141546,1333987,29.9,High Risk,Defaulted,Prior Credit History
+APP-801250,Karachi,Business Owner,Small Business Expansion,186234,1913203,14.87,Medium Risk,Performing,Prior Credit History
+APP-801251,Lahore,Unemployed/Freelance,Educational Loan,156228,794678,71.35,Low Risk,Performing,Prior Credit History
+APP-801252,Rawalpindi,Self-Employed Professional,Debt Consolidation,79035,447286,27.65,Low Risk,Performing,Employment Duration
+APP-801253,Lahore,Unemployed/Freelance,Home Renovation,233754,138287,32.84,High Risk,Defaulted,Employment Duration
+APP-801254,Lahore,Self-Employed Professional,Educational Loan,290213,1583103,40.56,Medium Risk,Performing,Employment Duration
+APP-801255,Lahore,Business Owner,Educational Loan,209552,324982,54.98,Low Risk,Performing,Prior Credit History
+APP-801256,Faisalabad,Salaried Individual,Educational Loan,57371,472408,180.48,Low Risk,Defaulted,Income Variance
+APP-801257,Faisalabad,Business Owner,Educational Loan,326397,855265,21.64,Medium Risk,Performing,Income Variance
+APP-801258,Multan,Self-Employed Professional,Home Renovation,206047,2395063,13.04,Low Risk,Performing,Debt-to-Income Ratio
+APP-801259,Faisalabad,Business Owner,Debt Consolidation,101458,459651,53.79,Medium Risk,Performing,Debt-to-Income Ratio
+APP-801260,Lahore,Business Owner,Educational Loan,229513,959274,35.15,Medium Risk,Performing,Debt-to-Income Ratio
+APP-801261,Rawalpindi,Business Owner,Small Business Expansion,306773,2036176,5.92,Low Risk,Performing,Income Variance
+APP-801262,Faisalabad,Self-Employed Professional,Educational Loan,285858,344285,30.3,Medium Risk,Performing,Income Variance
+APP-801263,Rawalpindi,Self-Employed Professional,Small Business Expansion,295513,1090173,23.94,Low Risk,Performing,Income Variance
+APP-801264,Faisalabad,Salaried Individual,Small Business Expansion,218780,2483037,32.31,Low Risk,Performing,Income Variance
+APP-801265,Islamabad,Unemployed/Freelance,Educational Loan,239832,2025934,40.39,Medium Risk,Performing,Income Variance
+APP-801266,Rawalpindi,Salaried Individual,Debt Consolidation,159372,1375574,17.84,Low Risk,Defaulted,Income Variance
+APP-801267,Lahore,Salaried Individual,Small Business Expansion,323969,1187785,19.2,Medium Risk,Performing,Employment Duration
+APP-801268,Rawalpindi,Business Owner,Small Business Expansion,119409,1753374,28.22,Medium Risk,Performing,Income Variance
+APP-801269,Karachi,Salaried Individual,Educational Loan,120054,923206,83.14,Medium Risk,Performing,Debt-to-Income Ratio
+APP-801270,Islamabad,Salaried Individual,Small Business Expansion,76633,166407,24.99,Medium Risk,Performing,Employment Duration
+APP-801271,Islamabad,Salaried Individual,Small Business Expansion,134886,992349,56.51,Medium Risk,Defaulted,Prior Credit History
+APP-801272,Karachi,Unemployed/Freelance,Home Renovation,133595,2215026,17.43,Low Risk,Performing,Prior Credit History
+APP-801273,Islamabad,Business Owner,Debt Consolidation,326792,111757,11.32,Low Risk,Performing,Employment Duration
+APP-801274,Multan,Salaried Individual,Home Renovation,208740,458219,17.03,Low Risk,Defaulted,Income Variance
+APP-801275,Rawalpindi,Unemployed/Freelance,Debt Consolidation,103542,1062530,91.08,Low Risk,Defaulted,Debt-to-Income Ratio
+APP-801276,Islamabad,Unemployed/Freelance,Small Business Expansion,339027,1743680,15.1,Medium Risk,Performing,Employment Duration
+APP-801277,Lahore,Business Owner,Small Business Expansion,219355,1015767,20.4,Low Risk,Performing,Income Variance
+APP-801278,Faisalabad,Salaried Individual,Small Business Expansion,201453,1450261,25.98,Low Risk,Performing,Employment Duration
+APP-801279,Faisalabad,Business Owner,Debt Consolidation,198528,1653613,15.94,Low Risk,Performing,Employment Duration
+APP-801280,Islamabad,Business Owner,Home Renovation,244970,1265151,25.32,Medium Risk,Performing,Income Variance
+APP-801281,Rawalpindi,Salaried Individual,Small Business Expansion,149349,1296032,77.52,Low Risk,Defaulted,Employment Duration
+APP-801282,Faisalabad,Unemployed/Freelance,Educational Loan,101863,1030858,20.41,Low Risk,Performing,Employment Duration
+APP-801283,Faisalabad,Self-Employed Professional,Educational Loan,167954,2466786,67.88,Low Risk,Defaulted,Debt-to-Income Ratio
+APP-801284,Karachi,Unemployed/Freelance,Home Renovation,283216,1001908,39.26,Medium Risk,Performing,Prior Credit History
+APP-801285,Faisalabad,Salaried Individual,Home Renovation,266932,1930130,35.66,Low Risk,Performing,Debt-to-Income Ratio
+APP-801286,Karachi,Self-Employed Professional,Debt Consolidation,279621,215992,10.74,Low Risk,Performing,Employment Duration
+APP-801287,Karachi,Unemployed/Freelance,Home Renovation,180367,315858,51.01,Low Risk,Defaulted,Debt-to-Income Ratio
+APP-801288,Islamabad,Business Owner,Home Renovation,105202,287309,43.53,High Risk,Defaulted,Income Variance
+APP-801289,Karachi,Business Owner,Educational Loan,123841,832708,30.66,Low Risk,Performing,Debt-to-Income Ratio
+APP-801290,Islamabad,Business Owner,Home Renovation,268104,1422861,18.91,Low Risk,Performing,Debt-to-Income Ratio
+APP-801291,Lahore,Business Owner,Educational Loan,325959,739009,28.12,Low Risk,Performing,Debt-to-Income Ratio
+APP-801292,Rawalpindi,Business Owner,Educational Loan,309456,1579883,8.49,Low Risk,Performing,Prior Credit History
+APP-801293,Karachi,Self-Employed Professional,Small Business Expansion,149293,1020342,51.57,Low Risk,Defaulted,Prior Credit History
+APP-801294,Lahore,Business Owner,Debt Consolidation,238614,1375158,25.47,Low Risk,Performing,Debt-to-Income Ratio
+APP-801295,Islamabad,Business Owner,Debt Consolidation,267251,1701989,36.73,Medium Risk,Performing,Debt-to-Income Ratio
+APP-801296,Karachi,Salaried Individual,Small Business Expansion,175209,1795913,11.21,Low Risk,Performing,Prior Credit History
+APP-801297,Multan,Salaried Individual,Educational Loan,162778,1512883,61.82,Low Risk,Performing,Employment Duration
+APP-801298,Multan,Self-Employed Professional,Educational Loan,346113,2309971,27.29,Low Risk,Performing,Employment Duration
+APP-801299,Multan,Salaried Individual,Home Renovation,119054,369853,31.18,Low Risk,Performing,Debt-to-Income Ratio
+APP-801300,Islamabad,Unemployed/Freelance,Home Renovation,297867,1646704,32.17,Medium Risk,Defaulted,Income Variance
+APP-801301,Multan,Self-Employed Professional,Home Renovation,101734,1232456,71.8,Medium Risk,Defaulted,Prior Credit History
+APP-801302,Islamabad,Salaried Individual,Small Business Expansion,129660,262797,26.71,Low Risk,Performing,Debt-to-Income Ratio
+APP-801303,Faisalabad,Unemployed/Freelance,Small Business Expansion,46723,946293,37.09,Low Risk,Performing,Debt-to-Income Ratio
+APP-801304,Multan,Business Owner,Educational Loan,223483,750896,10.28,Medium Risk,Defaulted,Prior Credit History
+APP-801305,Faisalabad,Salaried Individual,Educational Loan,338998,556404,24.46,Medium Risk,Defaulted,Income Variance
+APP-801306,Rawalpindi,Business Owner,Small Business Expansion,300999,1890519,25.08,Low Risk,Performing,Employment Duration
+APP-801307,Multan,Unemployed/Freelance,Educational Loan,166087,247261,35.22,Low Risk,Performing,Employment Duration
+APP-801308,Multan,Salaried Individual,Educational Loan,180253,912081,63.61,Low Risk,Defaulted,Prior Credit History
+APP-801309,Lahore,Self-Employed Professional,Home Renovation,118102,381804,55.33,Medium Risk,Defaulted,Prior Credit History
+APP-801310,Islamabad,Business Owner,Debt Consolidation,227607,739482,19.62,Medium Risk,Performing,Employment Duration
+APP-801311,Islamabad,Unemployed/Freelance,Debt Consolidation,70246,301355,96.82,Low Risk,Performing,Debt-to-Income Ratio
+APP-801312,Karachi,Business Owner,Debt Consolidation,79222,2090478,130.01,Low Risk,Performing,Debt-to-Income Ratio
+APP-801313,Islamabad,Unemployed/Freelance,Small Business Expansion,185338,633200,49.29,Low Risk,Performing,Debt-to-Income Ratio
+APP-801314,Multan,Self-Employed Professional,Home Renovation,105343,256637,70.19,Low Risk,Defaulted,Employment Duration
+APP-801315,Faisalabad,Salaried Individual,Educational Loan,100907,1731692,25.63,Medium Risk,Performing,Debt-to-Income Ratio
+APP-801316,Lahore,Unemployed/Freelance,Educational Loan,149483,2436674,16.56,Low Risk,Performing,Employment Duration
+APP-801317,Lahore,Self-Employed Professional,Small Business Expansion,269151,630009,15.68,Medium Risk,Performing,Debt-to-Income Ratio
+APP-801318,Lahore,Unemployed/Freelance,Educational Loan,144708,827635,71.66,High Risk,Performing,Employment Duration
+APP-801319,Rawalpindi,Business Owner,Home Renovation,287684,1005370,27.64,High Risk,Performing,Employment Duration
+APP-801320,Multan,Unemployed/Freelance,Home Renovation,273394,1792151,39.88,Low Risk,Performing,Employment Duration
+APP-801321,Islamabad,Self-Employed Professional,Educational Loan,161981,1614351,39.66,Medium Risk,Performing,Debt-to-Income Ratio
+APP-801322,Rawalpindi,Salaried Individual,Debt Consolidation,256024,1920596,39.46,Low Risk,Performing,Income Variance
+APP-801323,Multan,Salaried Individual,Small Business Expansion,229524,2443152,16.74,High Risk,Defaulted,Income Variance
+APP-801324,Faisalabad,Self-Employed Professional,Educational Loan,292054,2446754,19.86,Low Risk,Performing,Employment Duration
+APP-801325,Faisalabad,Business Owner,Educational Loan,294000,450908,34.6,Low Risk,Performing,Income Variance
+APP-801326,Islamabad,Self-Employed Professional,Small Business Expansion,183428,715037,24.96,Low Risk,Defaulted,Income Variance
+APP-801327,Faisalabad,Unemployed/Freelance,Educational Loan,215292,2397298,45.34,Medium Risk,Performing,Prior Credit History
+APP-801328,Rawalpindi,Unemployed/Freelance,Small Business Expansion,270432,488293,26.77,Medium Risk,Performing,Income Variance
+APP-801329,Rawalpindi,Unemployed/Freelance,Educational Loan,142197,940257,15.44,Low Risk,Performing,Employment Duration
+APP-801330,Islamabad,Self-Employed Professional,Debt Consolidation,253751,1992056,46.96,Low Risk,Performing,Prior Credit History
+APP-801331,Islamabad,Self-Employed Professional,Debt Consolidation,237201,2484636,29.47,Low Risk,Performing,Debt-to-Income Ratio
+APP-801332,Multan,Unemployed/Freelance,Small Business Expansion,216552,1822406,42.47,Medium Risk,Performing,Prior Credit History
+APP-801333,Faisalabad,Self-Employed Professional,Debt Consolidation,298823,1084702,30.8,Low Risk,Performing,Income Variance
+APP-801334,Lahore,Business Owner,Small Business Expansion,159321,1960024,22.85,Medium Risk,Performing,Employment Duration
+APP-801335,Faisalabad,Self-Employed Professional,Home Renovation,269730,1462781,12.99,Medium Risk,Performing,Prior Credit History
+APP-801336,Islamabad,Salaried Individual,Small Business Expansion,235212,487835,45.78,Medium Risk,Performing,Employment Duration
+APP-801337,Islamabad,Self-Employed Professional,Debt Consolidation,90273,2081351,131.35,High Risk,Defaulted,Debt-to-Income Ratio
+APP-801338,Karachi,Business Owner,Home Renovation,329888,1896747,8.89,Low Risk,Defaulted,Income Variance
+APP-801339,Rawalpindi,Self-Employed Professional,Home Renovation,216716,924901,8.65,Low Risk,Performing,Employment Duration
+APP-801340,Multan,Business Owner,Educational Loan,103711,1625437,89.18,Low Risk,Performing,Income Variance
+APP-801341,Lahore,Unemployed/Freelance,Educational Loan,277717,142701,37.76,Low Risk,Performing,Debt-to-Income Ratio
+APP-801342,Karachi,Business Owner,Debt Consolidation,186550,261325,62.91,Low Risk,Defaulted,Prior Credit History
+APP-801343,Karachi,Self-Employed Professional,Small Business Expansion,142945,684787,46.64,Low Risk,Performing,Income Variance
+APP-801344,Islamabad,Unemployed/Freelance,Home Renovation,240105,1888575,20.62,Low Risk,Performing,Prior Credit History
+APP-801345,Islamabad,Self-Employed Professional,Small Business Expansion,126368,570781,37.05,Low Risk,Performing,Debt-to-Income Ratio
+APP-801346,Rawalpindi,Unemployed/Freelance,Educational Loan,205962,2059101,14.84,Low Risk,Performing,Prior Credit History
+APP-801347,Karachi,Business Owner,Home Renovation,221259,1906273,14.73,High Risk,Defaulted,Income Variance
+APP-801348,Multan,Self-Employed Professional,Home Renovation,54455,609271,110.05,Medium Risk,Defaulted,Income Variance
+APP-801349,Multan,Self-Employed Professional,Educational Loan,201130,1551391,51.67,Medium Risk,Performing,Debt-to-Income Ratio
+APP-801350,Karachi,Salaried Individual,Debt Consolidation,70263,1160328,107.18,Low Risk,Performing,Income Variance
+APP-801351,Karachi,Business Owner,Debt Consolidation,48561,1186548,241.88,Low Risk,Defaulted,Prior Credit History
+APP-801352,Lahore,Business Owner,Small Business Expansion,312132,1528678,18.41,Medium Risk,Performing,Income Variance
+APP-801353,Islamabad,Salaried Individual,Home Renovation,74634,1024467,147.94,Low Risk,Defaulted,Income Variance
+APP-801354,Rawalpindi,Self-Employed Professional,Debt Consolidation,303670,1631914,5.48,Low Risk,Performing,Income Variance
+APP-801355,Multan,Business Owner,Small Business Expansion,191487,142668,46.2,Medium Risk,Performing,Prior Credit History
+APP-801356,Islamabad,Unemployed/Freelance,Debt Consolidation,314118,464477,8.31,Low Risk,Performing,Debt-to-Income Ratio
+APP-801357,Islamabad,Business Owner,Debt Consolidation,76240,1613681,72.63,Low Risk,Defaulted,Employment Duration
+APP-801358,Rawalpindi,Salaried Individual,Debt Consolidation,173272,1406699,55.87,Medium Risk,Performing,Income Variance
+APP-801359,Faisalabad,Business Owner,Debt Consolidation,336565,1666587,17.14,Medium Risk,Defaulted,Income Variance
+APP-801360,Islamabad,Self-Employed Professional,Educational Loan,187321,373516,13.72,High Risk,Performing,Employment Duration
+APP-801361,Multan,Self-Employed Professional,Debt Consolidation,282557,538535,18.68,Medium Risk,Performing,Employment Duration
+APP-801362,Rawalpindi,Salaried Individual,Small Business Expansion,321733,1609330,11.05,Low Risk,Performing,Prior Credit History
+APP-801363,Lahore,Business Owner,Debt Consolidation,205707,130139,49.46,Low Risk,Performing,Employment Duration
+APP-801364,Lahore,Salaried Individual,Educational Loan,305819,1111249,22.97,Low Risk,Performing,Prior Credit History
+APP-801365,Rawalpindi,Self-Employed Professional,Small Business Expansion,247768,777127,38.64,Medium Risk,Performing,Prior Credit History
+APP-801366,Islamabad,Unemployed/Freelance,Debt Consolidation,320812,1630265,12.62,Low Risk,Performing,Income Variance
+APP-801367,Islamabad,Salaried Individual,Home Renovation,278538,985112,30.42,High Risk,Performing,Debt-to-Income Ratio
+APP-801368,Multan,Business Owner,Small Business Expansion,192108,2161541,57.59,High Risk,Defaulted,Income Variance
+APP-801369,Faisalabad,Salaried Individual,Debt Consolidation,77772,1899605,58.92,High Risk,Defaulted,Income Variance
+APP-801370,Multan,Self-Employed Professional,Small Business Expansion,185986,832659,18.98,Low Risk,Performing,Employment Duration
+APP-801371,Rawalpindi,Unemployed/Freelance,Home Renovation,312665,416936,17.45,Low Risk,Performing,Prior Credit History
+APP-801372,Islamabad,Self-Employed Professional,Debt Consolidation,128576,2265305,30.83,Medium Risk,Performing,Prior Credit History
+APP-801373,Faisalabad,Salaried Individual,Small Business Expansion,156067,1588741,22.66,Low Risk,Performing,Income Variance
+APP-801374,Lahore,Business Owner,Home Renovation,61592,2080737,73.24,Medium Risk,Defaulted,Prior Credit History
+APP-801375,Karachi,Salaried Individual,Small Business Expansion,169336,2294740,18.19,Low Risk,Performing,Debt-to-Income Ratio
+APP-801376,Lahore,Unemployed/Freelance,Educational Loan,310512,1912353,13.68,Low Risk,Performing,Debt-to-Income Ratio
+APP-801377,Multan,Self-Employed Professional,Home Renovation,161929,2313332,13.66,High Risk,Defaulted,Employment Duration
+APP-801378,Multan,Salaried Individual,Debt Consolidation,219293,2258521,19.42,Low Risk,Performing,Debt-to-Income Ratio
+APP-801379,Rawalpindi,Self-Employed Professional,Home Renovation,98681,2260016,117.76,Medium Risk,Defaulted,Employment Duration
+APP-801380,Lahore,Salaried Individual,Home Renovation,65038,2225995,160.37,Low Risk,Defaulted,Prior Credit History
+APP-801381,Multan,Business Owner,Debt Consolidation,239397,2362760,9.94,Medium Risk,Performing,Employment Duration
+APP-801382,Faisalabad,Unemployed/Freelance,Small Business Expansion,197822,2426231,31.25,Low Risk,Performing,Employment Duration
+APP-801383,Rawalpindi,Self-Employed Professional,Home Renovation,261428,257559,22.13,Low Risk,Performing,Prior Credit History
+APP-801384,Faisalabad,Unemployed/Freelance,Home Renovation,336155,876135,19.29,Low Risk,Performing,Prior Credit History
+APP-801385,Multan,Unemployed/Freelance,Small Business Expansion,235329,777800,26.97,Low Risk,Performing,Debt-to-Income Ratio
+APP-801386,Lahore,Business Owner,Home Renovation,92421,1481350,71.3,Medium Risk,Defaulted,Debt-to-Income Ratio
+APP-801387,Lahore,Self-Employed Professional,Debt Consolidation,226325,1855983,33.89,Low Risk,Performing,Employment Duration
+APP-801388,Multan,Unemployed/Freelance,Educational Loan,156846,1122218,55.92,Low Risk,Defaulted,Prior Credit History
+APP-801389,Rawalpindi,Unemployed/Freelance,Debt Consolidation,55589,1734987,154.83,Low Risk,Defaulted,Employment Duration
+APP-801390,Karachi,Self-Employed Professional,Educational Loan,345772,349643,26.87,Low Risk,Performing,Debt-to-Income Ratio
+APP-801391,Multan,Self-Employed Professional,Small Business Expansion,259497,1620320,22.86,High Risk,Performing,Debt-to-Income Ratio
+APP-801392,Islamabad,Self-Employed Professional,Debt Consolidation,329581,607009,21.94,High Risk,Defaulted,Prior Credit History
+APP-801393,Islamabad,Unemployed/Freelance,Educational Loan,167696,1088121,44.44,High Risk,Defaulted,Income Variance
+APP-801394,Islamabad,Business Owner,Home Renovation,295168,824928,33.15,High Risk,Performing,Employment Duration
+APP-801395,Multan,Self-Employed Professional,Home Renovation,197852,266089,57.33,Medium Risk,Performing,Employment Duration
+APP-801396,Multan,Salaried Individual,Small Business Expansion,47521,2215414,205.27,Low Risk,Defaulted,Income Variance
+APP-801397,Rawalpindi,Unemployed/Freelance,Educational Loan,121406,1263831,62.61,Low Risk,Defaulted,Prior Credit History
+APP-801398,Karachi,Business Owner,Educational Loan,257061,2247463,14.78,Low Risk,Performing,Income Variance
+APP-801399,Faisalabad,Business Owner,Educational Loan,221308,1055340,37.21,High Risk,Defaulted,Employment Duration
+APP-801400,Lahore,Business Owner,Small Business Expansion,332094,1722677,13.18,Medium Risk,Performing,Debt-to-Income Ratio
+APP-801401,Multan,Self-Employed Professional,Small Business Expansion,120127,1748955,99.69,High Risk,Performing,Employment Duration
+APP-801402,Rawalpindi,Self-Employed Professional,Small Business Expansion,178015,2152368,65.79,Low Risk,Performing,Income Variance
+APP-801403,Islamabad,Self-Employed Professional,Home Renovation,186398,2041351,48.67,Medium Risk,Performing,Debt-to-Income Ratio
+APP-801404,Multan,Self-Employed Professional,Educational Loan,188282,2245763,33.4,Low Risk,Performing,Employment Duration
+APP-801405,Islamabad,Salaried Individual,Debt Consolidation,234785,1622621,50.86,Low Risk,Defaulted,Prior Credit History
+APP-801406,Rawalpindi,Unemployed/Freelance,Home Renovation,293161,1533162,15.64,Medium Risk,Performing,Employment Duration
+APP-801407,Islamabad,Salaried Individual,Educational Loan,144022,1380507,41.45,Low Risk,Performing,Employment Duration
+APP-801408,Multan,Unemployed/Freelance,Debt Consolidation,115366,2074147,49.21,Low Risk,Defaulted,Prior Credit History
+APP-801409,Lahore,Business Owner,Debt Consolidation,155786,731669,35.11,Low Risk,Performing,Employment Duration
+APP-801410,Rawalpindi,Unemployed/Freelance,Debt Consolidation,129783,2484376,49.26,High Risk,Defaulted,Income Variance
+APP-801411,Karachi,Salaried Individual,Educational Loan,53927,2332723,221.83,Medium Risk,Defaulted,Employment Duration
+APP-801412,Islamabad,Self-Employed Professional,Educational Loan,149494,159591,34.03,Low Risk,Performing,Prior Credit History
+APP-801413,Lahore,Unemployed/Freelance,Small Business Expansion,335004,1363422,9.61,Medium Risk,Defaulted,Employment Duration
+APP-801414,Islamabad,Business Owner,Home Renovation,326860,1816071,14.63,Low Risk,Defaulted,Employment Duration
+APP-801415,Karachi,Self-Employed Professional,Home Renovation,80262,1887701,84.49,Low Risk,Defaulted,Income Variance
+APP-801416,Lahore,Self-Employed Professional,Debt Consolidation,186008,532413,29.46,Low Risk,Performing,Prior Credit History
+APP-801417,Faisalabad,Self-Employed Professional,Home Renovation,263847,1864032,42.97,Low Risk,Performing,Debt-to-Income Ratio
+APP-801418,Faisalabad,Business Owner,Educational Loan,162967,167112,57.03,High Risk,Defaulted,Income Variance
+APP-801419,Lahore,Business Owner,Small Business Expansion,85082,1127490,47.21,Medium Risk,Performing,Income Variance
+APP-801420,Lahore,Unemployed/Freelance,Debt Consolidation,126508,622337,61.05,Low Risk,Performing,Income Variance
+APP-801421,Rawalpindi,Business Owner,Educational Loan,158916,2206902,29.28,High Risk,Performing,Debt-to-Income Ratio
+APP-801422,Rawalpindi,Salaried Individual,Home Renovation,130949,1802963,46.4,Low Risk,Performing,Employment Duration
+APP-801423,Multan,Self-Employed Professional,Debt Consolidation,105882,448194,56.24,Medium Risk,Defaulted,Income Variance
+APP-801424,Karachi,Self-Employed Professional,Educational Loan,93785,1884866,118.48,Low Risk,Defaulted,Debt-to-Income Ratio
+APP-801425,Rawalpindi,Self-Employed Professional,Small Business Expansion,310610,1768616,14.05,Medium Risk,Performing,Employment Duration
+APP-801426,Faisalabad,Business Owner,Debt Consolidation,205775,2330489,38.69,Low Risk,Performing,Prior Credit History
+APP-801427,Rawalpindi,Salaried Individual,Small Business Expansion,177180,1784397,42.83,Low Risk,Performing,Employment Duration
+APP-801428,Rawalpindi,Salaried Individual,Small Business Expansion,271428,361614,12.57,Low Risk,Defaulted,Prior Credit History
+APP-801429,Lahore,Business Owner,Small Business Expansion,187197,1302940,22.91,Low Risk,Performing,Employment Duration
+APP-801430,Faisalabad,Salaried Individual,Debt Consolidation,151733,2349009,28.77,High Risk,Defaulted,Debt-to-Income Ratio
+APP-801431,Rawalpindi,Unemployed/Freelance,Home Renovation,179714,1411197,15.42,High Risk,Defaulted,Employment Duration
+APP-801432,Multan,Salaried Individual,Debt Consolidation,242715,154885,20.86,Low Risk,Performing,Employment Duration
+APP-801433,Rawalpindi,Self-Employed Professional,Educational Loan,315617,2405815,26.06,Low Risk,Performing,Debt-to-Income Ratio
+APP-801434,Karachi,Unemployed/Freelance,Educational Loan,207046,2377878,43.0,Low Risk,Performing,Income Variance
+APP-801435,Faisalabad,Self-Employed Professional,Home Renovation,74932,1278409,86.95,High Risk,Performing,Prior Credit History
+APP-801436,Karachi,Salaried Individual,Home Renovation,61208,432109,62.3,High Risk,Defaulted,Employment Duration
+APP-801437,Lahore,Business Owner,Home Renovation,49808,393379,124.15,Medium Risk,Defaulted,Debt-to-Income Ratio
+APP-801438,Faisalabad,Salaried Individual,Small Business Expansion,294912,927436,23.57,Low Risk,Performing,Employment Duration
+APP-801439,Multan,Salaried Individual,Debt Consolidation,45132,2391322,68.74,Low Risk,Defaulted,Debt-to-Income Ratio
+APP-801440,Rawalpindi,Self-Employed Professional,Home Renovation,294840,1381734,18.76,Low Risk,Performing,Income Variance
+APP-801441,Lahore,Self-Employed Professional,Home Renovation,247335,105478,12.13,Low Risk,Defaulted,Employment Duration
+APP-801442,Islamabad,Unemployed/Freelance,Home Renovation,117036,2006146,94.89,Low Risk,Performing,Prior Credit History
+APP-801443,Multan,Salaried Individual,Educational Loan,338469,1422398,34.43,Low Risk,Performing,Debt-to-Income Ratio
+APP-801444,Faisalabad,Salaried Individual,Small Business Expansion,273925,1155241,21.78,Medium Risk,Performing,Prior Credit History
+APP-801445,Karachi,Salaried Individual,Home Renovation,271814,1774878,28.57,Low Risk,Performing,Debt-to-Income Ratio
+APP-801446,Multan,Business Owner,Educational Loan,298588,2037469,32.0,Medium Risk,Performing,Debt-to-Income Ratio
+APP-801447,Multan,Salaried Individual,Debt Consolidation,179212,1970808,12.21,Low Risk,Performing,Debt-to-Income Ratio
+APP-801448,Lahore,Salaried Individual,Educational Loan,217359,293169,34.01,Low Risk,Performing,Income Variance
+APP-801449,Multan,Salaried Individual,Debt Consolidation,131506,1380324,89.63,Low Risk,Defaulted,Income Variance
+APP-801450,Multan,Salaried Individual,Home Renovation,74632,1917834,120.36,Low Risk,Performing,Debt-to-Income Ratio
+APP-801451,Islamabad,Self-Employed Professional,Debt Consolidation,198867,1492141,48.11,Low Risk,Performing,Employment Duration
+APP-801452,Islamabad,Salaried Individual,Debt Consolidation,229937,339483,42.07,Low Risk,Defaulted,Income Variance
+APP-801453,Karachi,Business Owner,Home Renovation,260552,2492367,27.95,High Risk,Defaulted,Prior Credit History
+APP-801454,Karachi,Unemployed/Freelance,Educational Loan,284600,2325104,36.46,Low Risk,Performing,Income Variance
+APP-801455,Rawalpindi,Self-Employed Professional,Educational Loan,141574,512113,53.47,Low Risk,Defaulted,Debt-to-Income Ratio
+APP-801456,Lahore,Business Owner,Educational Loan,143772,2482453,74.46,Medium Risk,Performing,Debt-to-Income Ratio
+APP-801457,Rawalpindi,Salaried Individual,Home Renovation,119010,1086378,84.07,Low Risk,Defaulted,Prior Credit History
+APP-801458,Karachi,Business Owner,Small Business Expansion,222942,1102763,45.04,Medium Risk,Performing,Employment Duration
+APP-801459,Lahore,Business Owner,Educational Loan,170239,1669423,12.94,Low Risk,Performing,Prior Credit History
+APP-801460,Faisalabad,Unemployed/Freelance,Educational Loan,136795,1704652,63.21,Low Risk,Performing,Debt-to-Income Ratio
+APP-801461,Faisalabad,Business Owner,Home Renovation,245440,570922,22.73,Medium Risk,Performing,Income Variance
+APP-801462,Karachi,Salaried Individual,Small Business Expansion,165824,2391888,23.79,Low Risk,Performing,Income Variance
+APP-801463,Faisalabad,Business Owner,Educational Loan,79294,247174,32.53,Medium Risk,Performing,Prior Credit History
+APP-801464,Karachi,Business Owner,Home Renovation,122065,1551812,66.67,Medium Risk,Defaulted,Debt-to-Income Ratio
+APP-801465,Faisalabad,Unemployed/Freelance,Small Business Expansion,45707,1924823,190.72,Low Risk,Defaulted,Prior Credit History
+APP-801466,Faisalabad,Business Owner,Educational Loan,287971,1195933,36.65,Low Risk,Performing,Debt-to-Income Ratio
+APP-801467,Multan,Business Owner,Small Business Expansion,133018,1620964,27.98,Medium Risk,Performing,Income Variance
+APP-801468,Faisalabad,Salaried Individual,Home Renovation,265881,1690598,14.44,Medium Risk,Performing,Debt-to-Income Ratio
+APP-801469,Multan,Business Owner,Home Renovation,349038,480904,32.06,High Risk,Defaulted,Prior Credit History
+APP-801470,Faisalabad,Business Owner,Educational Loan,312235,1679598,10.73,Low Risk,Performing,Prior Credit History
+APP-801471,Faisalabad,Unemployed/Freelance,Educational Loan,321693,2173421,7.21,Low Risk,Performing,Employment Duration
+APP-801472,Rawalpindi,Self-Employed Professional,Educational Loan,152542,1719445,10.69,Medium Risk,Performing,Employment Duration
+APP-801473,Faisalabad,Unemployed/Freelance,Debt Consolidation,251739,1309246,12.8,Low Risk,Performing,Debt-to-Income Ratio
+APP-801474,Karachi,Salaried Individual,Educational Loan,294371,2019415,22.52,Low Risk,Performing,Income Variance
+APP-801475,Faisalabad,Business Owner,Debt Consolidation,197899,2162689,60.03,Medium Risk,Defaulted,Debt-to-Income Ratio
+APP-801476,Faisalabad,Unemployed/Freelance,Small Business Expansion,190295,245545,57.86,Medium Risk,Defaulted,Employment Duration
+APP-801477,Islamabad,Unemployed/Freelance,Educational Loan,176075,1094354,39.78,High Risk,Defaulted,Income Variance
+APP-801478,Faisalabad,Unemployed/Freelance,Debt Consolidation,243722,675054,30.2,Medium Risk,Performing,Employment Duration
+APP-801479,Karachi,Unemployed/Freelance,Small Business Expansion,47843,1946510,51.39,Low Risk,Performing,Income Variance
+APP-801480,Karachi,Business Owner,Home Renovation,266043,543576,32.45,Low Risk,Performing,Income Variance
+APP-801481,Islamabad,Self-Employed Professional,Debt Consolidation,177943,2173948,62.45,Low Risk,Performing,Debt-to-Income Ratio
+APP-801482,Faisalabad,Self-Employed Professional,Home Renovation,223664,2058267,14.2,High Risk,Performing,Debt-to-Income Ratio
+APP-801483,Islamabad,Salaried Individual,Debt Consolidation,119707,742313,15.78,Medium Risk,Performing,Prior Credit History
+APP-801484,Faisalabad,Salaried Individual,Educational Loan,173982,1875133,62.31,High Risk,Defaulted,Income Variance
+APP-801485,Rawalpindi,Self-Employed Professional,Home Renovation,189071,1619150,26.13,Low Risk,Performing,Debt-to-Income Ratio
+APP-801486,Faisalabad,Salaried Individual,Debt Consolidation,273469,539085,11.63,Medium Risk,Performing,Employment Duration
+APP-801487,Rawalpindi,Salaried Individual,Home Renovation,106156,619326,30.83,Low Risk,Defaulted,Employment Duration
+APP-801488,Lahore,Self-Employed Professional,Educational Loan,58209,2333807,150.85,Medium Risk,Defaulted,Income Variance
+APP-801489,Faisalabad,Salaried Individual,Small Business Expansion,186190,1789317,8.81,Medium Risk,Performing,Income Variance
+APP-801490,Rawalpindi,Unemployed/Freelance,Educational Loan,49832,1707862,208.66,Low Risk,Defaulted,Debt-to-Income Ratio
+APP-801491,Multan,Unemployed/Freelance,Small Business Expansion,313647,991729,13.17,Medium Risk,Performing,Employment Duration
+APP-801492,Islamabad,Unemployed/Freelance,Home Renovation,127582,601009,11.79,Low Risk,Performing,Debt-to-Income Ratio
+APP-801493,Faisalabad,Business Owner,Home Renovation,288006,738686,5.99,Low Risk,Performing,Debt-to-Income Ratio
+APP-801494,Lahore,Unemployed/Freelance,Educational Loan,103189,1797194,102.88,Medium Risk,Performing,Income Variance
+APP-801495,Rawalpindi,Salaried Individual,Debt Consolidation,302378,1933098,12.01,Low Risk,Performing,Income Variance
+APP-801496,Lahore,Business Owner,Debt Consolidation,343926,2302839,8.27,Low Risk,Performing,Employment Duration
+APP-801497,Faisalabad,Unemployed/Freelance,Small Business Expansion,244620,2376987,47.48,Low Risk,Performing,Debt-to-Income Ratio
+APP-801498,Multan,Salaried Individual,Home Renovation,196646,1007514,36.85,Low Risk,Performing,Income Variance
+APP-801499,Lahore,Unemployed/Freelance,Home Renovation,79945,920765,45.7,Low Risk,Performing,Prior Credit History
