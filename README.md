@@ -8,7 +8,7 @@ This visual intelligence layer explicitly translates the core dimensions evaluat
 ![Dashboard Preview](dashboard_preview.png)
 *Figure 1: Production-ready operational telemetry canvas containing portfolio risk tiers, algorithmic global feature importance drivers, and employment credit matrix configurations.*
 
-## 🎯 Project Core Maqsad (Objective)
+## 🎯 Project Core ]Objective:
 The objective of this project is to build a commercialized Business Intelligence (BI) environment for retail credit risk operations. Instead of traditional dark-box machine learning deployments, this framework bridges the gap between data science engines and bank risk managers by integrating advanced risk metrics alongside operational analytics.
 
 ### Key Analytical Modalities Evaluated:
